@@ -1,0 +1,401 @@
+Patient_ID,Age,Gender,Blood_Pressure_Systolic,Cholesterol_mg_dL,Fasting_Glucose_mg_dL,BMI,Smoker_Status,Primary_Diagnosis,Department,Admission_Type,Length_Of_Stay_Days,Total_Treatment_Cost
+PAT-8000,63,Male,125,175.0,111,31.0,Current,Asthma,Rheumatology,Elective,4,8177.02
+PAT-8001,73,Male,145,178.0,116,26.4,Current,Type 2 Diabetes,Pulmonology,Elective,2,5843.28
+PAT-8002,57,Male,148,185.0,126,13.5,Never,Type 2 Diabetes,General Medicine,Elective,1,3222.9
+PAT-8003,61,Male,130,147.0,107,26.5,Former,Type 2 Diabetes,Cardiology,Emergency,4,6927.8
+PAT-8004,64,Male,134,123.0,100,22.3,Current,Healthy / Routine,General Medicine,Follow-up,2,3153.37
+PAT-8005,53,Female,130,215.0,122,26.7,Never,Cardiovascular Disease,Rheumatology,Urgent,1,4666.99
+PAT-8006,38,Male,134,238.0,122,27.9,Current,Asthma,General Medicine,Follow-up,3,6636.28
+PAT-8007,23,Male,126,213.0,118,21.6,Former,Cardiovascular Disease,Cardiology,Elective,4,7832.05
+PAT-8008,65,Male,130,118.0,85,,Current,Cardiovascular Disease,General Medicine,Follow-up,1,3933.7
+PAT-8009,54,Female,154,122.0,103,25.0,Former,Cardiovascular Disease,Cardiology,Elective,4,7820.07
+PAT-8010,42,Female,154,212.0,55,29.3,Current,Osteoarthritis,Cardiology,Follow-up,1,4531.34
+PAT-8011,51,Female,138,239.0,130,30.0,Never,Healthy / Routine,General Medicine,Elective,3,4897.08
+PAT-8012,55,Female,143,224.0,90,26.1,Never,Asthma,Endocrinology,Urgent,1,4689.25
+PAT-8013,32,Female,111,167.0,125,20.9,Current,Asthma,Rheumatology,Elective,2,5848.12
+PAT-8014,74,Male,139,248.0,125,27.4,Current,Asthma,Rheumatology,Urgent,7,11072.24
+PAT-8015,58,Female,113,179.0,121,24.9,Former,Type 2 Diabetes,Pulmonology,Follow-up,1,4216.42
+PAT-8016,26,Male,128,191.0,115,28.4,Former,Asthma,General Medicine,Follow-up,1,3895.32
+PAT-8017,80,Male,146,196.0,109,34.1,Never,Osteoarthritis,Pulmonology,Elective,2,4617.55
+PAT-8018,21,Female,154,234.0,100,24.0,Never,Osteoarthritis,Endocrinology,Follow-up,2,4402.03
+PAT-8019,70,Female,149,225.0,100,21.1,Never,Healthy / Routine,Cardiology,Elective,2,4131.2
+PAT-8020,73,Male,152,223.0,125,26.2,Never,Cardiovascular Disease,General Medicine,Follow-up,14,18959.14
+PAT-8021,79,Female,144,211.0,106,35.1,Current,Healthy / Routine,Pulmonology,Urgent,3,4453.34
+PAT-8022,77,Female,140,166.0,66,30.6,Former,Osteoarthritis,Cardiology,Emergency,5,8425.19
+PAT-8023,36,Male,108,193.0,107,31.8,Current,Type 2 Diabetes,Pulmonology,Emergency,10,15215.03
+PAT-8024,84,Female,141,238.0,97,31.1,Former,Healthy / Routine,Pulmonology,Emergency,2,3727.2
+PAT-8025,21,Female,133,,53,18.2,Former,Asthma,Pulmonology,Urgent,1,4277.91
+PAT-8026,29,Female,149,222.0,104,29.9,Never,Cardiovascular Disease,General Medicine,Emergency,1,3861.15
+PAT-8027,21,Female,107,202.0,55,19.6,Never,Osteoarthritis,Pulmonology,Elective,1,3946.96
+PAT-8028,25,Female,137,161.0,106,19.4,Former,Healthy / Routine,Cardiology,Follow-up,2,3151.39
+PAT-8029,72,Female,126,196.0,112,36.1,Former,Osteoarthritis,Endocrinology,Urgent,1,3213.86
+PAT-8030,60,Female,142,166.0,128,18.1,Never,Healthy / Routine,General Medicine,Urgent,2,3230.41
+PAT-8031,56,Male,131,161.0,73,31.2,Current,Cardiovascular Disease,Endocrinology,Emergency,1,3978.41
+PAT-8032,84,Female,124,133.0,136,19.6,Former,Type 2 Diabetes,Pulmonology,Urgent,4,7772.22
+PAT-8033,54,Female,119,229.0,107,38.3,Current,Asthma,Rheumatology,Follow-up,4,8049.4
+PAT-8034,36,Female,133,243.0,122,28.8,Former,Healthy / Routine,Endocrinology,Follow-up,2,3569.88
+PAT-8035,38,Male,148,234.0,142,32.6,Never,Hypertension,Pulmonology,Elective,1,4185.98
+PAT-8036,28,Male,138,172.0,97,18.9,Current,Healthy / Routine,Endocrinology,Emergency,2,4573.12
+PAT-8037,45,Male,118,198.0,62,24.1,Former,Hypertension,Rheumatology,Emergency,1,3623.23
+PAT-8038,32,Female,131,176.0,75,27.1,Current,Hypertension,General Medicine,Emergency,1,3385.36
+PAT-8039,64,Male,152,238.0,119,23.7,Never,Hypertension,Cardiology,Urgent,5,8541.9
+PAT-8040,84,Male,130,175.0,103,19.6,Current,Cardiovascular Disease,Endocrinology,Urgent,1,4207.05
+PAT-8041,48,Male,143,225.0,98,22.1,Current,Asthma,Endocrinology,Follow-up,1,3582.08
+PAT-8042,76,Male,108,259.0,87,32.8,Current,Type 2 Diabetes,Pulmonology,Emergency,1,4486.83
+PAT-8043,43,Female,130,160.0,96,26.8,Former,Cardiovascular Disease,General Medicine,Follow-up,1,3477.39
+PAT-8044,75,Female,146,187.0,54,20.4,Former,Type 2 Diabetes,General Medicine,Elective,1,3960.16
+PAT-8045,18,Female,135,174.0,51,26.5,Former,Osteoarthritis,Rheumatology,Urgent,1,4028.24
+PAT-8046,37,Female,154,185.0,94,20.5,Current,Type 2 Diabetes,Pulmonology,Emergency,5,8519.4
+PAT-8047,50,Male,127,196.0,85,32.4,Former,Cardiovascular Disease,Pulmonology,Urgent,2,4755.22
+PAT-8048,41,Female,148,155.0,79,19.0,Never,Hypertension,Pulmonology,Elective,1,3714.57
+PAT-8049,73,Female,141,275.0,171,27.5,Former,Osteoarthritis,Rheumatology,Emergency,7,10473.74
+PAT-8050,30,Female,124,219.0,110,27.6,Former,Hypertension,General Medicine,Follow-up,3,6258.54
+PAT-8051,38,Male,133,176.0,75,26.9,Never,Hypertension,Rheumatology,Urgent,7,11061.15
+PAT-8052,25,Male,158,238.0,138,27.1,Current,Cardiovascular Disease,Endocrinology,Follow-up,5,8923.44
+PAT-8053,63,Female,149,227.0,99,20.0,Current,Healthy / Routine,Endocrinology,Follow-up,3,5256.09
+PAT-8054,64,Male,120,216.0,115,24.9,Former,Hypertension,General Medicine,Follow-up,7,11807.54
+PAT-8055,79,Female,109,237.0,56,20.2,Current,Healthy / Routine,General Medicine,Urgent,1,2493.22
+PAT-8056,73,Male,135,211.0,94,22.8,Former,Cardiovascular Disease,Endocrinology,Elective,3,5712.64
+PAT-8057,72,Female,125,195.0,117,16.0,Never,Asthma,General Medicine,Emergency,5,9031.06
+PAT-8058,29,Male,135,199.0,126,30.7,Former,Asthma,Pulmonology,Follow-up,5,8323.46
+PAT-8059,78,Male,137,257.0,129,39.8,Never,Type 2 Diabetes,Endocrinology,Emergency,1,4122.82
+PAT-8060,33,Male,158,200.0,94,31.9,Never,Asthma,Rheumatology,Urgent,1,3831.32
+PAT-8061,23,Male,145,252.0,87,28.2,Current,Hypertension,Endocrinology,Elective,7,10983.9
+PAT-8062,51,Female,130,180.0,89,31.0,Never,Cardiovascular Disease,Rheumatology,Elective,1,4438.07
+PAT-8063,30,Female,137,145.0,124,24.2,Former,Cardiovascular Disease,Cardiology,Urgent,1,4047.23
+PAT-8064,54,Male,114,217.0,133,23.8,Former,Hypertension,Pulmonology,Elective,1,4157.51
+PAT-8065,70,Male,168,235.0,143,30.0,Former,Hypertension,Endocrinology,Follow-up,3,5700.13
+PAT-8066,66,Male,152,265.0,67,23.6,Former,Cardiovascular Disease,Endocrinology,Emergency,1,4240.77
+PAT-8067,24,Male,109,171.0,124,30.7,Former,Cardiovascular Disease,Endocrinology,Elective,2,5317.86
+PAT-8068,29,Male,116,250.0,67,29.7,Former,Healthy / Routine,Rheumatology,Emergency,1,2410.58
+PAT-8069,45,Female,136,137.0,106,31.3,Former,Healthy / Routine,Endocrinology,Urgent,4,6154.07
+PAT-8070,51,Male,155,292.0,76,25.4,Current,Healthy / Routine,Pulmonology,Emergency,1,3041.02
+PAT-8071,34,Male,128,195.0,107,25.5,Former,Healthy / Routine,Pulmonology,Urgent,1,3207.32
+PAT-8072,59,Male,137,245.0,92,32.8,Never,Healthy / Routine,Endocrinology,Elective,1,1962.25
+PAT-8073,69,Male,125,259.0,100,33.2,Current,Cardiovascular Disease,Endocrinology,Urgent,4,6961.18
+PAT-8074,39,Female,120,225.0,94,22.8,Former,Osteoarthritis,Endocrinology,Emergency,10,14385.25
+PAT-8075,61,Male,135,282.0,37,30.5,Never,Hypertension,Pulmonology,Follow-up,14,20191.34
+PAT-8076,65,Female,129,211.0,123,18.1,Never,Type 2 Diabetes,Cardiology,Elective,10,15288.7
+PAT-8077,40,Male,123,180.0,91,33.8,Current,Osteoarthritis,Cardiology,Urgent,2,5096.5
+PAT-8078,83,Male,146,209.0,129,25.2,Former,Healthy / Routine,Endocrinology,Elective,1,2671.79
+PAT-8079,60,Female,102,218.0,125,30.5,Former,Type 2 Diabetes,Rheumatology,Urgent,4,7883.92
+PAT-8080,30,Female,125,126.0,134,23.1,Current,Type 2 Diabetes,Pulmonology,Emergency,2,4607.35
+PAT-8081,22,Male,123,193.0,110,22.7,Current,Type 2 Diabetes,Rheumatology,Urgent,5,8179.74
+PAT-8082,77,Female,163,217.0,74,27.4,Current,Cardiovascular Disease,Endocrinology,Urgent,1,3482.55
+PAT-8083,19,Female,124,97.0,127,21.8,Current,Type 2 Diabetes,Rheumatology,Urgent,5,8358.36
+PAT-8084,82,Male,156,285.0,147,21.2,Former,Osteoarthritis,General Medicine,Elective,3,5975.87
+PAT-8085,56,Female,132,237.0,102,29.5,Never,Cardiovascular Disease,General Medicine,Urgent,3,6664.71
+PAT-8086,37,Female,135,143.0,132,32.9,Former,Cardiovascular Disease,Endocrinology,Emergency,1,4080.1
+PAT-8087,60,Male,117,248.0,164,25.1,Never,Osteoarthritis,Pulmonology,Urgent,2,4697.56
+PAT-8088,38,Male,123,255.0,77,18.3,Current,Hypertension,General Medicine,Follow-up,2,5216.27
+PAT-8089,59,Female,119,207.0,72,26.9,Current,Cardiovascular Disease,Pulmonology,Elective,1,4598.97
+PAT-8090,22,Male,112,169.0,81,27.7,Former,Healthy / Routine,Cardiology,Urgent,7,9600.27
+PAT-8091,34,Male,127,209.0,81,22.0,Current,Healthy / Routine,Endocrinology,Emergency,1,3183.11
+PAT-8092,45,Male,142,249.0,130,38.2,Never,Hypertension,Rheumatology,Elective,3,7001.98
+PAT-8093,30,Female,130,196.0,81,25.9,Never,Hypertension,Rheumatology,Emergency,3,6653.15
+PAT-8094,79,Male,139,258.0,134,27.9,Current,Osteoarthritis,Pulmonology,Urgent,2,4709.04
+PAT-8095,29,Male,112,203.0,39,27.8,Never,Osteoarthritis,Endocrinology,Emergency,5,8189.08
+PAT-8096,20,Female,111,184.0,115,28.0,Current,Cardiovascular Disease,Cardiology,Emergency,2,4762.38
+PAT-8097,27,Female,125,195.0,115,17.0,Former,Osteoarthritis,Cardiology,Follow-up,7,11669.83
+PAT-8098,61,Male,139,179.0,62,28.2,Current,Asthma,Pulmonology,Emergency,7,11791.05
+PAT-8099,29,Male,89,237.0,91,25.3,Never,Type 2 Diabetes,Endocrinology,Emergency,1,4336.19
+PAT-8100,40,Male,158,190.0,102,26.9,Current,Cardiovascular Disease,General Medicine,Elective,1,3944.33
+PAT-8101,38,Female,129,199.0,106,33.2,Current,Type 2 Diabetes,Cardiology,Elective,1,3555.47
+PAT-8102,48,Female,90,181.0,89,22.1,Current,Osteoarthritis,Rheumatology,Urgent,1,4150.3
+PAT-8103,46,Female,123,243.0,88,24.4,Never,Type 2 Diabetes,General Medicine,Elective,4,6994.56
+PAT-8104,32,Female,103,174.0,118,23.7,Former,Healthy / Routine,Pulmonology,Elective,4,6349.85
+PAT-8105,81,Female,125,190.0,133,30.9,Former,Osteoarthritis,Rheumatology,Urgent,1,3314.92
+PAT-8106,73,Male,120,177.0,94,27.2,Current,Cardiovascular Disease,General Medicine,Urgent,1,3826.95
+PAT-8107,55,Female,142,222.0,135,35.0,Current,Type 2 Diabetes,Pulmonology,Follow-up,2,5339.73
+PAT-8108,30,Male,157,278.0,120,27.4,Former,Cardiovascular Disease,Cardiology,Follow-up,7,11713.58
+PAT-8109,84,Male,141,154.0,105,33.1,Former,Osteoarthritis,Pulmonology,Emergency,4,7008.44
+PAT-8110,43,Male,149,202.0,67,23.6,Never,Asthma,Pulmonology,Elective,2,5469.16
+PAT-8111,18,Male,141,123.0,141,20.6,Never,Healthy / Routine,Cardiology,Urgent,4,5814.49
+PAT-8112,33,Male,113,267.0,86,30.3,Never,Cardiovascular Disease,Endocrinology,Urgent,2,5614.51
+PAT-8113,64,Male,132,262.0,85,34.5,Former,Asthma,Pulmonology,Elective,1,4149.02
+PAT-8114,19,Male,113,241.0,122,28.7,Former,Hypertension,Cardiology,Follow-up,2,4974.36
+PAT-8115,65,Male,143,241.0,126,25.3,Current,Asthma,Rheumatology,Follow-up,1,3317.36
+PAT-8116,75,Female,179,226.0,119,23.1,Current,Healthy / Routine,Cardiology,Emergency,1,2070.21
+PAT-8117,42,Male,113,190.0,106,17.8,Current,Osteoarthritis,Cardiology,Follow-up,2,5608.37
+PAT-8118,49,Female,119,277.0,128,28.7,Former,Asthma,Cardiology,Follow-up,1,4366.98
+PAT-8119,43,Female,162,231.0,92,27.6,Never,Healthy / Routine,Cardiology,Emergency,5,7919.14
+PAT-8120,27,Female,122,190.0,145,30.0,Former,Osteoarthritis,General Medicine,Emergency,1,4150.65
+PAT-8121,44,Male,117,207.0,44,30.1,Current,Type 2 Diabetes,Endocrinology,Urgent,1,4462.27
+PAT-8122,80,Female,128,195.0,69,24.5,Never,Healthy / Routine,General Medicine,Follow-up,2,3398.24
+PAT-8123,71,Male,156,238.0,102,22.1,Current,Osteoarthritis,Rheumatology,Emergency,1,4097.27
+PAT-8124,33,Male,134,192.0,67,34.1,Former,Cardiovascular Disease,Pulmonology,Elective,14,18845.51
+PAT-8125,77,Female,152,196.0,135,25.7,Never,Cardiovascular Disease,Pulmonology,Emergency,5,8283.31
+PAT-8126,74,Male,147,156.0,83,29.5,Never,Cardiovascular Disease,Endocrinology,Follow-up,1,3884.46
+PAT-8127,23,Female,125,183.0,93,15.4,Former,Osteoarthritis,Rheumatology,Elective,1,4655.86
+PAT-8128,43,Male,137,210.0,92,18.4,Current,Osteoarthritis,Endocrinology,Elective,2,4508.82
+PAT-8129,27,Female,144,187.0,74,33.4,Never,Asthma,General Medicine,Follow-up,3,5629.52
+PAT-8130,82,Female,115,137.0,126,22.1,Never,Hypertension,Pulmonology,Follow-up,4,7223.6
+PAT-8131,40,Female,150,169.0,126,18.6,Former,Type 2 Diabetes,General Medicine,Urgent,3,6194.53
+PAT-8132,82,Male,133,203.0,96,23.9,Current,Hypertension,Pulmonology,Urgent,3,6806.48
+PAT-8133,52,Female,169,207.0,131,21.9,Current,Cardiovascular Disease,Cardiology,Elective,1,4447.99
+PAT-8134,66,Male,96,203.0,148,27.6,Never,Type 2 Diabetes,Cardiology,Urgent,3,6993.53
+PAT-8135,54,Male,125,210.0,127,24.2,Never,Healthy / Routine,General Medicine,Emergency,1,2264.45
+PAT-8136,46,Female,137,266.0,64,22.2,Never,Asthma,Cardiology,Emergency,3,7008.66
+PAT-8137,70,Male,130,134.0,138,22.9,Former,Cardiovascular Disease,Pulmonology,Follow-up,10,14233.51
+PAT-8138,46,Male,130,243.0,155,22.5,Never,Healthy / Routine,General Medicine,Elective,4,5550.68
+PAT-8139,84,Male,155,191.0,69,18.0,Current,Asthma,Cardiology,Follow-up,2,5640.36
+PAT-8140,36,Female,144,248.0,131,29.4,Former,Osteoarthritis,Endocrinology,Emergency,1,3957.13
+PAT-8141,22,Female,134,205.0,112,32.8,Never,Asthma,Cardiology,Elective,1,4191.85
+PAT-8142,50,Male,152,197.0,55,26.5,Former,Healthy / Routine,Rheumatology,Emergency,5,6933.82
+PAT-8143,82,Male,139,196.0,136,22.3,Current,Asthma,Cardiology,Urgent,4,6876.28
+PAT-8144,75,Male,138,231.0,98,21.3,Former,Healthy / Routine,Rheumatology,Follow-up,1,2666.11
+PAT-8145,39,Female,143,243.0,67,25.5,Current,Healthy / Routine,Rheumatology,Emergency,4,6561.79
+PAT-8146,47,Male,102,203.0,90,19.9,Current,Osteoarthritis,Endocrinology,Emergency,1,4358.75
+PAT-8147,51,Male,101,199.0,89,24.7,Current,Cardiovascular Disease,Endocrinology,Emergency,5,8701.32
+PAT-8148,45,Female,140,201.0,116,30.9,Current,Asthma,Rheumatology,Urgent,1,3447.76
+PAT-8149,41,Female,129,155.0,100,23.6,Current,Type 2 Diabetes,Pulmonology,Emergency,4,7379.67
+PAT-8150,52,Male,130,252.0,76,32.2,Former,Healthy / Routine,General Medicine,Urgent,7,9513.34
+PAT-8151,20,Female,131,222.0,119,30.0,Former,Hypertension,Cardiology,Urgent,1,4201.89
+PAT-8152,83,Male,136,181.0,132,30.3,Current,Asthma,Pulmonology,Elective,2,5284.75
+PAT-8153,70,Male,155,319.0,104,30.1,Former,Healthy / Routine,Rheumatology,Elective,3,5682.68
+PAT-8154,64,Female,154,226.0,64,29.0,Current,Healthy / Routine,Endocrinology,Elective,1,1958.88
+PAT-8155,59,Female,151,232.0,151,24.9,Current,Type 2 Diabetes,General Medicine,Follow-up,2,4639.87
+PAT-8156,38,Male,116,193.0,170,29.0,Former,Cardiovascular Disease,Endocrinology,Elective,2,4888.56
+PAT-8157,30,Male,134,244.0,60,25.0,Current,Osteoarthritis,Pulmonology,Elective,1,3774.65
+PAT-8158,41,Female,132,219.0,132,25.3,Current,Healthy / Routine,Endocrinology,Elective,2,3928.03
+PAT-8159,57,Female,121,209.0,72,24.8,Current,Osteoarthritis,Cardiology,Elective,1,3959.55
+PAT-8160,28,Male,130,229.0,104,32.6,Current,Osteoarthritis,Pulmonology,Emergency,1,3526.86
+PAT-8161,34,Female,119,174.0,99,9.0,Never,Healthy / Routine,Rheumatology,Emergency,1,2307.79
+PAT-8162,42,Female,147,229.0,149,25.4,Former,Asthma,Endocrinology,Follow-up,4,7007.41
+PAT-8163,74,Male,124,219.0,62,25.4,Never,Hypertension,Cardiology,Elective,5,8470.36
+PAT-8164,23,Male,154,178.0,164,28.0,Current,Osteoarthritis,General Medicine,Urgent,2,5552.31
+PAT-8165,55,Female,119,237.0,130,30.3,Never,Type 2 Diabetes,Cardiology,Emergency,2,4454.06
+PAT-8166,54,Female,115,249.0,114,34.1,Current,Cardiovascular Disease,Pulmonology,Elective,14,19171.26
+PAT-8167,79,Female,152,218.0,119,20.9,Never,Cardiovascular Disease,Endocrinology,Follow-up,4,8279.04
+PAT-8168,51,Male,130,162.0,100,34.2,Never,Type 2 Diabetes,Rheumatology,Elective,2,5892.74
+PAT-8169,54,Male,159,175.0,106,30.6,Never,Asthma,Endocrinology,Follow-up,4,6933.81
+PAT-8170,44,Female,135,198.0,92,27.5,Never,Hypertension,General Medicine,Elective,2,5468.04
+PAT-8171,77,Female,143,234.0,122,26.3,Former,Healthy / Routine,Endocrinology,Urgent,4,5800.01
+PAT-8172,21,Female,100,184.0,60,23.8,Former,Cardiovascular Disease,Pulmonology,Emergency,1,4090.63
+PAT-8173,60,Male,149,165.0,121,25.1,Former,Osteoarthritis,Rheumatology,Emergency,4,6833.23
+PAT-8174,21,Female,142,150.0,122,29.1,Former,Hypertension,Cardiology,Elective,2,5891.68
+PAT-8175,46,Male,132,254.0,143,28.0,Current,Cardiovascular Disease,Pulmonology,Emergency,3,6214.02
+PAT-8176,45,Female,129,219.0,125,30.0,Former,Cardiovascular Disease,Rheumatology,Urgent,5,9487.39
+PAT-8177,69,Male,146,244.0,119,29.7,Never,Cardiovascular Disease,General Medicine,Urgent,1,4134.46
+PAT-8178,74,Male,173,214.0,131,28.1,Never,Cardiovascular Disease,General Medicine,Follow-up,2,4517.79
+PAT-8179,50,Female,163,229.0,70,33.0,Never,Type 2 Diabetes,Rheumatology,Elective,1,3632.19
+PAT-8180,75,Male,114,216.0,116,20.4,Former,Cardiovascular Disease,Rheumatology,Emergency,1,3287.25
+PAT-8181,75,Female,150,242.0,136,28.4,Current,Healthy / Routine,Cardiology,Elective,3,5746.58
+PAT-8182,65,Male,140,195.0,107,27.8,Former,Asthma,Cardiology,Elective,1,3643.89
+PAT-8183,78,Female,150,240.0,69,28.9,Never,Healthy / Routine,Cardiology,Follow-up,5,7814.1
+PAT-8184,26,Male,114,184.0,125,27.6,Current,Healthy / Routine,Rheumatology,Follow-up,2,4367.43
+PAT-8185,71,Male,156,276.0,102,26.9,Current,Cardiovascular Disease,Pulmonology,Emergency,1,4331.35
+PAT-8186,47,Male,144,201.0,98,25.2,Current,Healthy / Routine,Endocrinology,Elective,1,2550.9
+PAT-8187,49,Female,128,205.0,160,28.8,Never,Healthy / Routine,Pulmonology,Emergency,1,2768.41
+PAT-8188,18,Female,118,183.0,155,25.5,Former,Healthy / Routine,Endocrinology,Follow-up,5,7823.83
+PAT-8189,29,Male,111,232.0,84,21.1,Never,Type 2 Diabetes,General Medicine,Elective,1,3967.15
+PAT-8190,19,Female,139,199.0,51,29.2,Former,Hypertension,Rheumatology,Follow-up,4,7464.28
+PAT-8191,78,Male,149,234.0,118,29.0,Current,Hypertension,Endocrinology,Follow-up,1,3743.65
+PAT-8192,83,Female,132,228.0,71,25.8,Current,Healthy / Routine,Rheumatology,Follow-up,2,4345.27
+PAT-8193,48,Male,120,214.0,150,31.3,Former,Hypertension,General Medicine,Emergency,2,5829.75
+PAT-8194,65,Male,136,156.0,75,32.9,Former,Osteoarthritis,Endocrinology,Elective,1,4075.15
+PAT-8195,34,Male,151,195.0,71,24.6,Never,Hypertension,Endocrinology,Urgent,2,4899.37
+PAT-8196,54,Female,138,216.0,100,29.3,Never,Healthy / Routine,Cardiology,Urgent,7,9652.78
+PAT-8197,65,Male,149,244.0,98,39.7,Never,Hypertension,Endocrinology,Follow-up,1,4136.9
+PAT-8198,73,Female,134,203.0,86,24.2,Current,Asthma,General Medicine,Elective,1,4563.96
+PAT-8199,51,Female,144,148.0,88,22.8,Former,Hypertension,Pulmonology,Emergency,2,5863.35
+PAT-8200,19,Female,133,221.0,124,25.5,Former,Cardiovascular Disease,General Medicine,Emergency,1,4044.07
+PAT-8201,25,Male,133,197.0,90,38.4,Never,Asthma,Cardiology,Follow-up,1,3751.68
+PAT-8202,56,Female,133,254.0,100,31.2,Current,Asthma,General Medicine,Urgent,2,5115.69
+PAT-8203,71,Male,109,221.0,68,29.2,Never,Healthy / Routine,Cardiology,Elective,1,2880.74
+PAT-8204,30,Female,137,208.0,84,25.2,Current,Healthy / Routine,General Medicine,Emergency,2,4049.54
+PAT-8205,24,Female,150,270.0,103,37.8,Current,Asthma,Pulmonology,Follow-up,1,4118.47
+PAT-8206,35,Male,111,237.0,100,16.1,Current,Osteoarthritis,General Medicine,Urgent,10,15448.16
+PAT-8207,80,Female,164,236.0,88,24.4,Current,Cardiovascular Disease,Endocrinology,Follow-up,10,14926.34
+PAT-8208,30,Male,110,183.0,51,25.8,Current,Type 2 Diabetes,Cardiology,Urgent,2,5412.78
+PAT-8209,51,Male,127,179.0,82,26.9,Never,Hypertension,Endocrinology,Follow-up,1,3353.8
+PAT-8210,76,Male,143,200.0,113,29.9,Current,Cardiovascular Disease,Pulmonology,Follow-up,1,4431.69
+PAT-8211,73,Male,126,280.0,100,26.3,Former,Osteoarthritis,Endocrinology,Elective,2,4584.96
+PAT-8212,21,Male,145,211.0,93,27.9,Current,Asthma,Pulmonology,Urgent,2,4831.97
+PAT-8213,25,Male,127,222.0,136,29.9,Former,Osteoarthritis,Cardiology,Urgent,4,7578.92
+PAT-8214,42,Female,132,245.0,102,20.4,Current,Asthma,General Medicine,Urgent,2,5134.9
+PAT-8215,45,Male,112,188.0,112,26.0,Current,Hypertension,Pulmonology,Elective,5,8830.3
+PAT-8216,29,Female,138,109.0,106,26.4,Former,Healthy / Routine,Cardiology,Follow-up,2,3768.22
+PAT-8217,25,Male,148,98.0,106,21.3,Current,Type 2 Diabetes,Rheumatology,Follow-up,1,3476.5
+PAT-8218,70,Female,167,225.0,41,20.6,Current,Asthma,Cardiology,Follow-up,2,5016.38
+PAT-8219,34,Male,154,154.0,134,26.9,Current,Asthma,Endocrinology,Urgent,5,8255.84
+PAT-8220,30,Female,109,232.0,128,30.9,Current,Healthy / Routine,Cardiology,Urgent,1,2251.29
+PAT-8221,68,Female,118,226.0,99,32.6,Never,Asthma,Rheumatology,Emergency,10,15084.35
+PAT-8222,69,Female,141,175.0,107,27.8,Current,Osteoarthritis,Endocrinology,Elective,3,6072.58
+PAT-8223,50,Female,119,240.0,81,23.0,Current,Hypertension,Cardiology,Urgent,5,9301.95
+PAT-8224,46,Female,164,192.0,69,36.0,Former,Cardiovascular Disease,Endocrinology,Emergency,2,4974.19
+PAT-8225,44,Male,123,275.0,80,17.9,Former,Cardiovascular Disease,General Medicine,Urgent,1,3747.44
+PAT-8226,46,Female,102,206.0,106,35.9,Former,Type 2 Diabetes,Cardiology,Emergency,1,4325.09
+PAT-8227,44,Male,118,232.0,102,24.6,Never,Hypertension,Rheumatology,Follow-up,7,10417.65
+PAT-8228,73,Female,129,181.0,108,17.4,Current,Type 2 Diabetes,Rheumatology,Elective,4,8189.31
+PAT-8229,37,Female,131,180.0,64,22.7,Current,Osteoarthritis,Endocrinology,Urgent,2,4976.29
+PAT-8230,59,Male,147,239.0,90,27.0,Never,Osteoarthritis,Cardiology,Elective,3,5672.85
+PAT-8231,38,Male,118,133.0,61,20.7,Former,Cardiovascular Disease,Pulmonology,Emergency,7,11643.39
+PAT-8232,50,Female,132,172.0,110,23.0,Never,Healthy / Routine,Rheumatology,Emergency,1,2683.56
+PAT-8233,23,Male,132,230.0,131,24.6,Never,Hypertension,General Medicine,Urgent,4,7616.27
+PAT-8234,39,Female,145,170.0,89,31.3,Former,Healthy / Routine,Endocrinology,Elective,2,3216.45
+PAT-8235,78,Female,147,222.0,111,26.1,Never,Asthma,Rheumatology,Urgent,2,5864.62
+PAT-8236,26,Male,139,192.0,144,16.6,Current,Hypertension,Endocrinology,Urgent,1,4385.25
+PAT-8237,71,Male,129,238.0,139,25.1,Former,Hypertension,Endocrinology,Emergency,10,14089.44
+PAT-8238,82,Female,140,159.0,114,30.4,Current,Asthma,Endocrinology,Urgent,3,5733.5
+PAT-8239,19,Male,118,228.0,142,23.9,Current,Asthma,Cardiology,Elective,10,14683.21
+PAT-8240,53,Female,133,236.0,124,26.9,Former,Osteoarthritis,Cardiology,Urgent,2,5131.4
+PAT-8241,82,Male,131,225.0,98,33.4,Never,Hypertension,Cardiology,Follow-up,1,4379.27
+PAT-8242,43,Female,124,218.0,120,34.5,Former,Hypertension,Rheumatology,Emergency,1,4366.17
+PAT-8243,50,Female,127,244.0,145,34.6,Never,Healthy / Routine,Pulmonology,Follow-up,2,4456.71
+PAT-8244,58,Female,132,199.0,148,33.0,Former,Type 2 Diabetes,General Medicine,Emergency,1,3564.5
+PAT-8245,29,Male,118,265.0,98,28.2,Never,Hypertension,Rheumatology,Follow-up,2,5253.66
+PAT-8246,22,Female,150,196.0,121,26.8,Former,Healthy / Routine,Endocrinology,Follow-up,5,7199.56
+PAT-8247,41,Female,161,162.0,67,35.1,Never,Type 2 Diabetes,Rheumatology,Urgent,3,6193.11
+PAT-8248,40,Female,124,204.0,110,25.9,Never,Healthy / Routine,Rheumatology,Urgent,3,5725.52
+PAT-8249,82,Female,145,209.0,118,31.5,Former,Hypertension,Cardiology,Emergency,1,3827.4
+PAT-8250,23,Male,126,150.0,63,31.8,Former,Cardiovascular Disease,Pulmonology,Follow-up,4,8060.67
+PAT-8251,76,Male,136,221.0,110,23.6,Former,Osteoarthritis,Rheumatology,Elective,2,5761.84
+PAT-8252,31,Male,120,250.0,77,25.9,Current,Hypertension,Pulmonology,Urgent,5,9396.59
+PAT-8253,76,Female,153,178.0,145,22.2,Current,Cardiovascular Disease,Endocrinology,Follow-up,2,5890.66
+PAT-8254,35,Female,108,225.0,96,30.9,Current,Type 2 Diabetes,Rheumatology,Elective,1,3604.27
+PAT-8255,71,Female,136,209.0,122,44.0,Never,Asthma,Rheumatology,Elective,2,5861.05
+PAT-8256,56,Male,164,213.0,155,21.8,Current,Asthma,Cardiology,Elective,5,9023.97
+PAT-8257,68,Male,151,207.0,104,16.7,Current,Healthy / Routine,General Medicine,Follow-up,10,13802.06
+PAT-8258,68,Male,130,157.0,109,23.3,Current,Cardiovascular Disease,Rheumatology,Urgent,1,4453.86
+PAT-8259,59,Male,119,211.0,144,30.7,Never,Asthma,General Medicine,Follow-up,2,5164.22
+PAT-8260,62,Female,172,178.0,89,30.2,Never,Healthy / Routine,Rheumatology,Follow-up,1,2697.74
+PAT-8261,77,Male,152,246.0,112,31.3,Current,Healthy / Routine,Endocrinology,Emergency,1,2279.73
+PAT-8262,42,Male,104,224.0,155,23.1,Never,Osteoarthritis,Endocrinology,Emergency,2,5330.42
+PAT-8263,45,Female,137,210.0,148,24.8,Former,Osteoarthritis,General Medicine,Urgent,5,8064.69
+PAT-8264,77,Male,142,192.0,59,23.1,Current,Cardiovascular Disease,Pulmonology,Elective,1,4043.98
+PAT-8265,54,Female,142,221.0,77,21.1,Former,Osteoarthritis,Pulmonology,Urgent,3,6534.7
+PAT-8266,26,Female,117,180.0,54,20.4,Never,Osteoarthritis,Endocrinology,Emergency,3,6475.08
+PAT-8267,56,Male,133,183.0,58,30.9,Former,Hypertension,Cardiology,Urgent,1,3485.57
+PAT-8268,48,Male,146,220.0,123,26.4,Current,Osteoarthritis,Pulmonology,Urgent,3,6545.01
+PAT-8269,31,Female,110,193.0,86,22.5,Never,Type 2 Diabetes,Pulmonology,Follow-up,2,5379.22
+PAT-8270,65,Female,125,189.0,125,25.7,Current,Cardiovascular Disease,Rheumatology,Follow-up,1,4216.8
+PAT-8271,54,Female,127,198.0,106,27.5,Current,Type 2 Diabetes,Endocrinology,Elective,1,4365.15
+PAT-8272,68,Female,164,251.0,95,27.0,Never,Osteoarthritis,Rheumatology,Follow-up,2,4675.81
+PAT-8273,19,Male,130,172.0,73,21.1,Never,Asthma,Cardiology,Elective,7,11026.02
+PAT-8274,71,Male,147,224.0,145,28.2,Never,Healthy / Routine,Rheumatology,Emergency,1,2422.41
+PAT-8275,69,Male,118,194.0,99,27.0,Current,Cardiovascular Disease,Endocrinology,Elective,1,4059.54
+PAT-8276,32,Female,107,170.0,99,27.5,Current,Cardiovascular Disease,General Medicine,Follow-up,2,5268.67
+PAT-8277,64,Female,125,234.0,69,20.1,Never,Cardiovascular Disease,Rheumatology,Follow-up,10,14665.92
+PAT-8278,44,Female,148,230.0,97,21.0,Former,Type 2 Diabetes,General Medicine,Elective,2,4784.44
+PAT-8279,45,Male,149,163.0,43,18.2,Never,Osteoarthritis,General Medicine,Follow-up,14,19388.67
+PAT-8280,56,Male,141,217.0,55,32.8,Former,Cardiovascular Disease,Cardiology,Urgent,7,11048.18
+PAT-8281,41,Male,163,142.0,89,26.8,Current,Cardiovascular Disease,General Medicine,Urgent,7,11066.59
+PAT-8282,44,Male,146,167.0,89,23.9,Former,Healthy / Routine,General Medicine,Emergency,1,1920.97
+PAT-8283,24,Male,156,178.0,120,27.5,Former,Cardiovascular Disease,Endocrinology,Emergency,3,5622.3
+PAT-8284,30,Female,143,167.0,60,24.3,Former,Healthy / Routine,General Medicine,Emergency,2,3206.81
+PAT-8285,35,Female,141,180.0,100,26.5,Never,Asthma,Rheumatology,Emergency,2,5649.16
+PAT-8286,51,Female,128,214.0,72,32.6,Current,Cardiovascular Disease,Pulmonology,Urgent,4,7004.38
+PAT-8287,43,Male,122,158.0,107,30.0,Former,Asthma,General Medicine,Elective,2,5824.4
+PAT-8288,82,Male,151,198.0,117,23.3,Current,Asthma,Rheumatology,Urgent,2,5871.36
+PAT-8289,26,Female,131,186.0,113,24.9,Current,Type 2 Diabetes,General Medicine,Emergency,5,8723.14
+PAT-8290,41,Male,110,199.0,93,24.9,Never,Asthma,Endocrinology,Follow-up,4,7143.48
+PAT-8291,25,Female,133,175.0,106,20.5,Current,Hypertension,Endocrinology,Urgent,1,4283.97
+PAT-8292,46,Female,148,174.0,89,27.0,Current,Asthma,Cardiology,Urgent,1,4601.81
+PAT-8293,81,Male,151,192.0,134,35.9,Current,Hypertension,Rheumatology,Elective,2,5123.68
+PAT-8294,76,Male,140,214.0,96,29.7,Former,Type 2 Diabetes,Rheumatology,Urgent,3,6809.53
+PAT-8295,37,Female,123,221.0,105,29.9,Never,Osteoarthritis,Cardiology,Emergency,7,11460.15
+PAT-8296,42,Female,150,253.0,113,25.8,Never,Osteoarthritis,Rheumatology,Elective,5,8763.62
+PAT-8297,78,Male,162,182.0,78,30.0,Former,Type 2 Diabetes,Endocrinology,Follow-up,3,5978.65
+PAT-8298,77,Male,135,220.0,130,24.8,Current,Healthy / Routine,Pulmonology,Urgent,1,3313.52
+PAT-8299,56,Female,128,213.0,92,22.7,Never,Hypertension,Rheumatology,Elective,2,5564.89
+PAT-8300,28,Male,123,209.0,117,31.2,Former,Asthma,Rheumatology,Follow-up,3,6934.6
+PAT-8301,81,Female,137,116.0,114,23.3,Current,Healthy / Routine,Pulmonology,Follow-up,2,3138.45
+PAT-8302,76,Male,161,220.0,107,24.2,Never,Osteoarthritis,Pulmonology,Follow-up,2,5557.95
+PAT-8303,51,Male,154,190.0,172,33.1,Former,Cardiovascular Disease,Cardiology,Urgent,1,3398.5
+PAT-8304,24,Female,129,173.0,141,19.8,Current,Healthy / Routine,General Medicine,Urgent,4,5920.89
+PAT-8305,22,Female,118,210.0,115,33.1,Current,Asthma,Pulmonology,Urgent,10,14509.29
+PAT-8306,73,Female,126,212.0,109,35.2,Never,Asthma,Endocrinology,Follow-up,2,4498.76
+PAT-8307,24,Female,136,188.0,93,17.8,Current,Healthy / Routine,Endocrinology,Elective,2,3250.35
+PAT-8308,21,Male,127,168.0,51,33.2,Former,Osteoarthritis,Cardiology,Emergency,1,4089.48
+PAT-8309,68,Male,137,203.0,94,32.2,Never,Cardiovascular Disease,Rheumatology,Emergency,3,5829.33
+PAT-8310,36,Female,139,271.0,104,34.3,Former,Type 2 Diabetes,Endocrinology,Urgent,1,3440.56
+PAT-8311,78,Male,123,233.0,166,26.5,Never,Hypertension,General Medicine,Emergency,1,4275.2
+PAT-8312,47,Male,95,184.0,89,30.4,Current,Type 2 Diabetes,Cardiology,Emergency,1,3248.03
+PAT-8313,84,Male,151,191.0,71,25.6,Current,Type 2 Diabetes,Cardiology,Follow-up,7,10697.16
+PAT-8314,53,Female,136,199.0,73,32.4,Current,Type 2 Diabetes,Rheumatology,Urgent,2,4909.24
+PAT-8315,84,Female,134,252.0,72,23.0,Current,Hypertension,Rheumatology,Follow-up,2,4680.73
+PAT-8316,42,Female,157,175.0,133,27.9,Current,Healthy / Routine,Endocrinology,Urgent,2,3885.51
+PAT-8317,37,Female,115,186.0,87,29.2,Never,Asthma,Rheumatology,Emergency,2,5017.33
+PAT-8318,53,Female,130,263.0,106,27.6,Former,Hypertension,Endocrinology,Urgent,2,5254.0
+PAT-8319,26,Male,103,216.0,145,22.7,Former,Hypertension,General Medicine,Follow-up,7,10596.09
+PAT-8320,75,Male,145,240.0,133,34.8,Former,Type 2 Diabetes,Endocrinology,Follow-up,5,8720.4
+PAT-8321,24,Male,139,190.0,78,31.3,Current,Cardiovascular Disease,Rheumatology,Elective,3,6399.55
+PAT-8322,36,Male,127,196.0,108,29.4,Current,Asthma,Cardiology,Emergency,5,9014.08
+PAT-8323,42,Female,130,191.0,98,31.8,Never,Osteoarthritis,Cardiology,Urgent,2,5690.98
+PAT-8324,46,Male,131,227.0,106,27.8,Former,Type 2 Diabetes,Rheumatology,Emergency,1,4560.31
+PAT-8325,84,Female,176,166.0,102,21.1,Former,Type 2 Diabetes,General Medicine,Urgent,5,8023.22
+PAT-8326,80,Female,128,208.0,98,24.8,Never,Osteoarthritis,Rheumatology,Follow-up,3,6394.87
+PAT-8327,55,Male,162,229.0,110,29.0,Former,Healthy / Routine,Cardiology,Emergency,2,4169.54
+PAT-8328,54,Male,114,146.0,114,22.6,Former,Healthy / Routine,General Medicine,Follow-up,5,8182.31
+PAT-8329,53,Female,112,188.0,84,25.6,Current,Asthma,Rheumatology,Urgent,1,3607.95
+PAT-8330,39,Female,134,187.0,79,23.4,Never,Healthy / Routine,General Medicine,Emergency,3,4836.06
+PAT-8331,61,Female,130,203.0,112,17.6,Former,Hypertension,Endocrinology,Follow-up,2,4810.76
+PAT-8332,47,Female,131,162.0,45,27.6,Never,Osteoarthritis,Endocrinology,Emergency,2,5105.35
+PAT-8333,20,Male,102,269.0,115,27.7,Former,Healthy / Routine,Pulmonology,Follow-up,4,5560.02
+PAT-8334,63,Male,140,157.0,107,29.6,Former,Hypertension,Endocrinology,Follow-up,1,3289.57
+PAT-8335,33,Male,136,216.0,138,23.0,Never,Type 2 Diabetes,Rheumatology,Emergency,1,4384.0
+PAT-8336,20,Female,87,252.0,74,25.6,Former,Hypertension,General Medicine,Urgent,5,8604.89
+PAT-8337,33,Female,125,254.0,85,30.3,Former,Hypertension,Cardiology,Emergency,2,5351.34
+PAT-8338,38,Female,137,230.0,123,28.3,Former,Healthy / Routine,Cardiology,Emergency,2,3715.77
+PAT-8339,51,Male,120,163.0,121,36.3,Never,Healthy / Routine,General Medicine,Follow-up,1,2364.89
+PAT-8340,73,Male,157,191.0,79,28.7,Never,Hypertension,Rheumatology,Emergency,1,3221.34
+PAT-8341,48,Male,110,250.0,134,25.5,Current,Hypertension,Endocrinology,Follow-up,2,5814.57
+PAT-8342,46,Male,136,178.0,50,26.9,Current,Healthy / Routine,Endocrinology,Elective,3,4638.19
+PAT-8343,68,Male,125,209.0,117,30.8,Current,Hypertension,Rheumatology,Urgent,10,15040.2
+PAT-8344,59,Male,168,248.0,105,27.7,Current,Type 2 Diabetes,Cardiology,Emergency,1,4285.7
+PAT-8345,70,Male,109,251.0,76,23.2,Former,Osteoarthritis,Endocrinology,Elective,2,5778.35
+PAT-8346,72,Female,158,268.0,94,24.6,Former,Asthma,Cardiology,Follow-up,3,5792.34
+PAT-8347,64,Female,130,242.0,122,26.9,Current,Osteoarthritis,Endocrinology,Elective,1,3784.44
+PAT-8348,47,Female,134,197.0,91,25.3,Never,Osteoarthritis,Cardiology,Elective,7,11896.94
+PAT-8349,29,Female,145,242.0,94,19.2,Never,Asthma,Endocrinology,Elective,3,6244.13
+PAT-8350,20,Female,126,172.0,110,27.7,Current,Asthma,Endocrinology,Elective,2,5035.38
+PAT-8351,62,Male,118,265.0,130,20.6,Current,Hypertension,General Medicine,Elective,5,8837.59
+PAT-8352,68,Female,185,249.0,102,32.3,Former,Type 2 Diabetes,Cardiology,Emergency,1,3546.45
+PAT-8353,22,Male,102,231.0,76,30.5,Never,Hypertension,General Medicine,Elective,2,5844.13
+PAT-8354,79,Male,156,153.0,108,31.5,Former,Cardiovascular Disease,Endocrinology,Follow-up,2,5643.79
+PAT-8355,25,Female,115,164.0,126,19.3,Never,Healthy / Routine,Rheumatology,Urgent,2,4190.1
+PAT-8356,72,Male,129,174.0,126,28.5,Never,Type 2 Diabetes,Rheumatology,Emergency,2,5538.66
+PAT-8357,33,Female,116,205.0,94,23.2,Current,Hypertension,Rheumatology,Urgent,1,4106.36
+PAT-8358,24,Male,117,227.0,86,17.2,Never,Osteoarthritis,Cardiology,Elective,4,7681.5
+PAT-8359,83,Male,166,228.0,77,26.4,Current,Hypertension,Rheumatology,Urgent,3,5921.08
+PAT-8360,21,Female,142,242.0,80,21.8,Current,Healthy / Routine,Cardiology,Elective,10,14181.51
+PAT-8361,63,Female,90,236.0,117,33.8,Never,Hypertension,Rheumatology,Elective,2,4934.27
+PAT-8362,83,Male,155,264.0,115,24.2,Never,Type 2 Diabetes,Pulmonology,Emergency,1,4439.6
+PAT-8363,18,Female,117,213.0,59,30.2,Former,Type 2 Diabetes,Pulmonology,Follow-up,1,4488.77
+PAT-8364,44,Male,161,206.0,104,34.1,Current,Cardiovascular Disease,Cardiology,Emergency,1,3856.9
+PAT-8365,26,Male,134,189.0,121,19.3,Current,Type 2 Diabetes,Rheumatology,Elective,4,7000.08
+PAT-8366,48,Male,133,192.0,107,22.8,Current,Hypertension,Rheumatology,Emergency,1,3408.59
+PAT-8367,25,Female,125,245.0,102,31.1,Current,Osteoarthritis,Endocrinology,Urgent,4,7500.45
+PAT-8368,61,Male,114,174.0,100,26.8,Current,Healthy / Routine,Cardiology,Urgent,4,6024.66
+PAT-8369,78,Male,140,216.0,134,34.9,Former,Type 2 Diabetes,Rheumatology,Emergency,4,7180.83
+PAT-8370,32,Male,117,231.0,130,26.3,Never,Cardiovascular Disease,Rheumatology,Elective,10,14636.86
+PAT-8371,58,Female,154,197.0,73,28.9,Current,Cardiovascular Disease,Endocrinology,Emergency,3,6358.97
+PAT-8372,27,Male,127,163.0,62,23.3,Never,Osteoarthritis,Rheumatology,Follow-up,7,10963.56
+PAT-8373,29,Male,158,208.0,136,27.6,Former,Type 2 Diabetes,Pulmonology,Follow-up,2,4550.32
+PAT-8374,46,Male,113,199.0,109,27.2,Former,Type 2 Diabetes,Cardiology,Urgent,2,5626.25
+PAT-8375,81,Female,152,214.0,110,28.5,Current,Osteoarthritis,Endocrinology,Emergency,1,4017.51
+PAT-8376,51,Female,136,219.0,149,29.4,Never,Cardiovascular Disease,Endocrinology,Follow-up,2,5537.11
+PAT-8377,67,Male,144,170.0,103,25.3,Former,Type 2 Diabetes,General Medicine,Urgent,14,18951.04
+PAT-8378,37,Male,129,146.0,77,28.0,Never,Osteoarthritis,Rheumatology,Elective,3,6078.89
+PAT-8379,49,Female,153,163.0,79,30.3,Current,Cardiovascular Disease,Rheumatology,Elective,5,8087.89
+PAT-8380,84,Male,146,203.0,67,28.1,Former,Hypertension,Endocrinology,Follow-up,2,5881.99
+PAT-8381,45,Male,147,185.0,65,34.5,Former,Cardiovascular Disease,General Medicine,Elective,3,6465.14
+PAT-8382,21,Male,103,159.0,140,24.3,Never,Cardiovascular Disease,Rheumatology,Emergency,2,5810.47
+PAT-8383,40,Female,127,170.0,104,29.7,Current,Osteoarthritis,General Medicine,Emergency,1,3887.91
+PAT-8384,38,Female,143,189.0,76,33.4,Former,Cardiovascular Disease,Rheumatology,Emergency,2,5660.8
+PAT-8385,63,Female,137,231.0,164,27.3,Never,Hypertension,Endocrinology,Emergency,1,4596.7
+PAT-8386,46,Male,145,252.0,80,25.3,Never,Asthma,Cardiology,Urgent,4,8081.85
+PAT-8387,62,Male,158,209.0,83,34.1,Never,Cardiovascular Disease,Rheumatology,Urgent,2,4778.66
+PAT-8388,32,Female,122,240.0,88,21.0,Current,Healthy / Routine,Rheumatology,Emergency,3,5120.18
+PAT-8389,41,Male,145,220.0,109,25.9,Never,Healthy / Routine,Pulmonology,Follow-up,2,3775.94
+PAT-8390,67,Male,131,214.0,147,29.7,Current,Cardiovascular Disease,Rheumatology,Emergency,5,8695.75
+PAT-8391,72,Female,116,216.0,101,16.4,Current,Asthma,Rheumatology,Emergency,2,4903.29
+PAT-8392,36,Male,147,140.0,107,26.6,Former,Healthy / Routine,General Medicine,Elective,5,7480.79
+PAT-8393,56,Female,109,229.0,141,6.7,Former,Healthy / Routine,Cardiology,Emergency,1,2433.19
+PAT-8394,52,Female,110,207.0,126,25.0,Never,Cardiovascular Disease,General Medicine,Urgent,2,5192.53
+PAT-8395,70,Male,134,235.0,122,25.1,Never,Asthma,General Medicine,Urgent,4,7572.47
+PAT-8396,47,Male,143,163.0,132,25.1,Current,Hypertension,Pulmonology,Elective,10,15208.46
+PAT-8397,30,Female,135,227.0,110,28.2,Never,Osteoarthritis,General Medicine,Emergency,4,7343.34
+PAT-8398,56,Female,133,204.0,62,29.0,Current,Type 2 Diabetes,Pulmonology,Elective,1,3274.88
+PAT-8399,56,Female,116,288.0,97,18.2,Former,Osteoarthritis,Cardiology,Follow-up,2,5275.63

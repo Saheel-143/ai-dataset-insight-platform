@@ -1,0 +1,503 @@
+Transaction_ID,Date,Region,Category,Product,Sales_Channel,Units_Sold,Unit_Price,Discount,Revenue,Cost,Profit,Profit_Margin_Pct,Customer_Rating
+TRX-1000,2024-04-12,North America,Electronics,Ultra HD Monitor,Direct Sales,2,809.34,0.1,1456.81,917.2,539.61,37.04,4.0
+TRX-1001,2024-05-10,Europe,Office Supplies,Ergonomic Chair,Online Store,1,403.88,0.0,403.88,199.06,204.82,50.71,3.0
+TRX-1002,2024-10-03,Middle East,Apparel,Branded Hoodie,Online Store,20,711.77,0.0,14235.4,7182.44,7052.96,49.55,4.5
+TRX-1003,2024-06-18,North America,Office Supplies,Standing Desk,Online Store,3,30.83,0.0,92.49,56.18,36.31,39.26,3.0
+TRX-1004,2024-12-29,Middle East,Office Supplies,Laser Paper Ream,Retail Affiliate,20,217.04,0.0,4340.8,2758.65,1582.15,36.45,4.0
+TRX-1005,2024-06-15,Europe,Apparel,Backpack Pro,Wholesale Partner,3,63.32,0.05,180.46,90.44,90.02,49.88,3.0
+TRX-1006,2024-12-05,North America,Office Supplies,Gel Pen Set,Wholesale Partner,15,489.71,0.0,7345.65,3340.73,4004.92,54.52,4.0
+TRX-1007,2024-03-21,Asia Pacific,Office Supplies,Standing Desk,Wholesale Partner,4,528.25,0.1,1901.7,954.67,947.03,49.8,4.0
+TRX-1008,2024-11-05,North America,Electronics,Smart Watch 5,Online Store,4,282.16,0.05,1072.21,658.35,413.86,38.6,3.0
+TRX-1009,2024-12-16,Asia Pacific,Furniture,Lounge Sofa,Wholesale Partner,5,396.05,0.0,1980.25,1441.62,538.63,27.2,5.0
+TRX-1010,2024-07-26,North America,Apparel,Backpack Pro,Online Store,1,186.69,0.0,186.69,102.23,84.46,45.24,4.5
+TRX-1011,2024-02-10,Latin America,Electronics,USB-C Hub,Wholesale Partner,3,509.07,0.2,1221.77,772.29,449.48,36.79,4.0
+TRX-1012,2024-05-15,Middle East,Furniture,Lounge Sofa,Direct Sales,1,37.9,,36.0,20.46,15.54,43.17,3.0
+TRX-1013,2024-09-17,North America,Electronics,Wireless Headphones,Wholesale Partner,5,608.16,0.1,2736.72,1864.75,871.97,31.86,5.0
+TRX-1014,2024-02-02,North America,Office Supplies,Ergonomic Chair,Retail Affiliate,4,779.84,0.15,2651.46,1550.67,1100.79,41.52,3.5
+TRX-1015,2024-02-04,Asia Pacific,Apparel,Corporate Jacket,Direct Sales,2,293.28,0.1,527.9,338.52,189.38,35.87,4.0
+TRX-1016,2024-09-11,Asia Pacific,Furniture,Bookshelf Modern,Wholesale Partner,1,613.43,0.1,552.09,341.4,210.69,38.16,4.0
+TRX-1017,2024-06-27,North America,Hardware,Precision Mouse,Direct Sales,1,611.3,0.0,611.3,355.65,255.65,41.82,3.0
+TRX-1018,2024-08-18,Europe,Apparel,Performance Cap,Wholesale Partner,3,284.34,0.05,810.37,585.31,225.06,27.77,4.0
+TRX-1019,2024-03-26,Middle East,Office Supplies,Filing Cabinet,Online Store,5,213.76,0.0,1068.8,573.87,494.93,46.31,5.0
+TRX-1020,2024-04-17,Europe,Electronics,Ultra HD Monitor,Retail Affiliate,3,268.9,0.0,806.7,473.5,333.2,41.3,3.5
+TRX-1021,2024-08-18,Asia Pacific,Electronics,Wireless Headphones,Wholesale Partner,10,469.96,0.1,4229.64,3040.38,1189.26,28.12,5.0
+TRX-1022,2024-09-15,Europe,Apparel,Performance Cap,Retail Affiliate,2,559.34,0.0,1118.68,621.73,496.95,44.42,3.0
+TRX-1023,2024-06-20,Europe,Furniture,Bookshelf Modern,Direct Sales,3,369.36,0.0,1108.08,538.48,569.6,51.4,4.0
+TRX-1024,2024-11-13,Middle East,Hardware,Webcam 4K,Retail Affiliate,1,205.48,0.05,195.21,111.49,83.72,42.89,5.0
+TRX-1025,2024-04-22,Middle East,Apparel,Corporate Jacket,Direct Sales,20,232.72,0.05,4421.68,2388.87,2032.81,45.97,5.0
+TRX-1026,2024-08-11,Europe,Hardware,Surge Protector,Online Store,2,830.71,0.05,1578.35,725.91,852.44,54.01,5.0
+TRX-1027,2024-09-03,North America,Electronics,Wireless Headphones,Direct Sales,1,144.54,0.05,137.31,102.39,34.92,25.43,4.5
+TRX-1028,2024-04-07,Latin America,Hardware,Mechanical Keyboard,Retail Affiliate,5,221.05,0.1,994.73,557.38,437.35,43.97,4.5
+TRX-1029,2024-11-21,Latin America,Hardware,Surge Protector,Wholesale Partner,3,99.49,0.1,268.62,146.73,121.89,45.38,4.5
+TRX-1030,2024-05-26,Middle East,Electronics,Pro Laptop 15,Wholesale Partner,10,293.92,0.0,2939.2,1949.7,989.5,33.67,4.0
+TRX-1031,2024-12-25,Asia Pacific,Electronics,Ultra HD Monitor,Retail Affiliate,1,800.93,0.0,800.93,484.82,316.11,39.47,3.5
+TRX-1032,2024-04-08,Europe,Apparel,Branded Hoodie,Wholesale Partner,2,118.62,0.15,201.65,143.82,57.83,28.68,4.0
+TRX-1033,2024-10-30,Middle East,Office Supplies,Laser Paper Ream,Online Store,1,835.29,0.05,793.53,419.18,374.35,47.18,5.0
+TRX-1034,2024-05-26,Asia Pacific,Hardware,Cable Management Kit,Direct Sales,3,753.17,0.0,2259.51,1205.81,1053.7,46.63,4.5
+TRX-1035,2024-03-15,Europe,Furniture,Bookshelf Modern,Online Store,10,756.85,0.1,6811.65,4377.23,2434.42,35.74,5.0
+TRX-1036,2024-04-08,Middle East,Furniture,Conference Table,Online Store,5,576.92,0.05,2740.37,1539.22,1201.15,43.83,5.0
+TRX-1037,2024-06-17,North America,Furniture,Mesh Task Chair,Direct Sales,2,276.93,0.05,526.17,307.56,218.61,41.55,3.5
+TRX-1038,2024-05-14,North America,Office Supplies,Laser Paper Ream,Online Store,1,432.46,0.0,432.46,242.15,190.31,44.01,4.5
+TRX-1039,2024-01-22,North America,Apparel,Branded Hoodie,Direct Sales,2,472.6,0.05,897.94,575.49,322.45,35.91,4.0
+TRX-1040,2024-08-13,Europe,Apparel,Backpack Pro,Direct Sales,20,349.31,0.15,5938.27,3796.58,2141.69,36.07,4.0
+TRX-1041,2024-10-30,Asia Pacific,Hardware,Cable Management Kit,Retail Affiliate,3,576.86,0.15,1470.99,763.53,707.46,48.09,4.0
+TRX-1042,2024-02-15,Europe,Hardware,Precision Mouse,Wholesale Partner,1,557.51,0.0,557.51,408.17,149.34,26.79,5.0
+TRX-1043,2024-06-29,Latin America,Furniture,Conference Table,Retail Affiliate,2,37.75,0.15,64.17,37.12,27.05,42.15,4.5
+TRX-1044,2024-06-09,North America,Office Supplies,Standing Desk,Online Store,20,87.16,0.0,1743.2,884.28,858.92,49.27,4.0
+TRX-1045,2024-12-25,Asia Pacific,Electronics,USB-C Hub,Direct Sales,1,484.36,0.15,411.71,271.24,140.47,34.12,
+TRX-1046,2024-09-29,Middle East,Office Supplies,Ergonomic Chair,Online Store,1,578.69,0.0,578.69,304.54,274.15,47.37,4.5
+TRX-1047,2024-01-26,North America,Office Supplies,Ergonomic Chair,Online Store,1,609.85,0.05,579.36,312.25,267.11,46.1,4.5
+TRX-1048,2024-06-21,Asia Pacific,Electronics,USB-C Hub,Direct Sales,10,778.42,0.05,7394.99,4440.36,2954.63,39.95,3.5
+TRX-1049,2024-05-22,Asia Pacific,Apparel,Polo T-Shirt,Direct Sales,1,352.35,0.0,352.35,252.28,100.07,28.4,4.0
+TRX-1050,2024-03-03,Middle East,Hardware,Surge Protector,Direct Sales,1,502.08,0.0,502.08,296.07,206.01,41.03,5.0
+TRX-1051,2024-09-27,Latin America,Apparel,Polo T-Shirt,Online Store,5,734.83,0.0,3674.15,1696.17,1977.98,53.84,4.0
+TRX-1052,2024-01-05,North America,Apparel,Corporate Jacket,Retail Affiliate,1,455.85,0.1,410.27,211.18,199.09,48.53,4.0
+TRX-1053,2024-11-03,Latin America,Apparel,Branded Hoodie,Online Store,5,185.36,0.05,880.46,580.97,299.49,34.02,3.5
+TRX-1054,2024-10-01,North America,Apparel,Corporate Jacket,Online Store,20,614.54,0.0,12290.8,7001.41,5289.39,43.04,4.0
+TRX-1055,2024-05-08,Europe,Office Supplies,Standing Desk,Retail Affiliate,1,45.91,0.2,36.73,25.74,10.99,29.92,3.5
+TRX-1056,2024-08-24,Europe,Apparel,Polo T-Shirt,Wholesale Partner,1,231.45,0.05,219.88,146.08,73.8,33.56,4.0
+TRX-1057,2024-09-03,Latin America,Office Supplies,Ergonomic Chair,Retail Affiliate,15,633.76,0.05,9031.08,5721.34,3309.74,36.65,3.0
+TRX-1058,2024-08-07,Middle East,Electronics,Pro Laptop 15,Online Store,3,155.88,0.0,467.64,258.4,209.24,44.74,3.0
+TRX-1059,2024-08-05,North America,Office Supplies,Standing Desk,Retail Affiliate,1,730.75,0.1,657.68,389.51,268.17,40.78,4.5
+TRX-1060,2024-09-06,Latin America,Apparel,Polo T-Shirt,Retail Affiliate,5,310.7,0.05,1475.82,951.8,524.02,35.51,4.5
+TRX-1061,2024-04-05,North America,Office Supplies,Gel Pen Set,Online Store,3,62.38,0.0,187.14,119.35,67.79,36.22,5.0
+TRX-1062,2024-06-08,Latin America,Furniture,Conference Table,Wholesale Partner,4,159.42,0.0,637.68,409.85,227.83,35.73,5.0
+TRX-1063,2024-06-27,Latin America,Hardware,Surge Protector,Direct Sales,3,345.24,0.05,983.93,578.04,405.89,41.25,4.5
+TRX-1064,2024-10-11,Europe,Furniture,Bookshelf Modern,Online Store,3,701.85,0.1,1895.0,970.25,924.75,48.8,3.5
+TRX-1065,2024-12-02,Middle East,Hardware,Mechanical Keyboard,Wholesale Partner,1,40.03,0.0,40.03,26.22,13.81,34.5,4.5
+TRX-1066,2024-07-14,North America,Electronics,USB-C Hub,Retail Affiliate,2,587.33,0.0,1174.66,620.47,554.19,47.18,4.5
+TRX-1067,2024-09-05,Middle East,Hardware,Precision Mouse,Online Store,2,797.73,0.0,1595.46,918.0,677.46,42.46,4.0
+TRX-1068,2024-02-05,Middle East,Electronics,Wireless Headphones,Online Store,2,494.03,0.05,938.66,628.43,310.23,33.05,4.0
+TRX-1069,2024-07-01,Middle East,Electronics,Wireless Headphones,Retail Affiliate,5,306.16,0.15,1301.18,920.62,380.56,29.25,4.5
+TRX-1070,2024-08-04,North America,Hardware,Precision Mouse,Online Store,5,110.08,0.15,467.84,281.44,186.4,39.84,4.0
+TRX-1071,2024-03-16,Middle East,Electronics,Smart Watch 5,Wholesale Partner,10,346.09,0.0,3460.9,2497.44,963.46,27.84,4.0
+TRX-1072,2024-05-23,Asia Pacific,Office Supplies,Filing Cabinet,Direct Sales,15,583.34,0.05,8312.59,4970.16,3342.43,40.21,4.0
+TRX-1073,2024-05-30,Asia Pacific,Apparel,Polo T-Shirt,Wholesale Partner,2,296.15,0.1,533.07,360.2,172.87,32.43,4.5
+TRX-1074,2024-05-01,Latin America,Furniture,Executive Desk,Online Store,1,793.02,0.2,634.42,475.04,159.38,25.12,4.0
+TRX-1075,2024-03-14,Latin America,Hardware,Cable Management Kit,Online Store,10,314.5,0.0,3145.0,1550.16,1594.84,50.71,4.5
+TRX-1076,2024-10-09,North America,Hardware,Precision Mouse,Wholesale Partner,10,716.75,0.05,6809.12,3518.77,3290.35,48.32,4.5
+TRX-1077,2024-11-16,Europe,Furniture,Executive Desk,Direct Sales,1,94.99,0.2,75.99,42.73,33.26,43.77,5.0
+TRX-1078,2024-09-08,Asia Pacific,Furniture,Bookshelf Modern,Retail Affiliate,1,773.85,0.05,735.16,408.06,327.1,44.49,3.5
+TRX-1079,2024-02-08,Middle East,Furniture,Lounge Sofa,Online Store,5,485.68,0.05,2306.98,1665.42,641.56,27.81,4.0
+TRX-1080,2024-11-12,Middle East,Furniture,Executive Desk,Direct Sales,2,359.29,0.05,682.65,458.94,223.71,32.77,4.5
+TRX-1081,2024-11-07,Asia Pacific,Electronics,Pro Laptop 15,Direct Sales,4,586.86,0.0,2347.44,1338.2,1009.24,42.99,4.0
+TRX-1082,2024-10-29,Asia Pacific,Furniture,Lounge Sofa,Direct Sales,2,686.74,0.2,1098.78,677.73,421.05,38.32,5.0
+TRX-1083,2024-01-20,Asia Pacific,Office Supplies,Filing Cabinet,Retail Affiliate,3,844.2,0.0,2532.6,1560.48,972.12,38.38,3.5
+TRX-1084,2024-02-23,Asia Pacific,Electronics,Pro Laptop 15,Retail Affiliate,1,203.87,0.0,203.87,152.65,51.22,25.12,4.5
+TRX-1085,2024-12-23,Asia Pacific,Electronics,Pro Laptop 15,Wholesale Partner,10,62.49,0.0,624.9,459.38,165.52,26.49,4.0
+TRX-1086,2024-07-04,Europe,Furniture,Bookshelf Modern,Retail Affiliate,3,253.84,0.0,761.52,448.62,312.9,41.09,4.0
+TRX-1087,2024-05-24,Middle East,Apparel,Backpack Pro,Online Store,2,322.28,0.0,644.56,377.69,266.87,41.4,4.0
+TRX-1088,2024-02-04,North America,Electronics,Wireless Headphones,Online Store,2,522.3,0.0,1044.6,511.81,532.79,,4.5
+TRX-1089,2024-11-07,Asia Pacific,Hardware,Cable Management Kit,Direct Sales,15,623.72,0.05,8888.01,5114.81,3773.2,42.45,5.0
+TRX-1090,2024-05-25,Latin America,Office Supplies,Ergonomic Chair,Wholesale Partner,3,160.99,0.05,458.82,313.5,145.32,31.67,5.0
+TRX-1091,2024-10-09,Asia Pacific,Electronics,Ultra HD Monitor,Direct Sales,1,515.16,0.0,515.16,381.72,133.44,25.9,4.5
+TRX-1092,2024-11-06,Europe,Electronics,Ultra HD Monitor,Retail Affiliate,1,55.38,0.0,55.38,25.15,30.23,54.59,5.0
+TRX-1093,2024-02-22,Middle East,Office Supplies,Standing Desk,Direct Sales,5,849.77,0.2,3399.08,2095.97,1303.11,38.34,5.0
+TRX-1094,2024-02-20,Europe,Apparel,Branded Hoodie,Direct Sales,5,229.06,0.05,1088.03,531.77,556.26,51.13,4.0
+TRX-1095,2024-04-04,Asia Pacific,Apparel,Polo T-Shirt,Wholesale Partner,1,749.53,0.1,674.58,313.05,361.53,53.59,3.5
+TRX-1096,2024-09-24,Europe,Electronics,Smart Watch 5,Online Store,4,454.25,0.1,1635.3,991.07,644.23,39.4,4.5
+TRX-1097,2024-09-11,Latin America,Office Supplies,Standing Desk,Retail Affiliate,20,97.94,0.1,1762.92,1105.33,657.59,37.3,3.0
+TRX-1098,2024-07-10,Asia Pacific,Furniture,Bookshelf Modern,Direct Sales,5,536.76,0.1,2415.42,1241.26,1174.16,48.61,3.0
+TRX-1099,2024-11-03,North America,Office Supplies,Gel Pen Set,Wholesale Partner,2,511.68,0.0,1023.36,594.82,428.54,41.88,4.0
+TRX-1100,2024-03-21,Asia Pacific,Electronics,Ultra HD Monitor,Wholesale Partner,2,776.14,0.0,1552.28,942.36,609.92,39.29,5.0
+TRX-1101,2024-03-09,Middle East,Apparel,Backpack Pro,Wholesale Partner,1,789.43,0.05,749.96,395.58,354.38,47.25,5.0
+TRX-1102,2024-04-20,North America,Electronics,Ultra HD Monitor,Direct Sales,2,296.22,0.05,562.82,293.82,269.0,47.8,3.5
+TRX-1103,2024-12-25,Middle East,Furniture,Executive Desk,Online Store,1,150.32,0.0,150.32,96.54,53.78,35.78,4.5
+TRX-1104,2024-03-01,Middle East,Apparel,Corporate Jacket,Wholesale Partner,2,746.31,0.05,1417.99,1052.05,365.94,25.81,3.5
+TRX-1105,2024-11-21,Latin America,Hardware,Cable Management Kit,Online Store,1,164.37,0.0,164.37,82.7,81.67,49.69,3.5
+TRX-1106,2024-10-27,Latin America,Hardware,Precision Mouse,Wholesale Partner,2,195.23,0.0,390.46,234.68,155.78,39.9,4.0
+TRX-1107,2024-04-16,North America,Apparel,Branded Hoodie,Direct Sales,1,421.94,0.1,379.75,229.18,150.57,39.65,5.0
+TRX-1108,2024-09-09,Asia Pacific,Apparel,Branded Hoodie,Wholesale Partner,1,253.42,0.1,228.08,153.83,74.25,32.55,5.0
+TRX-1109,2024-03-18,Middle East,Furniture,Executive Desk,Wholesale Partner,3,787.33,0.0,2361.99,1601.4,760.59,32.2,4.0
+TRX-1110,2024-04-20,Middle East,Furniture,Conference Table,Wholesale Partner,4,55.26,0.0,221.04,146.77,74.27,33.6,4.5
+TRX-1111,2024-01-15,Latin America,Furniture,Lounge Sofa,Direct Sales,4,50.14,0.15,170.48,94.83,75.65,44.37,3.5
+TRX-1112,2024-03-26,Europe,Apparel,Performance Cap,Direct Sales,4,175.38,0.05,666.44,467.98,198.46,29.78,4.0
+TRX-1113,2024-03-07,Middle East,Hardware,Webcam 4K,Retail Affiliate,1,759.69,0.05,721.71,471.8,249.91,34.63,4.5
+TRX-1114,2024-08-23,Middle East,Electronics,Ultra HD Monitor,Wholesale Partner,2,506.96,0.1,912.53,563.33,349.2,38.27,3.5
+TRX-1115,2024-11-10,Europe,Apparel,Backpack Pro,Wholesale Partner,2,324.54,0.05,616.63,383.07,233.56,37.88,5.0
+TRX-1116,2024-04-21,Latin America,Apparel,Performance Cap,Direct Sales,3,220.71,0.0,662.13,328.32,333.81,50.41,3.5
+TRX-1117,2024-09-03,Middle East,Apparel,Polo T-Shirt,Online Store,1,260.2,0.0,260.2,187.09,73.11,28.1,3.5
+TRX-1118,2024-08-07,Asia Pacific,Hardware,Cable Management Kit,Wholesale Partner,1,599.99,0.2,479.99,345.1,134.89,28.1,5.0
+TRX-1119,2024-03-02,North America,Office Supplies,Filing Cabinet,Direct Sales,1,829.43,0.05,787.96,525.47,262.49,33.31,5.0
+TRX-1120,2024-11-21,Europe,Office Supplies,Ergonomic Chair,,3,496.58,0.0,1489.74,1014.29,475.45,31.91,5.0
+TRX-1121,2024-01-01,Europe,Apparel,Backpack Pro,Online Store,4,189.59,0.1,682.52,415.62,266.9,39.11,4.5
+TRX-1122,2024-09-15,Latin America,Apparel,Backpack Pro,Direct Sales,2,504.52,0.0,1009.04,599.71,409.33,40.57,3.5
+TRX-1123,2024-01-13,Latin America,Apparel,Performance Cap,Direct Sales,2,135.89,0.0,271.78,203.02,68.76,25.3,4.5
+TRX-1124,2024-02-07,Europe,Electronics,Pro Laptop 15,Retail Affiliate,1,139.53,0.0,139.53,67.67,71.86,51.5,4.0
+TRX-1125,2024-11-29,Europe,Office Supplies,Laser Paper Ream,Retail Affiliate,2,791.86,0.1,1425.35,1054.06,371.29,26.05,5.0
+TRX-1126,2024-11-15,North America,Hardware,Precision Mouse,Online Store,50,194.13,0.0,9706.5,7065.7,2640.8,27.21,4.5
+TRX-1127,2024-10-12,Latin America,Office Supplies,Gel Pen Set,Wholesale Partner,5,140.31,0.1,631.39,322.32,309.07,48.95,4.5
+TRX-1128,2024-03-29,Latin America,Hardware,Cable Management Kit,Retail Affiliate,1,219.45,0.05,208.48,150.6,57.88,27.76,5.0
+TRX-1129,2024-06-27,Middle East,Apparel,Polo T-Shirt,Retail Affiliate,2,698.69,0.05,1327.51,747.5,580.01,43.69,4.5
+TRX-1130,2024-11-04,Latin America,Furniture,Bookshelf Modern,Wholesale Partner,3,386.96,0.05,1102.84,613.85,488.99,44.34,5.0
+TRX-1131,2024-02-11,Middle East,Apparel,Polo T-Shirt,Wholesale Partner,3,121.44,0.15,309.67,197.67,112.0,36.17,3.5
+TRX-1132,2024-06-05,Latin America,Electronics,Ultra HD Monitor,Direct Sales,5,536.56,0.05,2548.66,1830.37,718.29,28.18,3.5
+TRX-1133,2024-03-26,Asia Pacific,Furniture,Mesh Task Chair,Online Store,2,230.0,0.1,414.0,190.46,223.54,54.0,4.5
+TRX-1134,2024-10-29,Europe,Office Supplies,Standing Desk,Retail Affiliate,2,647.57,0.0,1295.14,791.26,503.88,38.91,4.5
+TRX-1135,2024-02-16,Europe,Office Supplies,Ergonomic Chair,Retail Affiliate,1,352.76,0.1,317.48,157.14,160.34,50.5,4.0
+TRX-1136,2024-10-08,Latin America,Furniture,Lounge Sofa,Retail Affiliate,5,35.07,0.05,166.58,103.22,63.36,38.04,4.0
+TRX-1137,2024-07-18,Latin America,Electronics,Wireless Headphones,Retail Affiliate,2,174.82,0.15,297.19,185.75,111.44,37.5,4.0
+TRX-1138,2024-07-28,Latin America,Hardware,Mechanical Keyboard,Retail Affiliate,2,532.33,0.15,904.96,445.0,459.96,50.83,4.5
+TRX-1139,2024-11-19,Latin America,Electronics,Ultra HD Monitor,Wholesale Partner,1,744.5,0.15,632.82,392.06,240.76,38.05,4.5
+TRX-1140,2024-02-20,Latin America,Apparel,Backpack Pro,Direct Sales,1,562.38,0.1,506.14,284.62,221.52,43.77,4.5
+TRX-1141,2024-12-11,Latin America,Office Supplies,Filing Cabinet,Retail Affiliate,15,788.59,0.05,11237.41,5438.59,5798.82,51.6,4.5
+TRX-1142,2024-05-28,Latin America,Electronics,Smart Watch 5,Wholesale Partner,1,784.69,0.15,666.99,403.96,263.03,39.44,4.0
+TRX-1143,2024-10-17,Latin America,Office Supplies,Gel Pen Set,Direct Sales,4,194.6,0.1,700.56,442.13,258.43,36.89,4.0
+TRX-1144,2024-12-12,Middle East,Hardware,Mechanical Keyboard,Retail Affiliate,3,783.88,0.0,2351.64,1303.01,1048.63,44.59,4.0
+TRX-1145,2024-06-28,Middle East,Hardware,Mechanical Keyboard,Online Store,1,398.26,0.0,398.26,200.29,197.97,49.71,4.0
+TRX-1146,2024-06-04,Latin America,Office Supplies,Gel Pen Set,Direct Sales,10,323.97,0.05,3077.72,1968.75,1108.97,36.03,4.0
+TRX-1147,2024-12-07,North America,Furniture,Conference Table,Wholesale Partner,3,829.82,0.05,2364.99,1459.65,905.34,38.28,3.5
+TRX-1148,2024-08-02,Europe,Apparel,Corporate Jacket,Wholesale Partner,50,439.31,0.05,20867.22,9810.16,11057.06,52.99,4.0
+TRX-1149,2024-10-12,Latin America,Furniture,Conference Table,Wholesale Partner,5,313.24,0.05,1487.89,948.52,539.37,36.25,4.5
+TRX-1150,2024-04-22,North America,Apparel,Branded Hoodie,Online Store,3,267.59,0.1,722.49,439.49,283.0,39.17,4.0
+TRX-1151,2024-12-24,Asia Pacific,Office Supplies,Ergonomic Chair,Online Store,3,153.07,0.0,459.21,325.37,133.84,29.15,4.5
+TRX-1152,2024-02-24,North America,Office Supplies,Standing Desk,Online Store,2,765.38,0.05,1454.22,1003.74,450.48,30.98,3.5
+TRX-1153,2024-09-11,Middle East,Office Supplies,Standing Desk,Direct Sales,4,568.61,0.0,2274.44,1174.96,1099.48,48.34,3.0
+TRX-1154,2024-09-20,Latin America,Electronics,USB-C Hub,Direct Sales,1,684.93,0.0,684.93,442.34,242.59,35.42,3.5
+TRX-1155,2024-06-13,Latin America,Furniture,Mesh Task Chair,Direct Sales,1,620.87,0.15,527.74,368.93,158.81,30.09,3.5
+TRX-1156,2024-06-09,Middle East,Hardware,Mechanical Keyboard,Direct Sales,2,292.29,0.0,584.58,374.11,210.47,36.0,4.0
+TRX-1157,2024-01-02,Asia Pacific,Electronics,USB-C Hub,Online Store,1,174.68,0.05,165.95,95.66,70.29,42.36,5.0
+TRX-1158,2024-04-28,Asia Pacific,Hardware,Surge Protector,Retail Affiliate,3,302.09,0.1,815.64,455.88,359.76,44.11,4.0
+TRX-1159,2024-12-20,Europe,Electronics,USB-C Hub,Direct Sales,3,362.76,0.05,1033.87,600.51,433.36,41.92,5.0
+TRX-1160,2024-08-02,North America,Furniture,Lounge Sofa,Online Store,5,140.59,0.15,597.51,356.25,241.26,40.38,4.5
+TRX-1161,2024-08-24,Middle East,Electronics,Ultra HD Monitor,Retail Affiliate,2,43.54,0.0,87.08,53.34,33.74,38.75,4.0
+TRX-1162,2024-01-29,Asia Pacific,Electronics,USB-C Hub,Wholesale Partner,1,557.17,0.05,529.31,259.19,270.12,51.03,3.5
+TRX-1163,2024-12-21,North America,Apparel,Performance Cap,Online Store,2,40.17,0.15,68.29,33.14,35.15,51.47,4.0
+TRX-1164,2024-04-26,Latin America,Furniture,Conference Table,Direct Sales,1,359.33,0.05,341.36,227.37,113.99,33.39,3.0
+TRX-1165,2024-09-24,Latin America,Office Supplies,Laser Paper Ream,Wholesale Partner,1,767.52,0.15,652.39,410.5,241.89,37.08,4.5
+TRX-1166,2024-07-08,Middle East,Hardware,Surge Protector,Retail Affiliate,2,497.97,0.1,896.35,512.1,384.25,42.87,4.0
+TRX-1167,2024-10-18,Latin America,Hardware,Webcam 4K,Wholesale Partner,1,162.18,0.1,145.96,69.31,76.65,52.51,4.5
+TRX-1168,2024-07-05,Europe,Electronics,Ultra HD Monitor,Retail Affiliate,1,715.59,0.05,679.81,492.63,187.18,27.53,4.0
+TRX-1169,2024-03-09,Europe,Apparel,Backpack Pro,Retail Affiliate,3,417.74,0.1,1127.9,824.55,303.35,26.9,4.0
+TRX-1170,2024-12-02,Asia Pacific,Electronics,Smart Watch 5,Wholesale Partner,2,470.37,0.0,940.74,660.83,279.91,29.75,4.0
+TRX-1171,2024-07-19,Europe,Apparel,Polo T-Shirt,Wholesale Partner,3,300.75,0.1,812.02,391.38,420.64,51.8,4.0
+TRX-1172,2024-10-17,Asia Pacific,Furniture,Mesh Task Chair,Wholesale Partner,2,606.56,0.05,1152.46,677.54,474.92,41.21,4.5
+TRX-1173,2024-10-01,Middle East,Electronics,USB-C Hub,Direct Sales,5,598.12,0.0,2990.6,1875.31,1115.29,37.29,4.0
+TRX-1174,2024-10-29,North America,Office Supplies,Gel Pen Set,Retail Affiliate,5,818.73,0.1,3684.29,2421.2,1263.09,34.28,3.5
+TRX-1175,2024-07-16,Middle East,Office Supplies,Gel Pen Set,Retail Affiliate,15,650.67,0.05,9272.05,6283.77,2988.28,32.23,5.0
+TRX-1176,2024-01-26,Latin America,Electronics,Pro Laptop 15,Wholesale Partner,10,558.5,0.1,5026.5,2339.73,2686.77,53.45,3.0
+TRX-1177,2024-09-06,Europe,Apparel,Polo T-Shirt,Wholesale Partner,4,788.33,0.0,3153.32,1956.27,1197.05,37.96,4.0
+TRX-1178,2024-11-10,Middle East,Furniture,Conference Table,Wholesale Partner,1,628.09,0.0,628.09,304.36,323.73,51.54,5.0
+TRX-1179,2024-04-12,Latin America,Hardware,Webcam 4K,Wholesale Partner,2,736.19,0.1,1325.14,723.17,601.97,45.43,3.0
+TRX-1180,2024-10-19,Latin America,Furniture,Mesh Task Chair,Wholesale Partner,3,214.76,0.0,644.28,304.8,339.48,52.69,4.0
+TRX-1181,2024-01-04,Europe,Electronics,Wireless Headphones,Wholesale Partner,2,358.7,0.05,681.53,471.07,210.46,30.88,4.5
+TRX-1182,2024-11-06,North America,Hardware,Precision Mouse,Direct Sales,2,541.36,0.15,920.31,584.18,336.13,36.52,4.0
+TRX-1183,2024-04-05,Europe,Apparel,Corporate Jacket,Wholesale Partner,50,25.2,0.0,1260.0,712.14,547.86,43.48,4.5
+TRX-1184,2024-09-01,North America,Office Supplies,Filing Cabinet,Direct Sales,50,314.34,0.1,14145.3,8071.02,6074.28,42.94,4.0
+TRX-1185,2024-12-24,Asia Pacific,Office Supplies,Filing Cabinet,Online Store,3,249.14,0.0,747.42,356.9,390.52,52.25,4.0
+TRX-1186,2024-11-19,Middle East,Office Supplies,Filing Cabinet,Online Store,4,27.76,0.05,105.49,56.87,48.62,46.09,4.5
+TRX-1187,2024-10-31,North America,Hardware,Webcam 4K,Direct Sales,3,253.74,0.15,647.04,299.92,347.12,53.65,4.0
+TRX-1188,2024-07-16,Latin America,Electronics,Pro Laptop 15,Wholesale Partner,1,814.04,0.1,732.64,386.61,346.03,47.23,5.0
+TRX-1189,2024-07-17,Latin America,Apparel,Performance Cap,Wholesale Partner,10,520.66,0.15,4425.61,3304.85,1120.76,25.32,5.0
+TRX-1190,2024-11-25,Europe,Electronics,Ultra HD Monitor,Retail Affiliate,1,802.75,0.05,762.61,482.21,280.4,36.77,3.0
+TRX-1191,2024-01-05,North America,Electronics,Smart Watch 5,Retail Affiliate,2,55.3,0.2,88.48,61.75,26.73,30.21,3.5
+TRX-1192,2024-03-01,North America,Hardware,Mechanical Keyboard,Direct Sales,20,754.12,0.15,12820.04,9595.45,3224.59,25.15,4.0
+TRX-1193,2024-08-14,Europe,Hardware,Webcam 4K,Online Store,3,430.23,0.2,1032.55,742.64,289.91,28.08,4.0
+TRX-1194,2024-04-07,Europe,Electronics,USB-C Hub,Retail Affiliate,1,468.0,0.05,444.6,277.44,167.16,37.6,4.0
+TRX-1195,2024-08-13,Middle East,Hardware,Cable Management Kit,Direct Sales,2,250.19,0.05,475.36,220.24,255.12,53.67,5.0
+TRX-1196,2024-05-03,Middle East,Apparel,Performance Cap,Retail Affiliate,5,565.57,0.05,2686.46,1279.01,1407.45,52.39,4.0
+TRX-1197,2024-11-11,Asia Pacific,Hardware,Surge Protector,Wholesale Partner,2,621.82,0.05,1181.46,560.38,621.08,52.57,3.5
+TRX-1198,2024-11-13,Middle East,Hardware,Mechanical Keyboard,Online Store,10,842.97,0.0,8429.7,6026.16,2403.54,28.51,4.5
+TRX-1199,2024-08-24,Europe,Office Supplies,Filing Cabinet,Online Store,5,311.94,0.1,1403.73,869.92,533.81,38.03,4.5
+TRX-1200,2024-10-30,Europe,Office Supplies,Standing Desk,Online Store,3,741.23,0.0,2223.69,1105.62,1118.07,50.28,4.5
+TRX-1201,2024-07-06,Europe,Electronics,Smart Watch 5,Retail Affiliate,5,600.41,0.1,2701.84,1717.24,984.6,36.44,3.5
+TRX-1202,2024-06-08,Middle East,Apparel,Corporate Jacket,Online Store,10,744.27,0.0,7442.7,5193.11,2249.59,30.23,4.0
+TRX-1203,2024-01-12,Europe,Furniture,Mesh Task Chair,Retail Affiliate,4,157.63,0.1,567.47,397.02,170.45,30.04,3.0
+TRX-1204,2024-08-10,North America,Office Supplies,Filing Cabinet,Direct Sales,2,533.96,0.2,854.34,546.39,307.95,36.05,4.0
+TRX-1205,2024-03-14,Latin America,Electronics,USB-C Hub,Direct Sales,1,700.41,0.0,700.41,374.72,325.69,46.5,4.0
+TRX-1206,2024-10-04,Europe,Furniture,Bookshelf Modern,Online Store,5,348.52,0.0,1742.6,1178.19,564.41,32.39,5.0
+TRX-1207,2024-07-11,North America,Office Supplies,Filing Cabinet,Wholesale Partner,4,80.97,0.0,323.88,214.55,109.33,33.76,3.5
+TRX-1208,2024-07-22,Latin America,Electronics,Smart Watch 5,Wholesale Partner,1,728.24,0.2,582.59,380.32,202.27,34.72,4.5
+TRX-1209,2024-05-13,Latin America,Furniture,Lounge Sofa,Retail Affiliate,1,650.57,0.0,650.57,297.07,353.5,54.34,4.0
+TRX-1210,2024-08-13,Latin America,Electronics,USB-C Hub,Online Store,5,233.32,0.0,1166.6,580.6,586.0,50.23,5.0
+TRX-1211,2024-06-05,Latin America,Furniture,Lounge Sofa,Wholesale Partner,2,397.39,0.0,794.78,547.16,247.62,31.16,4.0
+TRX-1212,2024-07-13,North America,Electronics,Wireless Headphones,Online Store,5,662.58,0.0,3312.9,1621.34,1691.56,51.06,5.0
+TRX-1213,2024-03-24,Asia Pacific,Hardware,Mechanical Keyboard,Direct Sales,1,381.68,0.15,324.43,186.85,137.58,42.41,4.0
+TRX-1214,2024-01-15,Latin America,Hardware,Surge Protector,Wholesale Partner,2,836.78,0.05,1589.88,1141.9,447.98,28.18,4.5
+TRX-1215,2024-07-26,Europe,Hardware,Surge Protector,Retail Affiliate,1,741.2,0.1,667.08,412.81,254.27,38.12,4.0
+TRX-1216,2024-01-27,North America,Apparel,Corporate Jacket,Retail Affiliate,1,193.05,0.0,193.05,95.77,97.28,50.39,4.5
+TRX-1217,2024-11-11,Asia Pacific,Furniture,Executive Desk,Direct Sales,5,541.63,0.0,2708.15,1245.09,1463.06,54.02,5.0
+TRX-1218,2024-08-23,Asia Pacific,Apparel,Performance Cap,Wholesale Partner,1,406.23,0.0,406.23,255.72,150.51,37.05,4.0
+TRX-1219,2024-04-26,Latin America,Hardware,Mechanical Keyboard,Retail Affiliate,3,211.07,0.0,633.21,408.71,224.5,35.45,4.5
+TRX-1220,2024-11-15,North America,Furniture,Mesh Task Chair,Wholesale Partner,2,837.09,0.0,1674.18,986.73,687.45,41.06,4.0
+TRX-1221,2024-04-11,North America,Apparel,Backpack Pro,Online Store,20,620.56,0.1,11170.08,7563.46,3606.62,32.29,5.0
+TRX-1222,2024-02-15,Middle East,Apparel,Performance Cap,Online Store,4,643.06,0.0,2572.24,1236.83,1335.41,51.92,3.5
+TRX-1223,2024-08-29,Europe,Hardware,Webcam 4K,Retail Affiliate,2,534.98,0.1,962.96,595.01,367.95,38.21,4.0
+TRX-1224,2024-04-25,Latin America,Electronics,Wireless Headphones,Wholesale Partner,3,97.49,0.0,292.47,134.52,157.95,54.01,4.0
+TRX-1225,2024-05-22,Middle East,Office Supplies,Filing Cabinet,Retail Affiliate,2,831.41,0.0,1662.82,1094.07,568.75,34.2,4.0
+TRX-1226,2024-01-09,Latin America,Electronics,Pro Laptop 15,Direct Sales,1,111.27,0.05,105.71,69.97,35.74,33.81,5.0
+TRX-1227,2024-06-26,Europe,Furniture,Lounge Sofa,Online Store,1,471.57,0.1,424.41,301.88,122.53,28.87,4.5
+TRX-1228,2024-07-26,Middle East,Apparel,Branded Hoodie,Direct Sales,5,530.11,0.05,2518.02,1632.3,885.72,35.18,4.0
+TRX-1229,2024-12-27,North America,Apparel,Branded Hoodie,Direct Sales,5,398.16,0.05,1891.26,1149.74,741.52,39.21,4.0
+TRX-1230,2024-08-30,Latin America,Furniture,Lounge Sofa,Wholesale Partner,4,514.45,0.1,1852.02,1099.7,752.32,40.62,4.0
+TRX-1231,2024-07-01,Latin America,Apparel,Performance Cap,Direct Sales,20,302.94,0.0,6058.8,4161.85,1896.95,31.31,3.0
+TRX-1232,2024-11-07,Latin America,Hardware,Precision Mouse,Retail Affiliate,1,42.21,0.1,37.99,20.88,17.11,45.04,5.0
+TRX-1233,2024-07-25,Europe,Hardware,Cable Management Kit,Direct Sales,4,189.62,0.1,682.63,321.97,360.66,52.83,4.0
+TRX-1234,2024-10-19,North America,Furniture,Conference Table,Wholesale Partner,2,741.32,0.1,1334.38,897.79,436.59,32.72,4.0
+TRX-1235,2024-04-05,Middle East,Furniture,Executive Desk,Wholesale Partner,2,839.81,0.0,1679.62,1192.71,486.91,28.99,4.5
+TRX-1236,2024-09-18,Asia Pacific,Hardware,Cable Management Kit,Retail Affiliate,1,351.3,0.05,333.74,210.03,123.71,37.07,4.5
+TRX-1237,2024-01-18,Europe,Apparel,Backpack Pro,Retail Affiliate,50,259.18,0.0,12959.0,7323.83,5635.17,43.48,4.5
+TRX-1238,2024-03-27,Asia Pacific,Furniture,Lounge Sofa,Retail Affiliate,4,133.54,0.1,480.74,347.44,133.3,27.73,4.5
+TRX-1239,2024-02-10,Latin America,Furniture,Bookshelf Modern,Direct Sales,2,447.91,0.05,851.03,400.61,450.42,52.93,4.0
+TRX-1240,2024-05-09,Middle East,Apparel,Polo T-Shirt,Retail Affiliate,10,392.38,0.05,3727.61,2079.15,1648.46,44.22,3.5
+TRX-1241,2024-09-17,North America,Furniture,Conference Table,Retail Affiliate,4,282.52,0.0,1130.08,799.41,330.67,29.26,4.0
+TRX-1242,2024-01-10,Latin America,Office Supplies,Gel Pen Set,Online Store,5,132.97,0.2,531.88,311.75,220.13,41.39,3.5
+TRX-1243,2024-09-13,Europe,Hardware,Cable Management Kit,Wholesale Partner,1,453.81,0.0,453.81,317.06,136.75,30.13,4.0
+TRX-1244,2024-10-10,North America,Apparel,Branded Hoodie,Retail Affiliate,3,807.58,0.0,2422.74,1351.34,1071.4,44.22,3.0
+TRX-1245,2024-02-13,North America,Office Supplies,Gel Pen Set,Direct Sales,4,572.64,0.05,2176.03,1530.3,645.73,29.67,4.0
+TRX-1246,2024-11-29,North America,Apparel,Corporate Jacket,Wholesale Partner,10,485.47,0.05,4611.97,2122.69,2489.28,53.97,3.5
+TRX-1247,2024-07-16,Middle East,Apparel,Branded Hoodie,Wholesale Partner,3,797.7,0.0,2393.1,1164.56,1228.54,51.34,3.5
+TRX-1248,2024-10-02,Middle East,Apparel,Corporate Jacket,Retail Affiliate,1,110.23,0.05,104.72,68.74,35.98,34.36,5.0
+TRX-1249,2024-07-03,Middle East,Electronics,USB-C Hub,Online Store,20,29.08,0.2,465.28,298.59,166.69,35.83,4.5
+TRX-1250,2024-05-30,Europe,Furniture,Bookshelf Modern,Online Store,2,455.43,0.0,910.86,555.33,355.53,39.03,3.0
+TRX-1251,2024-12-06,Latin America,Electronics,Pro Laptop 15,Retail Affiliate,2,606.36,0.0,1212.72,790.73,421.99,34.8,3.5
+TRX-1252,2024-10-16,Europe,Furniture,Executive Desk,Online Store,4,391.09,0.15,1329.71,669.04,660.67,49.69,4.5
+TRX-1253,2024-01-26,Asia Pacific,Electronics,Ultra HD Monitor,Wholesale Partner,20,333.79,0.0,6675.8,3493.07,3182.73,47.68,5.0
+TRX-1254,2024-10-15,Asia Pacific,Apparel,Polo T-Shirt,Direct Sales,3,50.07,0.15,127.68,83.87,43.81,34.31,4.5
+TRX-1255,2024-08-07,Middle East,Apparel,Backpack Pro,Direct Sales,15,707.14,0.1,9546.39,5948.89,3597.5,37.68,3.5
+TRX-1256,2024-09-25,Europe,Office Supplies,Ergonomic Chair,Retail Affiliate,3,287.44,0.15,732.97,548.26,184.71,25.2,4.5
+TRX-1257,2024-05-11,Middle East,Office Supplies,Gel Pen Set,Direct Sales,3,634.22,0.15,1617.26,923.85,693.41,42.88,4.5
+TRX-1258,2024-11-26,Europe,Apparel,Corporate Jacket,Retail Affiliate,5,653.89,0.1,2942.51,1708.64,1233.87,41.93,4.0
+TRX-1259,2024-07-17,Asia Pacific,Electronics,Smart Watch 5,Wholesale Partner,2,560.49,0.0,1120.98,716.38,404.6,36.09,4.5
+TRX-1260,2024-10-17,Middle East,Office Supplies,Ergonomic Chair,Retail Affiliate,2,477.51,0.05,907.27,556.8,350.47,38.63,4.0
+TRX-1261,2024-09-21,Asia Pacific,Hardware,Webcam 4K,Retail Affiliate,1,522.85,0.1,470.57,299.21,171.36,36.42,4.0
+TRX-1262,2024-06-02,Asia Pacific,Apparel,Corporate Jacket,Direct Sales,10,453.24,0.05,4305.78,1970.72,2335.06,54.23,3.5
+TRX-1263,2024-02-12,Latin America,Apparel,Branded Hoodie,Direct Sales,1,459.46,0.0,459.46,272.46,187.0,40.7,4.5
+TRX-1264,2024-04-16,Latin America,Hardware,Webcam 4K,Wholesale Partner,5,617.45,0.2,2469.8,1124.92,1344.88,54.45,3.0
+TRX-1265,2024-09-27,Asia Pacific,Electronics,Smart Watch 5,Wholesale Partner,3,765.88,0.0,2297.64,1672.94,624.7,27.19,3.5
+TRX-1266,2024-02-21,North America,Hardware,Mechanical Keyboard,Retail Affiliate,2,185.51,0.0,371.02,235.67,135.35,36.48,4.5
+TRX-1267,2024-06-06,Asia Pacific,Office Supplies,Laser Paper Ream,Wholesale Partner,15,464.11,0.05,6613.57,3153.93,3459.64,52.31,4.5
+TRX-1268,2024-12-16,Europe,Office Supplies,Laser Paper Ream,Wholesale Partner,2,366.18,0.0,732.36,369.36,363.0,49.57,5.0
+TRX-1269,2024-10-24,Europe,Electronics,Pro Laptop 15,Wholesale Partner,5,177.28,0.0,886.4,609.86,276.54,31.2,5.0
+TRX-1270,2024-06-21,Latin America,Electronics,USB-C Hub,Wholesale Partner,2,96.81,0.1,174.26,97.94,76.32,43.8,4.5
+TRX-1271,2024-01-26,Europe,Electronics,Ultra HD Monitor,Wholesale Partner,15,521.33,0.1,7037.96,5033.98,2003.98,28.47,4.0
+TRX-1272,2024-07-26,Latin America,Office Supplies,Standing Desk,Direct Sales,3,364.1,0.1,983.07,707.82,275.25,28.0,4.5
+TRX-1273,2024-06-15,Middle East,Furniture,Lounge Sofa,Wholesale Partner,2,274.2,0.1,493.56,348.13,145.43,29.47,4.5
+TRX-1274,2024-06-23,Europe,Furniture,Conference Table,Wholesale Partner,1,539.68,0.05,512.7,320.94,191.76,37.4,4.0
+TRX-1275,2024-10-19,Asia Pacific,Electronics,Smart Watch 5,Online Store,10,415.14,0.05,3943.83,1985.85,1957.98,49.65,4.5
+TRX-1276,2024-09-10,Europe,Office Supplies,Gel Pen Set,Wholesale Partner,3,476.03,0.0,1428.09,810.12,617.97,43.27,3.5
+TRX-1277,2024-05-04,North America,Apparel,Branded Hoodie,Wholesale Partner,2,517.56,0.1,931.61,542.96,388.65,41.72,4.5
+TRX-1278,2024-08-05,Middle East,Electronics,Smart Watch 5,Wholesale Partner,4,842.79,0.0,3371.16,1622.31,1748.85,51.88,4.0
+TRX-1279,2024-06-12,Asia Pacific,Hardware,Surge Protector,Wholesale Partner,10,662.41,0.0,6624.1,4263.18,2360.92,35.64,3.5
+TRX-1280,2024-02-18,North America,Office Supplies,Gel Pen Set,Online Store,2,211.99,0.0,423.98,199.62,224.36,52.92,4.5
+TRX-1281,2024-07-18,Middle East,Hardware,Webcam 4K,Direct Sales,4,82.69,0.05,314.22,166.96,147.26,46.87,4.5
+TRX-1282,2024-08-02,North America,Apparel,Corporate Jacket,Retail Affiliate,3,292.58,0.0,877.74,571.27,306.47,34.92,4.0
+TRX-1283,2024-05-29,North America,Office Supplies,Ergonomic Chair,Online Store,2,846.27,0.05,1607.91,884.46,723.45,44.99,4.5
+TRX-1284,2024-07-26,Asia Pacific,Apparel,Branded Hoodie,Online Store,15,169.62,0.1,2289.87,1168.48,1121.39,48.97,4.0
+TRX-1285,2024-05-15,Europe,Hardware,Precision Mouse,Retail Affiliate,2,702.99,0.0,1405.98,759.59,646.39,45.97,4.5
+TRX-1286,2024-01-05,Latin America,Furniture,Lounge Sofa,Retail Affiliate,15,218.58,0.0,3278.7,1625.33,1653.37,50.43,4.5
+TRX-1287,2024-08-18,Middle East,Office Supplies,Gel Pen Set,Online Store,5,226.02,0.1,1017.09,486.05,531.04,52.21,5.0
+TRX-1288,2024-10-18,Latin America,Hardware,Surge Protector,Wholesale Partner,3,443.14,0.0,1329.42,623.41,706.01,53.11,4.0
+TRX-1289,2024-11-26,North America,Furniture,Bookshelf Modern,Retail Affiliate,2,322.11,0.0,644.22,470.98,173.24,26.89,4.5
+TRX-1290,2024-05-22,Latin America,Office Supplies,Filing Cabinet,Online Store,2,802.47,0.15,1364.2,680.09,684.11,50.15,5.0
+TRX-1291,2024-03-22,Asia Pacific,Hardware,Webcam 4K,Online Store,10,197.02,0.15,1674.67,812.06,862.61,51.51,4.5
+TRX-1292,2024-01-07,Latin America,Furniture,Bookshelf Modern,Online Store,4,464.3,0.1,1671.48,823.01,848.47,50.76,4.0
+TRX-1293,2024-07-24,Latin America,Electronics,Wireless Headphones,Online Store,1,357.46,0.0,357.46,235.38,122.08,34.15,5.0
+TRX-1294,2024-06-12,North America,Furniture,Bookshelf Modern,Direct Sales,3,703.55,0.0,2110.65,1495.62,615.03,29.14,4.5
+TRX-1295,2024-01-25,Middle East,Office Supplies,Ergonomic Chair,Direct Sales,1,766.07,0.1,689.46,375.93,313.53,45.47,4.5
+TRX-1296,2024-06-21,Middle East,Office Supplies,Standing Desk,Wholesale Partner,1,419.54,0.05,398.56,207.16,191.4,48.02,4.0
+TRX-1297,2024-05-25,Europe,Hardware,Mechanical Keyboard,Wholesale Partner,20,381.81,0.0,7636.2,4595.79,3040.41,39.82,4.0
+TRX-1298,2024-05-30,Europe,Office Supplies,Laser Paper Ream,Wholesale Partner,10,25.27,0.0,252.7,159.39,93.31,36.93,3.5
+TRX-1299,2024-09-23,Europe,Electronics,Pro Laptop 15,Direct Sales,1,669.13,0.05,635.67,297.14,338.53,53.26,4.5
+TRX-1300,2024-05-28,North America,Furniture,Bookshelf Modern,Wholesale Partner,3,270.32,0.05,770.41,386.13,384.28,49.88,3.5
+TRX-1301,2024-09-16,North America,Office Supplies,Filing Cabinet,Online Store,2,108.36,0.1,195.05,91.42,103.63,53.13,4.5
+TRX-1302,2024-05-03,Europe,Apparel,Backpack Pro,Online Store,1,216.93,0.0,216.93,108.93,108.0,49.79,4.5
+TRX-1303,2024-01-07,North America,Apparel,Performance Cap,Wholesale Partner,4,678.48,0.05,2578.22,1666.1,912.12,35.38,4.0
+TRX-1304,2024-07-01,Middle East,Hardware,Mechanical Keyboard,Retail Affiliate,2,170.93,0.0,341.86,252.68,89.18,26.09,4.0
+TRX-1305,2024-11-09,Middle East,Office Supplies,Laser Paper Ream,Online Store,2,40.83,0.0,81.66,55.37,26.29,32.19,3.5
+TRX-1306,2024-06-29,Middle East,Furniture,Conference Table,Online Store,3,291.89,0.1,788.1,503.43,284.67,36.12,4.5
+TRX-1307,2024-07-09,North America,Apparel,Performance Cap,Retail Affiliate,15,427.48,0.0,6412.2,3939.58,2472.62,38.56,4.0
+TRX-1308,2024-04-21,North America,Apparel,Performance Cap,Online Store,2,148.12,0.0,296.24,210.15,86.09,29.06,4.5
+TRX-1309,2024-01-21,North America,Furniture,Lounge Sofa,Direct Sales,2,335.11,0.0,670.22,393.98,276.24,41.22,5.0
+TRX-1310,2024-05-09,North America,Office Supplies,Filing Cabinet,Wholesale Partner,1,109.27,0.1,98.34,72.07,26.27,26.71,4.0
+TRX-1311,2024-10-03,Latin America,Hardware,Cable Management Kit,Wholesale Partner,2,718.72,0.0,1437.44,1035.72,401.72,27.95,4.5
+TRX-1312,2024-12-08,Latin America,Hardware,Cable Management Kit,Retail Affiliate,2,343.74,0.05,653.11,338.37,314.74,48.19,4.0
+TRX-1313,2024-11-28,North America,Electronics,USB-C Hub,Direct Sales,1,633.38,0.05,601.71,393.56,208.15,34.59,3.0
+TRX-1314,2024-01-17,Latin America,Apparel,Polo T-Shirt,Retail Affiliate,4,568.7,0.1,2047.32,986.01,1061.31,51.84,5.0
+TRX-1315,2024-07-29,Asia Pacific,Apparel,Performance Cap,Retail Affiliate,4,316.43,0.0,1265.72,702.36,563.36,44.51,4.5
+TRX-1316,2024-12-17,North America,Furniture,Conference Table,Wholesale Partner,1,168.64,0.0,168.64,109.29,59.35,35.19,3.5
+TRX-1317,2024-05-15,Asia Pacific,Furniture,Bookshelf Modern,Retail Affiliate,2,93.16,0.05,177.0,127.38,49.62,28.03,4.5
+TRX-1318,2024-11-19,North America,Electronics,Pro Laptop 15,Online Store,3,340.1,0.0,1020.3,496.29,524.01,51.36,4.5
+TRX-1319,2024-05-28,Latin America,Electronics,Ultra HD Monitor,Direct Sales,3,462.5,0.0,1387.5,1027.51,359.99,25.95,3.5
+TRX-1320,2024-10-14,Middle East,Electronics,USB-C Hub,Wholesale Partner,2,119.01,0.05,226.12,164.18,61.94,27.39,4.5
+TRX-1321,2024-06-01,North America,Apparel,Corporate Jacket,Retail Affiliate,1,61.08,0.0,61.08,38.45,22.63,37.05,4.0
+TRX-1322,2024-07-31,North America,Furniture,Lounge Sofa,Wholesale Partner,3,345.64,0.0,1036.92,551.78,485.14,46.79,4.5
+TRX-1323,2024-08-09,Asia Pacific,Electronics,USB-C Hub,Direct Sales,2,35.49,0.2,56.78,36.99,19.79,34.85,5.0
+TRX-1324,2024-05-28,Europe,Apparel,Polo T-Shirt,Online Store,5,783.11,0.0,3915.55,2648.92,1266.63,32.35,5.0
+TRX-1325,2024-09-12,Asia Pacific,Hardware,Webcam 4K,Online Store,4,485.2,0.0,1940.8,904.72,1036.08,53.38,4.0
+TRX-1326,2024-01-29,Asia Pacific,Hardware,Precision Mouse,Retail Affiliate,20,798.35,0.0,15967.0,7974.63,7992.37,50.06,4.5
+TRX-1327,2024-02-13,Middle East,Hardware,Cable Management Kit,Online Store,1,821.23,0.05,780.17,386.34,393.83,50.48,4.5
+TRX-1328,2024-01-19,Middle East,Furniture,Executive Desk,Direct Sales,3,512.04,0.05,1459.31,786.95,672.36,46.07,3.5
+TRX-1329,2024-05-15,Asia Pacific,Furniture,Mesh Task Chair,Wholesale Partner,1,501.17,0.15,425.99,247.13,178.86,41.99,4.0
+TRX-1330,2024-04-13,North America,Office Supplies,Standing Desk,Retail Affiliate,1,228.51,0.1,205.66,153.74,51.92,25.25,3.5
+TRX-1331,2024-10-28,North America,Office Supplies,Ergonomic Chair,Online Store,10,567.49,0.0,5674.9,3817.53,1857.37,32.73,4.5
+TRX-1332,2024-03-26,Middle East,Office Supplies,Gel Pen Set,Retail Affiliate,1,318.19,0.1,286.37,176.48,109.89,38.37,4.5
+TRX-1333,2024-01-20,Latin America,Furniture,Bookshelf Modern,Wholesale Partner,5,711.96,0.0,3559.8,2402.38,1157.42,32.51,4.0
+TRX-1334,2024-05-11,Asia Pacific,Furniture,Lounge Sofa,Online Store,1,277.12,0.15,235.55,176.4,59.15,25.11,4.0
+TRX-1335,2024-08-17,North America,Office Supplies,Standing Desk,Online Store,3,668.83,0.0,2006.49,985.88,1020.61,50.87,4.0
+TRX-1336,2024-02-26,North America,Furniture,Conference Table,Retail Affiliate,4,27.66,0.05,105.11,58.51,46.6,44.33,4.0
+TRX-1337,2024-08-16,Latin America,Hardware,Surge Protector,Retail Affiliate,2,746.27,0.05,1417.91,945.78,472.13,33.3,4.5
+TRX-1338,2024-03-22,Asia Pacific,Office Supplies,Laser Paper Ream,Online Store,3,487.54,0.05,1389.49,907.25,482.24,34.71,4.5
+TRX-1339,2024-05-31,Asia Pacific,Apparel,Branded Hoodie,Wholesale Partner,1,290.74,0.05,276.2,136.64,139.56,50.53,4.0
+TRX-1340,2024-06-21,Middle East,Apparel,Backpack Pro,Wholesale Partner,5,608.84,0.1,2739.78,1658.06,1081.72,39.48,3.5
+TRX-1341,2024-09-07,North America,Office Supplies,Gel Pen Set,Online Store,2,383.07,0.0,766.14,395.47,370.67,48.38,4.5
+TRX-1342,2024-07-16,North America,Office Supplies,Filing Cabinet,Direct Sales,5,630.23,0.0,3151.15,1582.02,1569.13,49.8,4.5
+TRX-1343,2024-03-15,Europe,Furniture,Mesh Task Chair,Wholesale Partner,5,122.63,0.05,582.49,408.87,173.62,29.81,4.5
+TRX-1344,2024-09-15,North America,Electronics,Smart Watch 5,Retail Affiliate,15,192.42,0.05,2741.98,2039.74,702.24,25.61,3.0
+TRX-1345,2024-12-30,Europe,Office Supplies,Gel Pen Set,Direct Sales,1,711.15,0.0,711.15,430.55,280.6,39.46,4.5
+TRX-1346,2024-11-15,Middle East,Hardware,Webcam 4K,Online Store,1,728.5,0.0,728.5,410.2,318.3,43.69,3.5
+TRX-1347,2024-09-16,Latin America,Electronics,Smart Watch 5,Online Store,5,403.0,0.05,1914.25,938.07,976.18,51.0,3.0
+TRX-1348,2024-10-23,Latin America,Electronics,Ultra HD Monitor,Retail Affiliate,10,775.25,0.1,6977.25,3154.48,3822.77,54.79,3.5
+TRX-1349,2024-02-05,Middle East,Apparel,Performance Cap,Wholesale Partner,3,136.67,0.1,369.01,238.78,130.23,35.29,3.0
+TRX-1350,2024-08-07,North America,Apparel,Branded Hoodie,Wholesale Partner,2,61.79,0.0,123.58,65.83,57.75,46.73,4.5
+TRX-1351,2024-03-10,Europe,Hardware,Surge Protector,Wholesale Partner,20,331.25,0.05,6293.75,4427.26,1866.49,29.66,3.5
+TRX-1352,2024-01-21,North America,Apparel,Branded Hoodie,Direct Sales,2,52.73,0.0,105.46,76.13,29.33,27.81,4.0
+TRX-1353,2024-09-04,Latin America,Hardware,Surge Protector,Online Store,2,311.56,0.15,529.65,241.81,287.84,54.35,4.0
+TRX-1354,2024-05-21,Latin America,Furniture,Mesh Task Chair,Direct Sales,1,752.76,0.0,752.76,525.7,227.06,30.16,4.5
+TRX-1355,2024-10-31,Asia Pacific,Office Supplies,Ergonomic Chair,Online Store,20,236.64,0.1,4259.52,2169.92,2089.6,49.06,4.0
+TRX-1356,2024-06-26,Middle East,Hardware,Precision Mouse,Wholesale Partner,20,527.03,0.0,10540.6,5104.06,5436.54,51.58,4.5
+TRX-1357,2024-05-31,Asia Pacific,Office Supplies,Standing Desk,Online Store,2,98.29,0.1,176.92,108.55,68.37,38.64,3.5
+TRX-1358,2024-01-17,Europe,Furniture,Bookshelf Modern,Direct Sales,10,621.32,0.0,6213.2,4115.32,2097.88,33.76,4.5
+TRX-1359,2024-01-22,Middle East,Office Supplies,Ergonomic Chair,Direct Sales,1,723.71,0.05,687.52,338.46,349.06,50.77,4.5
+TRX-1360,2024-03-26,Latin America,Apparel,Backpack Pro,Retail Affiliate,4,406.39,0.05,1544.28,996.51,547.77,35.47,4.0
+TRX-1361,2024-08-30,Middle East,Hardware,Webcam 4K,Wholesale Partner,5,117.35,0.0,586.75,436.2,150.55,25.66,4.5
+TRX-1362,2024-08-01,Europe,Apparel,Branded Hoodie,Retail Affiliate,1,238.36,0.0,238.36,130.88,107.48,45.09,3.0
+TRX-1363,2024-06-16,Latin America,Furniture,Mesh Task Chair,Online Store,1,569.19,0.0,569.19,299.76,269.43,47.34,5.0
+TRX-1364,2024-02-13,Asia Pacific,Hardware,Mechanical Keyboard,Wholesale Partner,5,47.41,0.0,237.05,139.66,97.39,41.08,4.0
+TRX-1365,2024-06-26,Latin America,Apparel,Branded Hoodie,Online Store,2,112.02,0.1,201.64,140.47,61.17,30.34,3.5
+TRX-1366,2024-10-23,Asia Pacific,Furniture,Executive Desk,Online Store,2,186.38,0.0,372.76,178.26,194.5,52.18,4.5
+TRX-1367,2024-04-13,Middle East,Hardware,Cable Management Kit,Retail Affiliate,3,683.28,0.0,2049.84,1485.16,564.68,27.55,4.0
+TRX-1368,2024-12-30,Latin America,Hardware,Cable Management Kit,Online Store,2,485.2,0.0,970.4,615.27,355.13,36.6,5.0
+TRX-1369,2024-01-08,Latin America,Hardware,Precision Mouse,Wholesale Partner,2,836.41,0.0,1672.82,854.15,818.67,48.94,5.0
+TRX-1370,2024-09-02,Middle East,Apparel,Backpack Pro,Direct Sales,4,150.49,0.05,571.86,362.9,208.96,36.54,5.0
+TRX-1371,2024-04-18,North America,Apparel,Branded Hoodie,Wholesale Partner,1,635.28,0.0,635.28,474.25,161.03,25.35,5.0
+TRX-1372,2024-08-10,North America,Hardware,Precision Mouse,Online Store,4,548.6,0.0,2194.4,1568.07,626.33,28.54,4.5
+TRX-1373,2024-06-02,Europe,Apparel,Performance Cap,Direct Sales,1,591.66,0.0,591.66,271.46,320.2,54.12,3.5
+TRX-1374,2024-05-13,Asia Pacific,Furniture,Mesh Task Chair,Retail Affiliate,4,179.61,0.15,610.67,424.85,185.82,30.43,4.5
+TRX-1375,2024-07-31,Latin America,Furniture,Lounge Sofa,Online Store,2,413.71,0.1,744.68,437.71,306.97,41.22,4.0
+TRX-1376,2024-06-04,Asia Pacific,Electronics,Ultra HD Monitor,Online Store,5,750.85,0.05,3566.54,1866.38,1700.16,47.67,4.5
+TRX-1377,2024-12-03,Middle East,Apparel,Corporate Jacket,Wholesale Partner,1,222.9,0.0,222.9,123.57,99.33,44.56,4.5
+TRX-1378,2024-05-18,Middle East,Office Supplies,Filing Cabinet,Online Store,4,537.27,0.0,2149.08,1509.59,639.49,29.76,4.5
+TRX-1379,2024-09-04,Middle East,Office Supplies,Filing Cabinet,Wholesale Partner,2,50.67,0.1,91.21,43.95,47.26,51.81,3.5
+TRX-1380,2024-12-08,Latin America,Office Supplies,Laser Paper Ream,Online Store,1,730.98,0.0,730.98,512.5,218.48,29.89,3.5
+TRX-1381,2024-01-21,Asia Pacific,Hardware,Surge Protector,Wholesale Partner,2,739.77,0.0,1479.54,825.75,653.79,44.19,3.0
+TRX-1382,2024-02-08,Europe,Hardware,Mechanical Keyboard,Retail Affiliate,2,563.86,0.15,958.56,681.88,276.68,28.86,4.5
+TRX-1383,2024-08-06,Middle East,Furniture,Executive Desk,Wholesale Partner,1,766.55,0.1,689.89,491.39,198.5,28.77,4.5
+TRX-1384,2024-11-23,Asia Pacific,Office Supplies,Standing Desk,Wholesale Partner,1,393.82,0.05,374.13,265.4,108.73,29.06,3.5
+TRX-1385,2024-12-09,Latin America,Office Supplies,Standing Desk,Direct Sales,2,686.94,0.05,1305.19,594.38,710.81,54.46,3.0
+TRX-1386,2024-10-01,Europe,Electronics,Ultra HD Monitor,Online Store,20,130.15,0.1,2342.7,1737.89,604.81,25.82,4.5
+TRX-1387,2024-04-30,Middle East,Hardware,Cable Management Kit,Online Store,1,819.32,0.1,737.39,399.24,338.15,45.86,4.0
+TRX-1388,2024-10-12,Asia Pacific,Hardware,Precision Mouse,Retail Affiliate,10,117.88,0.1,1060.92,649.51,411.41,38.78,3.0
+TRX-1389,2024-11-29,Europe,Office Supplies,Standing Desk,Direct Sales,3,259.16,0.1,699.73,330.46,369.27,52.77,4.5
+TRX-1390,2024-04-19,Latin America,Electronics,Smart Watch 5,Wholesale Partner,1,769.89,0.15,654.41,425.59,228.82,34.97,4.0
+TRX-1391,2024-06-06,Europe,Apparel,Backpack Pro,Wholesale Partner,20,541.6,0.05,10290.4,7218.16,3072.24,29.86,4.0
+TRX-1392,2024-10-30,Latin America,Office Supplies,Laser Paper Ream,Direct Sales,2,676.06,0.05,1284.51,831.91,452.6,35.24,4.5
+TRX-1393,2024-11-19,Asia Pacific,Apparel,Polo T-Shirt,Wholesale Partner,3,119.82,0.0,359.46,259.85,99.61,27.71,5.0
+TRX-1394,2024-11-27,Middle East,Apparel,Performance Cap,Wholesale Partner,1,813.56,0.0,813.56,535.6,277.96,34.17,5.0
+TRX-1395,2024-08-19,Latin America,Hardware,Cable Management Kit,Retail Affiliate,2,138.46,0.0,276.92,138.31,138.61,50.05,5.0
+TRX-1396,2024-12-13,Europe,Office Supplies,Laser Paper Ream,Direct Sales,2,675.76,0.05,1283.94,838.32,445.62,34.71,3.5
+TRX-1397,2024-06-10,Asia Pacific,Electronics,Smart Watch 5,Wholesale Partner,2,427.33,0.1,769.19,565.48,203.71,26.48,4.0
+TRX-1398,2024-07-28,Middle East,Electronics,USB-C Hub,Online Store,20,246.89,0.05,4690.91,3365.47,1325.44,28.26,4.0
+TRX-1399,2024-04-02,Asia Pacific,Electronics,Wireless Headphones,Wholesale Partner,2,62.66,0.0,125.32,66.8,58.52,46.7,4.0
+TRX-1400,2024-06-25,Latin America,Hardware,Precision Mouse,Retail Affiliate,3,412.54,0.05,1175.74,696.37,479.37,40.77,4.0
+TRX-1401,2024-12-18,North America,Office Supplies,Gel Pen Set,Wholesale Partner,1,31.32,0.0,31.32,14.44,16.88,53.9,4.0
+TRX-1402,2024-08-20,North America,Apparel,Branded Hoodie,Retail Affiliate,5,496.94,0.05,2360.46,1270.04,1090.42,46.2,4.0
+TRX-1403,2024-07-01,Middle East,Furniture,Bookshelf Modern,Retail Affiliate,1,534.08,0.0,534.08,295.65,238.43,44.64,5.0
+TRX-1404,2024-02-15,North America,Furniture,Bookshelf Modern,Online Store,2,604.36,0.2,966.98,473.29,493.69,51.05,3.5
+TRX-1405,2024-04-18,Asia Pacific,Electronics,Ultra HD Monitor,Direct Sales,2,627.13,0.15,1066.12,694.35,371.77,34.87,4.5
+TRX-1406,2024-01-08,Europe,Electronics,Ultra HD Monitor,Retail Affiliate,2,704.63,0.2,1127.41,785.08,342.33,30.36,5.0
+TRX-1407,2024-12-05,Europe,Apparel,Performance Cap,Online Store,1,617.0,0.1,555.3,256.64,298.66,53.78,4.5
+TRX-1408,2024-05-26,North America,Electronics,Ultra HD Monitor,Direct Sales,1,341.67,0.05,324.59,182.0,142.59,43.93,4.5
+TRX-1409,2024-02-10,Europe,Hardware,Cable Management Kit,Retail Affiliate,3,767.77,0.05,2188.14,1195.43,992.71,45.37,5.0
+TRX-1410,2024-09-22,North America,Furniture,Bookshelf Modern,Wholesale Partner,4,584.9,0.0,2339.6,1469.5,870.1,37.19,4.0
+TRX-1411,2024-06-03,North America,Electronics,Wireless Headphones,Retail Affiliate,1,120.48,0.0,120.48,60.43,60.05,49.84,4.5
+TRX-1412,2024-09-24,Middle East,Apparel,Branded Hoodie,Online Store,3,708.94,0.2,1701.46,1184.22,517.24,30.4,4.0
+TRX-1413,2024-02-18,Latin America,Hardware,Cable Management Kit,Online Store,2,501.19,0.0,1002.38,488.06,514.32,51.31,4.0
+TRX-1414,2024-04-16,Middle East,Hardware,Precision Mouse,Direct Sales,2,698.8,0.0,1397.6,791.35,606.25,43.38,4.0
+TRX-1415,2024-07-06,Asia Pacific,Apparel,Branded Hoodie,Wholesale Partner,4,252.19,0.0,1008.76,692.71,316.05,31.33,4.0
+TRX-1416,2024-01-23,Europe,Hardware,Surge Protector,Direct Sales,2,396.35,0.05,753.07,510.43,242.64,32.22,4.0
+TRX-1417,2024-06-15,North America,Hardware,Webcam 4K,Online Store,3,331.22,0.05,943.98,624.61,319.37,33.83,4.0
+TRX-1418,2024-02-16,Middle East,Hardware,Cable Management Kit,Online Store,1,557.74,0.0,557.74,378.47,179.27,32.14,3.5
+TRX-1419,2024-05-05,Latin America,Apparel,Branded Hoodie,Retail Affiliate,1,557.8,0.05,529.91,292.61,237.3,44.78,4.5
+TRX-1420,2024-07-22,Asia Pacific,Furniture,Executive Desk,Wholesale Partner,1,723.89,0.05,687.7,483.12,204.58,29.75,4.5
+TRX-1421,2024-12-09,North America,Furniture,Bookshelf Modern,Online Store,1,163.07,0.2,130.46,67.65,62.81,48.15,4.0
+TRX-1422,2024-08-21,Middle East,Furniture,Bookshelf Modern,Online Store,20,341.97,0.0,6839.4,3141.25,3698.15,54.07,4.0
+TRX-1423,2024-05-01,Asia Pacific,Hardware,Webcam 4K,Direct Sales,2,146.33,0.05,278.03,135.96,142.07,51.1,3.5
+TRX-1424,2024-07-19,Latin America,Apparel,Polo T-Shirt,Direct Sales,15,284.02,0.15,3621.25,2284.58,1336.67,36.91,5.0
+TRX-1425,2024-10-04,North America,Apparel,Branded Hoodie,Wholesale Partner,2,817.94,0.0,1635.88,925.34,710.54,43.43,4.0
+TRX-1426,2024-12-08,Europe,Electronics,Wireless Headphones,Online Store,1,481.81,0.05,457.72,310.6,147.12,32.14,4.0
+TRX-1427,2024-01-21,Asia Pacific,Furniture,Lounge Sofa,Retail Affiliate,2,238.95,0.0,477.9,223.32,254.58,53.27,5.0
+TRX-1428,2024-04-20,Middle East,Apparel,Corporate Jacket,Online Store,3,311.5,0.05,887.77,436.57,451.2,50.82,4.5
+TRX-1429,2024-08-01,Europe,Furniture,Mesh Task Chair,Online Store,1,670.47,0.1,603.42,325.94,277.48,45.98,4.5
+TRX-1430,2024-05-24,Asia Pacific,Furniture,Executive Desk,Wholesale Partner,3,191.08,0.0,573.24,264.74,308.5,53.82,4.5
+TRX-1431,2024-11-05,Latin America,Apparel,Performance Cap,Retail Affiliate,10,134.21,0.05,1275.0,802.91,472.09,37.03,4.0
+TRX-1432,2024-07-02,Asia Pacific,Office Supplies,Gel Pen Set,Retail Affiliate,10,132.79,0.1,1195.11,582.55,612.56,51.26,4.0
+TRX-1433,2024-10-30,Asia Pacific,Hardware,Webcam 4K,Online Store,10,803.83,0.0,8038.3,4732.97,3305.33,41.12,3.5
+TRX-1434,2024-03-15,Latin America,Electronics,Smart Watch 5,Direct Sales,5,430.84,0.0,2154.2,1286.97,867.23,40.26,4.0
+TRX-1435,2024-08-29,Middle East,Furniture,Mesh Task Chair,Online Store,5,343.9,0.05,1633.52,976.35,657.17,40.23,4.5
+TRX-1436,2024-08-26,North America,Furniture,Mesh Task Chair,Wholesale Partner,10,401.18,0.05,3811.21,2403.48,1407.73,36.94,4.5
+TRX-1437,2024-12-02,Latin America,Hardware,Surge Protector,Direct Sales,15,190.39,0.0,2855.85,2016.77,839.08,29.38,4.5
+TRX-1438,2024-11-20,Latin America,Furniture,Conference Table,Online Store,2,223.32,0.0,446.64,235.3,211.34,47.32,4.0
+TRX-1439,2024-12-14,Asia Pacific,Hardware,Surge Protector,Wholesale Partner,3,789.27,0.0,2367.81,1404.24,963.57,40.69,3.0
+TRX-1440,2024-07-22,North America,Electronics,Smart Watch 5,Wholesale Partner,10,459.96,0.05,4369.62,2811.16,1558.46,35.67,4.5
+TRX-1441,2024-01-19,Middle East,Office Supplies,Ergonomic Chair,Direct Sales,2,198.83,0.2,318.13,144.0,174.13,54.74,4.0
+TRX-1442,2024-10-18,Middle East,Apparel,Branded Hoodie,Direct Sales,50,99.1,0.0,4955.0,2295.4,2659.6,53.68,4.5
+TRX-1443,2024-05-07,North America,Office Supplies,Filing Cabinet,Wholesale Partner,4,142.85,0.1,514.26,350.04,164.22,31.93,4.5
+TRX-1444,2024-10-16,Latin America,Hardware,Mechanical Keyboard,Direct Sales,10,602.53,0.0,6025.3,3432.79,2592.51,43.03,3.5
+TRX-1445,2024-09-15,Latin America,Furniture,Mesh Task Chair,Retail Affiliate,2,360.86,0.0,721.72,400.3,321.42,44.54,4.5
+TRX-1446,2024-12-23,North America,Hardware,Precision Mouse,Wholesale Partner,3,600.65,0.0,1801.95,865.44,936.51,51.97,4.0
+TRX-1447,2024-07-06,Latin America,Furniture,Mesh Task Chair,Direct Sales,1,438.02,0.1,394.22,261.02,133.2,33.79,3.5
+TRX-1448,2024-08-02,North America,Electronics,Wireless Headphones,Retail Affiliate,4,575.15,0.0,2300.6,1631.17,669.43,29.1,5.0
+TRX-1449,2024-11-16,Middle East,Apparel,Backpack Pro,Online Store,2,772.54,0.0,1545.08,916.13,628.95,40.71,4.0
+TRX-1450,2024-10-07,Asia Pacific,Furniture,Conference Table,Direct Sales,1,52.78,0.0,52.78,30.34,22.44,42.52,3.5
+TRX-1451,2024-02-23,Middle East,Furniture,Conference Table,Direct Sales,10,440.04,0.05,4180.38,2615.91,1564.47,37.42,3.5
+TRX-1452,2024-11-30,North America,Office Supplies,Ergonomic Chair,Retail Affiliate,4,224.59,0.1,808.52,563.34,245.18,30.32,4.5
+TRX-1453,2024-04-28,Europe,Apparel,Branded Hoodie,Wholesale Partner,3,142.87,0.1,385.75,205.0,180.75,46.86,3.5
+TRX-1454,2024-02-18,Asia Pacific,Electronics,USB-C Hub,Wholesale Partner,10,704.62,0.1,6341.58,3370.32,2971.26,46.85,4.0
+TRX-1455,2024-10-20,Asia Pacific,Office Supplies,Standing Desk,Wholesale Partner,1,446.68,0.0,446.68,238.01,208.67,46.72,5.0
+TRX-1456,2024-11-15,Middle East,Office Supplies,Ergonomic Chair,Direct Sales,3,410.25,0.0,1230.75,901.07,329.68,26.79,4.0
+TRX-1457,2024-04-09,Europe,Office Supplies,Gel Pen Set,Online Store,1,322.19,0.0,322.19,226.44,95.75,29.72,5.0
+TRX-1458,2024-06-27,Asia Pacific,Hardware,Cable Management Kit,Wholesale Partner,15,373.47,0.0,5602.05,4094.52,1507.53,26.91,3.5
+TRX-1459,2024-04-29,Latin America,Hardware,Precision Mouse,Online Store,4,432.4,0.0,1729.6,1106.62,622.98,36.02,4.5
+TRX-1460,2024-01-24,North America,Furniture,Conference Table,Retail Affiliate,1,234.74,0.15,199.53,100.73,98.8,49.52,4.5
+TRX-1461,2024-07-29,Middle East,Apparel,Performance Cap,Online Store,15,604.6,0.0,9069.0,4367.72,4701.28,51.84,4.5
+TRX-1462,2024-02-10,Europe,Furniture,Executive Desk,Retail Affiliate,1,322.04,0.2,257.63,154.61,103.02,39.99,4.0
+TRX-1463,2024-01-13,Latin America,Hardware,Webcam 4K,Direct Sales,1,548.4,0.1,493.56,222.53,271.03,54.91,4.0
+TRX-1464,2024-11-05,Middle East,Hardware,Precision Mouse,Direct Sales,5,726.54,0.0,3632.7,2351.11,1281.59,35.28,5.0
+TRX-1465,2024-08-03,Latin America,Hardware,Mechanical Keyboard,Online Store,1,584.2,0.05,554.99,298.91,256.08,46.14,5.0
+TRX-1466,2024-01-28,Middle East,Office Supplies,Filing Cabinet,Direct Sales,1,633.1,0.2,506.48,235.85,270.63,53.43,4.5
+TRX-1467,2024-11-08,Europe,Furniture,Bookshelf Modern,Wholesale Partner,1,759.43,0.0,759.43,425.54,333.89,43.97,4.5
+TRX-1468,2024-01-13,Middle East,Furniture,Executive Desk,Wholesale Partner,5,473.64,0.0,2368.2,1554.52,813.68,34.36,4.0
+TRX-1469,2024-04-20,Europe,Hardware,Webcam 4K,Direct Sales,2,40.95,0.0,81.9,47.02,34.88,42.59,4.0
+TRX-1470,2024-07-06,Asia Pacific,Hardware,Cable Management Kit,Online Store,10,245.01,0.1,2205.09,1572.88,632.21,28.67,4.0
+TRX-1471,2024-04-01,Middle East,Office Supplies,Laser Paper Ream,Direct Sales,5,400.31,0.0,2001.55,1032.68,968.87,48.41,5.0
+TRX-1472,2024-06-10,Europe,Hardware,Cable Management Kit,Wholesale Partner,1,38.98,0.1,35.08,24.28,10.8,30.79,3.5
+TRX-1473,2024-01-07,Middle East,Electronics,Pro Laptop 15,Online Store,2,298.98,0.0,597.96,401.65,196.31,32.83,4.0
+TRX-1474,2024-05-14,North America,Hardware,Webcam 4K,Direct Sales,2,26.12,0.0,52.24,33.64,18.6,35.6,5.0
+TRX-1475,2024-02-14,Middle East,Apparel,Backpack Pro,Online Store,4,476.24,0.1,1714.46,1083.27,631.19,36.82,4.0
+TRX-1476,2024-07-23,Latin America,Hardware,Webcam 4K,Wholesale Partner,2,79.2,0.0,158.4,83.0,75.4,47.6,4.5
+TRX-1477,2024-05-12,Latin America,Office Supplies,Gel Pen Set,Wholesale Partner,2,72.72,0.2,116.35,85.26,31.09,26.72,4.0
+TRX-1478,2024-01-17,Latin America,Electronics,Pro Laptop 15,Direct Sales,4,556.79,0.05,2115.8,1445.26,670.54,31.69,4.0
+TRX-1479,2024-10-27,Latin America,Apparel,Performance Cap,Retail Affiliate,1,141.16,0.05,134.1,91.78,42.32,31.56,4.0
+TRX-1480,2024-11-16,Europe,Furniture,Lounge Sofa,Direct Sales,20,459.99,0.15,7819.83,3903.38,3916.45,50.08,4.0
+TRX-1481,2024-06-22,Asia Pacific,Furniture,Mesh Task Chair,Retail Affiliate,10,264.67,0.05,2514.37,1802.91,711.46,28.3,3.5
+TRX-1482,2024-02-23,Europe,Furniture,Lounge Sofa,Online Store,1,31.47,0.05,29.9,17.47,12.43,41.57,4.0
+TRX-1483,2024-02-15,Asia Pacific,Office Supplies,Gel Pen Set,Online Store,2,652.9,0.0,1305.8,959.4,346.4,26.53,3.5
+TRX-1484,2024-08-10,Asia Pacific,Apparel,Polo T-Shirt,Direct Sales,2,690.75,0.05,1312.42,805.79,506.63,38.6,3.0
+TRX-1485,2024-06-09,North America,Electronics,Ultra HD Monitor,Retail Affiliate,1,392.57,0.0,392.57,182.54,210.03,53.5,3.5
+TRX-1486,2024-06-17,Middle East,Apparel,Polo T-Shirt,Direct Sales,50,459.97,0.0,22998.5,14896.91,8101.59,35.23,3.5
+TRX-1487,2024-11-27,Asia Pacific,Hardware,Webcam 4K,Direct Sales,15,845.73,0.1,11417.36,8498.43,2918.93,25.57,4.0
+TRX-1488,2024-06-02,Europe,Apparel,Backpack Pro,Retail Affiliate,2,514.69,0.0,1029.38,655.41,373.97,36.33,3.0
+TRX-1489,2024-10-25,Latin America,Furniture,Conference Table,Online Store,5,629.0,0.0,3145.0,2074.11,1070.89,34.05,4.0
+TRX-1490,2024-12-17,North America,Apparel,Backpack Pro,Retail Affiliate,20,649.78,0.0,12995.6,7707.3,5288.3,40.69,4.0
+TRX-1491,2024-08-29,Europe,Office Supplies,Laser Paper Ream,Wholesale Partner,1,403.04,0.1,362.74,267.72,95.02,26.2,4.5
+TRX-1492,2024-06-04,North America,Electronics,Ultra HD Monitor,Retail Affiliate,2,34.99,0.0,69.98,38.99,30.99,44.28,4.0
+TRX-1493,2024-03-31,Middle East,Apparel,Corporate Jacket,Online Store,3,208.21,0.0,624.63,440.0,184.63,29.56,4.0
+TRX-1494,2024-08-15,North America,Apparel,Polo T-Shirt,Wholesale Partner,1,357.28,0.15,303.69,136.7,166.99,54.99,4.0
+TRX-1495,2024-04-02,Asia Pacific,Apparel,Corporate Jacket,Online Store,2,783.61,0.2,1253.78,581.09,672.69,53.65,4.0
+TRX-1496,2024-12-24,Latin America,Electronics,USB-C Hub,Direct Sales,3,99.85,0.0,299.55,139.98,159.57,53.27,4.5
+TRX-1497,2024-03-31,Asia Pacific,Hardware,Webcam 4K,Online Store,2,674.73,0.0,1349.46,835.62,513.84,38.08,4.0
+TRX-1498,2024-12-08,Latin America,Hardware,Surge Protector,Wholesale Partner,5,769.35,0.15,3269.74,2427.17,842.57,25.77,4.0
+TRX-1499,2024-12-19,Middle East,Hardware,Mechanical Keyboard,Direct Sales,1,57.12,0.0,57.12,28.71,28.41,49.74,4.5
+TRX-1005,2024-06-15,Europe,Apparel,Backpack Pro,Wholesale Partner,3,63.32,0.05,180.46,90.44,90.02,49.88,3.0
+TRX-1010,2024-07-26,North America,Apparel,Backpack Pro,Online Store,1,186.69,0.0,186.69,102.23,84.46,45.24,4.5

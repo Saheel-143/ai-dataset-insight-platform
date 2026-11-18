@@ -1,0 +1,451 @@
+Game_ID,Title,Platform,Year_Released,Genre,Publisher,Critic_Score,User_Score,NA_Sales_M,EU_Sales_M,JP_Sales_M,Other_Sales_M,Global_Sales_M
+GM-5000,Solaris Awakening Origins,Nintendo Switch,2023,Racing,Sony Interactive,68.0,7.4,2.23,0.54,0.42,0.78,3.97
+GM-5001,Apex Velocity Remastered,PS5,2023,Racing,Electronic Arts,71.0,7.3,0.11,2.46,0.29,0.14,3.0
+GM-5002,Bio Hazard Zero Remastered,PS4,2023,Racing,Capcom,77.0,7.8,0.57,2.1,0.03,0.02,2.72
+GM-5003,Galactic Odyssey Reloaded,PC,2022,Racing,Indie Studios,73.0,6.9,1.68,0.45,0.12,0.13,2.38
+GM-5004,Shadow Blade Reloaded,PS4,2022,Action,Ubisoft,93.0,9.2,2.08,0.67,1.12,0.05,3.92
+GM-5005,Galactic Odyssey Remastered,Nintendo Switch,2021,Shooter,Activision Blizzard,71.0,8.0,5.96,0.69,0.94,0.21,7.8
+GM-5006,Pixel Dungeon Heroes Reloaded,PS4,2021,Racing,Nintendo,93.0,8.7,1.19,3.17,0.17,0.04,4.57
+GM-5007,Dragon Slayer V,Nintendo Switch,2021,Strategy,Sony Interactive,88.0,9.1,0.64,1.17,0.26,0.38,2.45
+GM-5008,Cyber Frontier 2088,PC,2023,Shooter,Capcom,69.0,5.8,7.5,2.23,0.5,0.29,10.52
+GM-5009,Solaris Awakening Reloaded,Xbox One,2021,Shooter,Activision Blizzard,90.0,9.0,1.73,0.38,0.13,0.12,2.36
+GM-5010,Solaris Awakening Reloaded,PC,2020,Adventure,Square Enix,73.0,6.6,0.18,0.21,0.48,0.07,0.94
+GM-5011,Apex Velocity,PC,2019,Role-Playing,Ubisoft,63.0,5.7,1.09,0.12,0.84,0.95,3.0
+GM-5012,Galactic Odyssey Evolution,PS4,2023,Strategy,Capcom,89.0,9.0,1.78,0.01,0.3,0.76,2.85
+GM-5013,Dragon Slayer V Reloaded,Xbox Series X,2021,Shooter,Ubisoft,70.0,7.3,1.16,0.23,0.76,0.13,2.28
+GM-5014,Pixel Dungeon Heroes Evolution,PS4,2021,Strategy,Activision Blizzard,75.0,8.5,1.66,0.57,0.21,0.39,2.83
+GM-5015,Shadow Blade Evolution,Xbox Series X,2020,Strategy,Activision Blizzard,61.0,5.7,1.79,3.17,3.24,0.24,8.44
+GM-5016,Dragon Slayer V Remastered,Nintendo Switch,2021,Role-Playing,Electronic Arts,90.0,8.8,0.35,3.34,0.25,1.7,5.64
+GM-5017,Tactical Ops Elite Part II,PS5,2023,Adventure,Electronic Arts,68.0,7.6,0.01,0.53,0.22,0.02,0.78
+GM-5018,Solaris Awakening Part II,Xbox Series X,2022,Sports,Square Enix,96.0,8.6,1.46,0.14,2.26,0.08,3.94
+GM-5019,Galactic Odyssey Evolution,Xbox One,2021,Puzzle,Indie Studios,92.0,9.2,0.16,0.62,0.59,0.1,1.47
+GM-5020,Starship Commander Remastered,Xbox One,2022,Adventure,Capcom,,5.2,0.42,0.25,1.85,1.0,3.52
+GM-5021,Urban Racer Turbo,PS5,2019,Role-Playing,Capcom,63.0,4.9,0.41,1.09,0.61,0.76,2.87
+GM-5022,Mythic Realm Origins,Nintendo Switch,2023,Strategy,Indie Studios,99.0,9.8,0.48,0.99,0.4,0.06,1.93
+GM-5023,Tactical Ops Elite Remastered,PS4,2020,Action,Nintendo,81.0,7.9,0.39,0.38,0.28,0.44,1.49
+GM-5024,Dragon Slayer V Evolution,Xbox One,2020,Strategy,Nintendo,97.0,9.8,0.03,0.46,0.95,0.03,1.47
+GM-5025,Solaris Awakening Part II,PC,2021,Shooter,Capcom,57.0,6.1,4.08,0.15,0.96,0.28,5.47
+GM-5026,Solaris Awakening Origins,PC,2023,Adventure,Square Enix,77.0,6.1,2.92,0.69,0.27,0.31,4.19
+GM-5027,Dragon Slayer V Origins,Nintendo Switch,2023,Sports,Indie Studios,84.0,8.3,0.52,0.71,0.85,0.47,2.55
+GM-5028,Cyber Frontier 2088,Xbox One,2023,Action,Sony Interactive,83.0,8.6,0.37,0.19,0.04,0.69,1.29
+GM-5029,Street Brawler Champion Part II,PC,2021,Action,Nintendo,76.0,5.6,2.74,1.16,0.57,0.08,4.55
+GM-5030,Starship Commander Part II,PC,2022,Racing,Sony Interactive,73.0,6.8,2.58,0.01,0.37,0.16,3.12
+GM-5031,Galactic Odyssey Origins,Xbox One,2019,Sports,Activision Blizzard,56.0,5.3,0.65,1.35,0.44,0.05,2.49
+GM-5032,Cyber Frontier 2088 Origins,PS5,2024,Strategy,Activision Blizzard,91.0,9.6,0.12,0.05,0.01,0.08,0.26
+GM-5033,Starship Commander,Xbox One,2021,Sports,Sony Interactive,75.0,8.1,0.51,0.91,0.07,0.38,1.87
+GM-5034,Bio Hazard Zero Reloaded,Nintendo Switch,2022,Shooter,Capcom,76.0,6.3,3.59,1.69,0.4,1.16,6.84
+GM-5035,Apex Velocity Remastered,Xbox One,2019,Role-Playing,Sony Interactive,87.0,8.8,0.46,0.7,0.24,1.22,2.62
+GM-5036,Urban Racer Turbo,PS5,2023,Sports,Ubisoft,84.0,9.7,2.58,0.55,0.36,0.52,4.01
+GM-5037,Tactical Ops Elite Origins,PC,2021,Action,Sony Interactive,97.0,9.5,0.75,0.33,0.26,0.63,1.97
+GM-5038,Mythic Realm Reloaded,PS5,2022,Puzzle,Electronic Arts,78.0,8.1,1.27,1.04,1.71,0.62,4.64
+GM-5039,Tactical Ops Elite Reloaded,Xbox Series X,2019,Puzzle,Nintendo,99.0,9.8,2.07,0.26,1.21,1.25,4.79
+GM-5040,Street Brawler Champion Origins,PS5,2020,Strategy,Square Enix,75.0,7.4,0.16,0.39,0.06,0.44,1.05
+GM-5041,Bio Hazard Zero,Xbox Series X,2020,Puzzle,Electronic Arts,79.0,8.2,0.02,2.49,0.02,0.11,2.64
+GM-5042,Pixel Dungeon Heroes,Xbox Series X,2019,Role-Playing,Sony Interactive,78.0,6.1,2.39,0.45,0.73,0.08,3.65
+GM-5043,Tactical Ops Elite Part II,Xbox Series X,2023,Racing,Square Enix,69.0,6.6,0.31,0.22,0.43,0.75,1.71
+GM-5044,Pixel Dungeon Heroes,Xbox One,2019,Sports,Capcom,87.0,9.7,3.09,0.31,0.36,1.04,4.8
+GM-5045,Street Brawler Champion Reloaded,PC,2022,Shooter,Nintendo,64.0,6.2,0.46,0.96,0.76,0.05,2.23
+GM-5046,Kingdom of Legends Remastered,Xbox Series X,2022,Role-Playing,Capcom,85.0,9.8,1.76,2.0,0.23,0.88,4.87
+GM-5047,Shadow Blade,Nintendo Switch,2020,Sports,Ubisoft,69.0,6.3,0.19,0.29,0.07,0.69,1.24
+GM-5048,Dragon Slayer V,PS5,2020,Shooter,Activision Blizzard,76.0,7.7,0.01,1.59,0.43,0.6,2.63
+GM-5049,Urban Racer Turbo Evolution,PS5,2022,Adventure,Ubisoft,90.0,9.5,0.78,0.0,1.14,0.19,2.11
+GM-5050,Shadow Blade,PS4,2022,Shooter,Capcom,75.0,7.3,6.46,0.36,0.3,0.46,7.58
+GM-5051,Starship Commander Reloaded,PS5,2023,Shooter,Indie Studios,55.0,4.9,4.17,1.24,0.08,0.03,5.52
+GM-5052,Urban Racer Turbo Reloaded,Xbox Series X,2022,Racing,Nintendo,67.0,6.0,3.15,0.1,0.75,0.13,4.13
+GM-5053,Starship Commander Evolution,Nintendo Switch,2023,Strategy,Electronic Arts,62.0,6.2,3.02,2.26,0.33,0.24,5.85
+GM-5054,Dragon Slayer V Remastered,PC,2021,Strategy,Electronic Arts,65.0,7.6,0.47,0.62,0.06,0.55,1.7
+GM-5055,Chronicles of Destiny Origins,PS5,2019,Action,Nintendo,62.0,,0.4,1.11,2.97,0.6,5.08
+GM-5056,Dragon Slayer V Remastered,Xbox Series X,2020,Action,Sony Interactive,78.0,7.6,0.88,0.16,1.19,0.68,2.91
+GM-5057,Starship Commander,PS4,2024,Adventure,Capcom,89.0,9.8,0.92,0.56,0.34,0.34,2.16
+GM-5058,Shadow Blade Reloaded,PC,2019,Role-Playing,Electronic Arts,77.0,6.3,1.92,0.21,0.47,0.5,3.1
+GM-5059,Dragon Slayer V Part II,Nintendo Switch,2021,Role-Playing,Ubisoft,75.0,7.1,0.53,2.92,0.08,0.42,3.95
+GM-5060,Pixel Dungeon Heroes,PS4,2019,Strategy,Capcom,99.0,8.4,0.53,0.67,0.11,0.15,1.46
+GM-5061,Tactical Ops Elite Remastered,Xbox One,2022,Role-Playing,Activision Blizzard,83.0,8.1,1.48,0.64,0.02,0.28,2.42
+GM-5062,Apex Velocity Reloaded,Xbox One,2023,Shooter,Sony Interactive,85.0,8.0,0.44,1.91,0.05,0.8,3.2
+GM-5063,Pixel Dungeon Heroes Evolution,PC,2022,Role-Playing,Indie Studios,63.0,5.6,0.85,7.65,0.15,0.04,8.69
+GM-5064,Cyber Frontier 2088 Reloaded,PS5,2022,Adventure,Electronic Arts,99.0,8.7,1.65,0.34,1.45,0.23,3.67
+GM-5065,Galactic Odyssey Remastered,Xbox One,2020,Sports,Sony Interactive,85.0,9.5,0.57,1.07,0.15,0.24,2.03
+GM-5066,Kingdom of Legends Part II,Nintendo Switch,2023,Adventure,Electronic Arts,72.0,6.4,2.58,3.84,0.36,0.28,7.06
+GM-5067,Dragon Slayer V Reloaded,Xbox One,2022,Adventure,Nintendo,73.0,6.3,0.94,1.71,0.55,0.42,3.62
+GM-5068,Urban Racer Turbo Reloaded,Nintendo Switch,2024,Puzzle,Activision Blizzard,55.0,4.7,0.03,0.11,0.69,0.85,1.68
+GM-5069,Mythic Realm Evolution,Nintendo Switch,2022,Role-Playing,Indie Studios,56.0,5.8,2.19,1.53,0.53,0.1,4.35
+GM-5070,Solaris Awakening Evolution,Nintendo Switch,2019,Action,Indie Studios,77.0,7.2,2.61,2.15,0.37,0.61,5.74
+GM-5071,Shadow Blade Reloaded,Xbox Series X,2024,Strategy,Electronic Arts,67.0,5.5,4.02,0.45,1.47,1.59,7.53
+GM-5072,Tactical Ops Elite Evolution,PS4,2022,Role-Playing,Ubisoft,82.0,8.8,1.8,0.4,0.04,0.17,2.41
+GM-5073,Apex Velocity Reloaded,PS5,2022,Action,Sony Interactive,81.0,7.5,5.41,4.49,0.41,0.81,11.12
+GM-5074,Street Brawler Champion Part II,PC,2023,Strategy,Capcom,99.0,9.8,0.22,3.05,0.26,0.24,3.77
+GM-5075,Apex Velocity Origins,Xbox Series X,2022,Action,Capcom,61.0,5.5,1.5,0.03,0.77,0.29,2.59
+GM-5076,Shadow Blade Reloaded,Xbox Series X,2022,Puzzle,Square Enix,81.0,9.8,1.31,1.27,0.84,0.52,3.94
+GM-5077,Urban Racer Turbo,PS4,2023,Strategy,Nintendo,71.0,6.1,4.43,0.56,0.08,0.3,5.37
+GM-5078,Dragon Slayer V Evolution,PS5,2020,Sports,Ubisoft,54.0,5.7,7.88,3.74,0.35,0.12,12.09
+GM-5079,Street Brawler Champion Remastered,PS5,2023,Puzzle,Nintendo,87.0,9.6,3.35,1.29,0.2,0.47,5.31
+GM-5080,Cyber Frontier 2088 Evolution,Nintendo Switch,2021,Adventure,Square Enix,83.0,9.4,0.12,0.79,0.25,0.16,1.32
+GM-5081,Apex Velocity Origins,PC,2022,Action,Square Enix,89.0,8.3,0.11,1.19,0.99,0.45,2.74
+GM-5082,Mythic Realm Origins,PS4,2022,Adventure,Ubisoft,74.0,7.6,0.03,0.62,0.02,1.23,1.9
+GM-5083,Tactical Ops Elite Evolution,PS4,2020,Racing,Ubisoft,83.0,8.9,0.37,1.07,0.03,0.26,1.73
+GM-5084,Street Brawler Champion Remastered,Xbox Series X,2019,Sports,Sony Interactive,67.0,6.2,2.1,0.32,1.35,0.34,4.11
+GM-5085,Bio Hazard Zero,PS5,2021,Shooter,Square Enix,75.0,8.5,3.64,2.89,0.11,0.0,6.64
+GM-5086,Dragon Slayer V,PS5,2024,Strategy,Sony Interactive,74.0,8.4,0.45,2.32,0.13,1.18,4.08
+GM-5087,Apex Velocity Evolution,PC,2020,Adventure,Nintendo,60.0,6.4,1.18,1.27,0.13,0.29,2.87
+GM-5088,Chronicles of Destiny Part II,Xbox Series X,2022,Puzzle,Indie Studios,86.0,7.1,1.08,0.79,0.07,0.22,2.16
+GM-5089,Chronicles of Destiny Part II,Xbox One,2022,Adventure,Nintendo,84.0,8.8,1.18,0.1,0.16,0.07,1.51
+GM-5090,Mythic Realm,PS4,2020,Puzzle,Square Enix,60.0,5.5,0.37,0.06,0.01,0.04,0.48
+GM-5091,Bio Hazard Zero Remastered,PS5,2020,Role-Playing,Electronic Arts,81.0,5.9,0.23,0.61,0.25,0.08,1.17
+GM-5092,Bio Hazard Zero Part II,PS5,2019,Action,Capcom,99.0,9.6,0.38,0.16,1.31,0.13,1.98
+GM-5093,Solaris Awakening Origins,Xbox Series X,2020,Adventure,Activision Blizzard,79.0,8.2,0.89,0.74,0.15,0.03,1.81
+GM-5094,Mythic Realm Origins,PC,2022,Strategy,Square Enix,74.0,6.7,4.23,3.36,0.16,0.39,8.14
+GM-5095,Galactic Odyssey Evolution,Xbox Series X,2022,Role-Playing,Ubisoft,71.0,7.6,0.01,0.2,0.26,0.15,0.62
+GM-5096,Galactic Odyssey Remastered,PS5,2023,Sports,Nintendo,61.0,6.9,0.92,0.11,1.37,1.1,3.5
+GM-5097,Cyber Frontier 2088 Evolution,PC,2024,Strategy,Capcom,73.0,7.5,0.07,0.95,1.46,0.08,2.56
+GM-5098,Shadow Blade Remastered,Nintendo Switch,2019,Shooter,Indie Studios,96.0,8.9,0.41,0.1,0.88,0.4,1.79
+GM-5099,Galactic Odyssey,Nintendo Switch,2024,Role-Playing,Nintendo,69.0,6.8,1.99,0.81,0.14,0.61,3.55
+GM-5100,Solaris Awakening Origins,Nintendo Switch,2020,Action,Ubisoft,71.0,6.9,0.76,0.6,0.43,0.49,2.28
+GM-5101,Kingdom of Legends Remastered,Xbox Series X,2024,Role-Playing,Ubisoft,91.0,9.8,2.32,0.31,0.22,0.26,3.11
+GM-5102,Shadow Blade Part II,PS4,2019,Action,Activision Blizzard,78.0,7.8,0.67,1.54,0.42,0.05,2.68
+GM-5103,Urban Racer Turbo,PS5,2022,Puzzle,Indie Studios,87.0,9.0,0.63,0.54,1.33,0.67,3.17
+GM-5104,Mythic Realm Reloaded,PS4,2023,Shooter,Nintendo,80.0,7.8,0.25,1.08,0.02,0.41,1.76
+GM-5105,Chronicles of Destiny Part II,Xbox Series X,2021,Role-Playing,Sony Interactive,51.0,4.6,0.28,1.07,1.28,1.28,3.91
+GM-5106,Kingdom of Legends,Xbox Series X,2020,Shooter,Capcom,87.0,9.7,0.63,0.02,0.7,1.16,2.51
+GM-5107,Street Brawler Champion Reloaded,Xbox One,2022,Role-Playing,Activision Blizzard,88.0,6.7,0.33,1.53,0.82,0.06,2.74
+GM-5108,Street Brawler Champion,PS5,2023,Role-Playing,Ubisoft,62.0,5.9,0.65,0.64,0.04,0.35,1.68
+GM-5109,Street Brawler Champion Origins,PC,2022,Sports,Nintendo,68.0,6.8,1.81,0.06,1.46,0.48,3.81
+GM-5110,Chronicles of Destiny Part II,PS5,2022,Action,Indie Studios,63.0,6.2,0.52,2.24,1.41,0.0,4.17
+GM-5111,Mythic Realm Reloaded,PS4,2022,Puzzle,Capcom,85.0,9.7,0.13,0.27,0.17,0.71,1.28
+GM-5112,Kingdom of Legends Part II,PC,2022,Puzzle,Electronic Arts,84.0,8.4,1.52,2.52,0.37,0.06,4.47
+GM-5113,Mythic Realm Part II,Xbox Series X,2024,Adventure,Activision Blizzard,60.0,5.9,0.54,0.06,0.38,0.77,1.75
+GM-5114,Mythic Realm Remastered,PS5,2024,Shooter,Activision Blizzard,72.0,7.1,2.9,0.49,0.6,0.5,4.49
+GM-5115,Cyber Frontier 2088 Origins,PS4,2021,Racing,Sony Interactive,81.0,8.1,0.01,0.59,0.06,0.28,0.94
+GM-5116,Apex Velocity,PC,2019,Sports,Capcom,59.0,5.5,1.14,6.07,0.97,0.75,8.93
+GM-5117,Starship Commander,PS4,2022,Shooter,Sony Interactive,73.0,7.8,0.16,1.33,0.21,0.13,1.83
+GM-5118,Kingdom of Legends Evolution,Nintendo Switch,2024,Racing,Indie Studios,72.0,8.1,5.89,1.16,0.81,0.01,7.87
+GM-5119,Shadow Blade Part II,PS4,2020,Strategy,Capcom,85.0,8.7,1.47,0.16,0.07,0.74,2.44
+GM-5120,Chronicles of Destiny Origins,PS5,2020,Strategy,Ubisoft,69.0,6.9,0.13,1.23,0.7,0.17,2.23
+GM-5121,Dragon Slayer V Evolution,PS5,2020,Racing,Square Enix,69.0,7.4,1.17,3.79,0.1,1.13,6.19
+GM-5122,Apex Velocity,Xbox Series X,2020,Sports,Nintendo,52.0,6.1,5.03,0.35,0.31,1.63,7.32
+GM-5123,Dragon Slayer V Part II,Xbox Series X,2022,Adventure,Sony Interactive,55.0,5.5,1.81,0.02,0.03,0.37,2.23
+GM-5124,Street Brawler Champion Part II,PS4,2021,Puzzle,Square Enix,86.0,9.1,1.65,0.15,0.87,0.09,2.76
+GM-5125,Dragon Slayer V,Xbox Series X,2021,Shooter,Square Enix,77.0,8.8,2.95,0.26,0.56,0.04,3.81
+GM-5126,Tactical Ops Elite,Xbox One,2022,Strategy,Sony Interactive,81.0,9.3,0.46,0.04,0.08,0.39,0.97
+GM-5127,Solaris Awakening Remastered,Nintendo Switch,2024,Sports,Ubisoft,84.0,7.7,3.02,0.81,0.66,0.67,5.16
+GM-5128,Mythic Realm Reloaded,PS4,2021,Adventure,Electronic Arts,74.0,7.5,0.89,0.12,0.01,0.38,1.4
+GM-5129,Pixel Dungeon Heroes Part II,PS5,2024,Action,Ubisoft,79.0,8.4,0.15,0.35,0.23,0.58,1.31
+GM-5130,Kingdom of Legends Evolution,PS5,2023,Racing,Sony Interactive,60.0,4.5,0.07,0.38,0.36,0.05,0.86
+GM-5131,Tactical Ops Elite Part II,Xbox Series X,2022,Sports,Square Enix,79.0,8.8,0.12,0.23,0.39,0.18,0.92
+GM-5132,Galactic Odyssey Evolution,Nintendo Switch,2021,Action,Sony Interactive,99.0,9.8,2.39,0.46,0.98,0.17,4.0
+GM-5133,Solaris Awakening Evolution,Xbox One,2019,Sports,Nintendo,99.0,9.8,4.09,1.42,1.5,0.96,7.97
+GM-5134,Tactical Ops Elite,Nintendo Switch,2022,Role-Playing,Square Enix,99.0,9.8,5.75,1.63,0.07,0.6,8.05
+GM-5135,Shadow Blade Origins,PC,2020,Role-Playing,Square Enix,58.0,5.6,1.75,2.31,0.21,0.03,4.3
+GM-5136,Dragon Slayer V,Xbox Series X,2021,Sports,Capcom,61.0,7.1,0.49,0.22,0.41,0.13,1.25
+GM-5137,Tactical Ops Elite Evolution,PC,2023,Strategy,Electronic Arts,78.0,7.3,0.41,0.74,0.2,0.51,1.86
+GM-5138,Bio Hazard Zero Evolution,Xbox One,2024,Strategy,Ubisoft,77.0,8.3,0.93,1.88,0.69,0.08,3.58
+GM-5139,Tactical Ops Elite,Xbox Series X,2023,Puzzle,Activision Blizzard,60.0,5.8,0.5,0.34,0.44,0.11,1.39
+GM-5140,Tactical Ops Elite Reloaded,Nintendo Switch,2020,Sports,Electronic Arts,78.0,7.0,1.99,0.43,0.02,0.05,2.49
+GM-5141,Galactic Odyssey Evolution,Xbox One,2024,Puzzle,Sony Interactive,40.0,3.7,0.06,1.43,0.45,0.09,2.03
+GM-5142,Street Brawler Champion Remastered,Nintendo Switch,2020,Shooter,Nintendo,89.0,8.6,3.01,1.02,0.78,0.05,4.86
+GM-5143,Apex Velocity Origins,Xbox Series X,2022,Strategy,Nintendo,63.0,6.8,3.18,0.24,0.23,0.39,4.04
+GM-5144,Solaris Awakening,Nintendo Switch,2022,Sports,Nintendo,68.0,7.1,2.84,0.84,0.38,1.59,5.65
+GM-5145,Chronicles of Destiny Origins,Xbox One,2023,Strategy,Indie Studios,79.0,7.5,0.15,0.03,0.31,2.02,2.51
+GM-5146,Kingdom of Legends Origins,Xbox Series X,2020,Shooter,Nintendo,64.0,6.8,1.94,0.77,0.68,0.09,3.48
+GM-5147,Starship Commander Remastered,PS5,2023,Action,Sony Interactive,85.0,8.5,0.02,1.44,1.32,0.03,2.81
+GM-5148,Street Brawler Champion Remastered,Xbox One,2022,Puzzle,Electronic Arts,79.0,6.8,1.57,0.4,0.37,0.13,2.47
+GM-5149,Urban Racer Turbo Remastered,PC,2021,Puzzle,Square Enix,53.0,5.9,1.93,0.78,0.41,0.05,3.17
+GM-5150,Galactic Odyssey Remastered,PS5,2021,Racing,Ubisoft,67.0,6.5,0.45,0.11,0.06,0.09,0.71
+GM-5151,Chronicles of Destiny Origins,PS5,2024,Action,Activision Blizzard,76.0,8.4,0.46,1.6,1.57,0.26,3.89
+GM-5152,Kingdom of Legends Part II,Nintendo Switch,2021,Role-Playing,Nintendo,83.0,9.1,3.29,1.3,0.17,1.07,5.83
+GM-5153,Urban Racer Turbo Reloaded,PC,2020,Sports,Nintendo,77.0,6.3,1.25,0.02,0.91,0.18,2.36
+GM-5154,Starship Commander,Nintendo Switch,2021,Racing,Sony Interactive,70.0,8.0,0.07,0.21,1.87,0.03,2.18
+GM-5155,Chronicles of Destiny Reloaded,Xbox Series X,2021,Puzzle,Electronic Arts,40.0,5.4,0.01,0.77,0.29,1.43,2.5
+GM-5156,Starship Commander,Nintendo Switch,2020,Shooter,Ubisoft,63.0,4.8,0.74,1.21,0.15,0.1,2.2
+GM-5157,Shadow Blade Part II,PS4,2023,Adventure,Activision Blizzard,44.0,4.4,0.28,0.23,0.01,0.04,0.56
+GM-5158,Pixel Dungeon Heroes Evolution,PS5,2022,Action,Capcom,72.0,7.7,0.6,0.14,0.3,0.02,1.06
+GM-5159,Kingdom of Legends Reloaded,PC,2024,Sports,Sony Interactive,75.0,8.3,1.1,0.23,0.37,0.93,2.63
+GM-5160,Solaris Awakening,PC,2019,Role-Playing,Activision Blizzard,71.0,7.8,3.45,3.11,0.67,0.44,7.67
+GM-5161,Cyber Frontier 2088 Reloaded,Xbox One,2022,Racing,Ubisoft,82.0,9.2,1.4,2.08,0.47,0.65,4.6
+GM-5162,Cyber Frontier 2088 Remastered,Xbox Series X,2022,Sports,Activision Blizzard,74.0,6.9,0.88,0.17,0.06,0.31,1.42
+GM-5163,Mythic Realm Remastered,PS5,2019,Adventure,Capcom,88.0,8.1,5.0,1.39,2.95,0.48,9.82
+GM-5164,Bio Hazard Zero Evolution,Xbox One,2021,Adventure,Nintendo,90.0,9.8,0.7,0.02,0.73,0.01,1.46
+GM-5165,Street Brawler Champion Remastered,PC,2022,Sports,Square Enix,78.0,6.8,1.05,0.01,0.27,0.37,1.7
+GM-5166,Chronicles of Destiny Origins,Nintendo Switch,2023,Sports,Indie Studios,75.0,8.3,1.96,0.42,0.25,0.09,2.72
+GM-5167,Apex Velocity Origins,PC,2022,Racing,Activision Blizzard,69.0,6.7,1.73,1.35,0.27,0.03,3.38
+GM-5168,Dragon Slayer V,PS4,2021,Action,Electronic Arts,99.0,9.4,0.57,1.26,1.23,0.11,3.17
+GM-5169,Bio Hazard Zero Origins,Xbox One,2024,Role-Playing,Nintendo,58.0,5.2,0.82,0.11,0.08,0.21,1.22
+GM-5170,Urban Racer Turbo Reloaded,PS4,2023,Puzzle,Ubisoft,79.0,8.5,0.17,1.23,0.61,0.66,2.67
+GM-5171,Pixel Dungeon Heroes Part II,PC,2023,Puzzle,Indie Studios,73.0,8.1,1.8,0.34,4.39,0.08,6.61
+GM-5172,Starship Commander,PC,2019,Adventure,Nintendo,80.0,7.6,0.89,0.65,1.86,1.01,4.41
+GM-5173,Dragon Slayer V Remastered,PS5,2021,Sports,Nintendo,81.0,7.8,3.55,0.86,0.6,0.12,5.13
+GM-5174,Dragon Slayer V Part II,Xbox Series X,2023,Sports,Ubisoft,76.0,9.4,0.09,2.72,0.57,0.09,3.47
+GM-5175,Cyber Frontier 2088,Xbox Series X,2022,Action,Capcom,79.0,9.5,1.9,0.96,1.77,0.02,4.65
+GM-5176,Solaris Awakening Evolution,PC,2020,Shooter,Electronic Arts,82.0,7.5,1.56,2.45,0.79,0.28,5.08
+GM-5177,Cyber Frontier 2088 Remastered,Nintendo Switch,2024,Strategy,Nintendo,84.0,8.0,0.83,1.15,0.78,0.4,3.16
+GM-5178,Solaris Awakening Origins,PS4,2020,Puzzle,Square Enix,99.0,8.4,2.84,0.64,1.51,0.23,5.22
+GM-5179,Dragon Slayer V,PS4,2022,Racing,Sony Interactive,80.0,9.1,4.84,1.19,0.44,0.01,6.48
+GM-5180,Starship Commander Part II,PS4,2021,Puzzle,Nintendo,88.0,8.1,0.35,0.25,0.13,0.05,0.78
+GM-5181,Pixel Dungeon Heroes Reloaded,Xbox Series X,2021,Role-Playing,Nintendo,79.0,8.2,1.99,1.76,0.19,0.87,4.81
+GM-5182,Shadow Blade Remastered,Nintendo Switch,2020,Strategy,Capcom,87.0,7.3,0.16,1.44,0.29,0.61,2.5
+GM-5183,Chronicles of Destiny Part II,Xbox One,2022,Racing,Indie Studios,82.0,7.6,0.44,0.74,0.05,0.38,1.61
+GM-5184,Pixel Dungeon Heroes Evolution,Nintendo Switch,2022,Puzzle,Electronic Arts,81.0,8.0,3.11,1.35,0.75,0.12,5.33
+GM-5185,Starship Commander Origins,Xbox One,2022,Puzzle,Sony Interactive,71.0,6.8,11.31,1.07,0.34,0.14,12.86
+GM-5186,Tactical Ops Elite Remastered,Xbox One,2022,Shooter,Sony Interactive,75.0,7.1,1.38,0.07,0.77,0.1,2.32
+GM-5187,Kingdom of Legends Origins,Nintendo Switch,2022,Strategy,Sony Interactive,98.0,9.7,2.87,0.49,0.18,1.17,4.71
+GM-5188,Solaris Awakening,Nintendo Switch,2023,Adventure,Indie Studios,72.0,6.0,2.39,0.87,0.63,0.56,4.45
+GM-5189,Galactic Odyssey Origins,Xbox One,2022,Role-Playing,Ubisoft,95.0,9.7,1.95,1.09,0.27,0.21,3.52
+GM-5190,Shadow Blade,Xbox One,2024,Racing,Square Enix,72.0,6.8,1.02,1.99,0.11,0.13,3.25
+GM-5191,Mythic Realm Part II,PC,2019,Role-Playing,Ubisoft,63.0,6.9,0.74,0.65,1.33,0.21,2.93
+GM-5192,Solaris Awakening Reloaded,PC,2020,Racing,Square Enix,82.0,8.2,1.4,4.51,1.1,0.01,7.02
+GM-5193,Shadow Blade,PS4,2022,Sports,Nintendo,81.0,6.7,0.49,0.47,1.54,0.09,2.59
+GM-5194,Dragon Slayer V Evolution,PS4,2023,Puzzle,Electronic Arts,80.0,8.8,2.06,0.26,0.46,0.53,3.31
+GM-5195,Apex Velocity Part II,PS4,2022,Action,Electronic Arts,82.0,8.2,1.69,2.62,0.79,0.53,5.63
+GM-5196,Mythic Realm Reloaded,PS5,2019,Shooter,Sony Interactive,87.0,8.4,0.4,0.14,0.24,0.1,0.88
+GM-5197,Kingdom of Legends Remastered,Nintendo Switch,2024,Shooter,Activision Blizzard,75.0,8.4,0.09,1.38,0.59,1.41,3.47
+GM-5198,Bio Hazard Zero Reloaded,PS4,2022,Puzzle,Nintendo,78.0,6.1,5.81,1.31,0.67,0.11,7.9
+GM-5199,Pixel Dungeon Heroes Remastered,Xbox Series X,2023,Strategy,Indie Studios,66.0,7.5,0.99,0.38,0.18,0.01,1.56
+GM-5200,Kingdom of Legends Part II,Xbox Series X,2021,Racing,Square Enix,83.0,8.0,1.35,1.03,0.31,0.45,3.14
+GM-5201,Chronicles of Destiny Remastered,Nintendo Switch,2020,Role-Playing,Activision Blizzard,74.0,7.5,1.6,0.46,0.83,0.32,3.21
+GM-5202,Solaris Awakening Part II,PS5,2022,Sports,Ubisoft,81.0,7.2,5.52,1.92,0.04,0.19,7.67
+GM-5203,Shadow Blade,Xbox One,2024,Shooter,Ubisoft,99.0,9.8,3.66,2.28,0.42,0.23,6.59
+GM-5204,Mythic Realm Part II,PC,2021,Action,Sony Interactive,64.0,7.2,0.43,0.48,0.12,0.48,1.51
+GM-5205,Apex Velocity Origins,Xbox One,2022,Sports,Sony Interactive,46.0,4.3,3.6,0.03,0.88,0.93,5.44
+GM-5206,Starship Commander Remastered,PS4,2021,Adventure,Activision Blizzard,83.0,8.4,0.36,0.81,0.39,0.12,1.68
+GM-5207,Apex Velocity Remastered,Nintendo Switch,2023,Racing,Activision Blizzard,78.0,8.0,0.33,0.1,0.56,0.02,1.01
+GM-5208,Chronicles of Destiny Evolution,Nintendo Switch,2022,Puzzle,Nintendo,99.0,9.8,1.34,0.6,0.13,0.15,2.22
+GM-5209,Shadow Blade,Xbox One,2022,Strategy,Activision Blizzard,90.0,9.5,2.19,3.96,0.2,0.03,6.38
+GM-5210,Kingdom of Legends Origins,PS5,2021,Racing,Nintendo,71.0,8.4,2.55,0.88,1.59,1.18,6.2
+GM-5211,Shadow Blade,Xbox One,2019,Strategy,Activision Blizzard,99.0,9.2,0.44,0.57,0.68,0.1,1.79
+GM-5212,Galactic Odyssey Evolution,Xbox One,2022,Adventure,Ubisoft,69.0,7.1,1.03,0.34,0.77,0.08,2.22
+GM-5213,Bio Hazard Zero Origins,Xbox Series X,2023,Action,Capcom,59.0,5.7,0.86,0.58,0.34,0.35,2.13
+GM-5214,Bio Hazard Zero Remastered,Xbox One,2022,Sports,Sony Interactive,81.0,9.4,0.67,1.82,0.29,0.64,3.42
+GM-5215,Starship Commander Remastered,Nintendo Switch,2021,Adventure,Capcom,91.0,8.7,0.49,1.14,1.24,0.02,2.89
+GM-5216,Kingdom of Legends,Xbox One,2023,Action,Ubisoft,99.0,9.8,1.11,2.28,0.03,0.12,3.54
+GM-5217,Street Brawler Champion,Xbox One,2023,Shooter,Indie Studios,99.0,9.8,0.77,0.39,0.69,0.09,1.94
+GM-5218,Solaris Awakening,Nintendo Switch,2023,Adventure,Electronic Arts,71.0,8.1,0.5,0.37,0.4,0.51,1.78
+GM-5219,Cyber Frontier 2088 Remastered,PS4,2021,Sports,Activision Blizzard,57.0,6.9,0.54,0.03,0.0,0.1,0.67
+GM-5220,Bio Hazard Zero Origins,Xbox Series X,2021,Adventure,Electronic Arts,80.0,8.3,0.47,0.31,0.15,0.17,1.1
+GM-5221,Kingdom of Legends Part II,Xbox One,2022,Role-Playing,Ubisoft,58.0,5.5,0.21,0.01,0.1,0.49,0.81
+GM-5222,Dragon Slayer V Origins,Xbox One,2020,Adventure,Capcom,99.0,9.2,3.27,2.42,0.82,0.01,6.52
+GM-5223,Mythic Realm Reloaded,Nintendo Switch,2022,Adventure,Activision Blizzard,89.0,9.0,0.96,0.0,0.01,0.22,1.19
+GM-5224,Mythic Realm Part II,PC,2020,Action,Nintendo,90.0,9.8,0.29,2.41,0.35,0.06,3.11
+GM-5225,Urban Racer Turbo Origins,PS4,2023,Role-Playing,Capcom,82.0,9.2,2.88,1.47,1.28,0.23,5.86
+GM-5226,Galactic Odyssey Part II,PC,2023,Action,Electronic Arts,76.0,6.8,1.33,0.21,1.98,0.08,3.6
+GM-5227,Galactic Odyssey Origins,Nintendo Switch,2020,Puzzle,Indie Studios,75.0,8.2,0.1,1.0,0.55,0.03,1.68
+GM-5228,Mythic Realm Origins,Xbox One,2024,Sports,Nintendo,99.0,9.8,1.1,1.04,0.18,0.14,2.46
+GM-5229,Bio Hazard Zero Reloaded,Xbox One,2022,Sports,Square Enix,90.0,9.3,0.26,0.02,0.23,0.35,0.86
+GM-5230,Apex Velocity Part II,PS5,2020,Racing,Activision Blizzard,94.0,7.7,1.37,0.35,0.31,0.6,2.63
+GM-5231,Dragon Slayer V Reloaded,PS4,2024,Sports,Indie Studios,78.0,8.7,0.79,0.45,0.08,0.05,1.37
+GM-5232,Starship Commander Remastered,Xbox Series X,2022,Puzzle,Capcom,65.0,5.8,9.48,0.23,0.1,0.04,9.85
+GM-5233,Chronicles of Destiny Evolution,PC,2022,Puzzle,Sony Interactive,58.0,6.9,1.15,1.71,1.02,1.27,5.15
+GM-5234,Street Brawler Champion Origins,Xbox Series X,2023,Strategy,Sony Interactive,60.0,6.2,0.16,0.06,0.66,0.66,1.54
+GM-5235,Bio Hazard Zero Reloaded,PS4,2022,Shooter,Sony Interactive,76.0,7.1,4.12,1.0,0.99,0.64,6.75
+GM-5236,Tactical Ops Elite Origins,Xbox One,2024,Shooter,Ubisoft,85.0,9.2,0.4,0.07,0.44,0.05,0.96
+GM-5237,Starship Commander Evolution,Nintendo Switch,2024,Sports,Nintendo,85.0,8.1,0.74,0.43,1.64,0.18,2.99
+GM-5238,Cyber Frontier 2088 Reloaded,PS4,2021,Adventure,Electronic Arts,79.0,7.3,0.51,0.97,0.54,0.51,2.53
+GM-5239,Tactical Ops Elite Evolution,Nintendo Switch,2023,Adventure,Indie Studios,51.0,5.2,2.73,0.41,0.42,0.21,3.77
+GM-5240,Street Brawler Champion,PS4,2023,Strategy,Capcom,52.0,4.3,1.76,1.01,0.07,0.28,3.12
+GM-5241,Kingdom of Legends Part II,Xbox Series X,2023,Strategy,Indie Studios,60.0,5.5,3.09,1.85,0.16,0.09,5.19
+GM-5242,Apex Velocity Part II,Xbox Series X,2023,Puzzle,Sony Interactive,62.0,5.3,0.25,0.34,0.33,0.53,1.45
+GM-5243,Tactical Ops Elite Reloaded,Xbox One,2021,Sports,Ubisoft,61.0,5.3,0.98,0.22,0.4,0.49,2.09
+GM-5244,Kingdom of Legends,PS4,2019,Sports,Nintendo,89.0,9.0,0.01,3.04,0.07,0.74,3.86
+GM-5245,Street Brawler Champion,Xbox One,2022,Action,Capcom,77.0,9.4,0.97,1.98,0.85,0.26,4.06
+GM-5246,Bio Hazard Zero Reloaded,Nintendo Switch,2020,Action,Sony Interactive,78.0,7.6,1.13,0.72,0.68,0.78,3.31
+GM-5247,Tactical Ops Elite Reloaded,Xbox One,2022,Action,Sony Interactive,85.0,9.1,0.66,0.35,0.97,0.19,2.17
+GM-5248,Cyber Frontier 2088 Evolution,PC,2024,Racing,Capcom,78.0,8.3,0.72,1.55,0.67,0.3,3.24
+GM-5249,Apex Velocity,Nintendo Switch,2019,Racing,Electronic Arts,79.0,8.1,0.28,2.09,1.26,0.32,3.95
+GM-5250,Starship Commander,Xbox One,2022,Action,Activision Blizzard,58.0,5.2,1.92,2.18,0.64,0.29,5.03
+GM-5251,Starship Commander Reloaded,PS5,2020,Adventure,Electronic Arts,75.0,7.0,0.08,0.93,0.29,0.57,1.87
+GM-5252,Cyber Frontier 2088 Reloaded,PS4,2021,Role-Playing,Activision Blizzard,87.0,9.8,0.01,0.08,0.21,0.86,1.16
+GM-5253,Dragon Slayer V Origins,PC,2020,Shooter,Ubisoft,67.0,7.3,3.58,0.11,0.38,0.87,4.94
+GM-5254,Tactical Ops Elite Remastered,PS4,2022,Shooter,Square Enix,56.0,5.0,0.71,0.78,0.23,1.39,3.11
+GM-5255,Urban Racer Turbo Remastered,Nintendo Switch,2024,Sports,Sony Interactive,73.0,8.1,1.76,2.56,1.14,0.21,5.67
+GM-5256,Apex Velocity Reloaded,Xbox Series X,2020,Racing,Square Enix,77.0,7.1,1.54,2.09,0.21,0.07,3.91
+GM-5257,Solaris Awakening Evolution,PS5,2021,Role-Playing,Nintendo,65.0,6.2,1.67,0.78,0.77,0.17,3.39
+GM-5258,Cyber Frontier 2088 Evolution,Xbox One,2021,Racing,Electronic Arts,88.0,8.7,0.06,1.8,0.28,0.77,2.91
+GM-5259,Bio Hazard Zero Part II,PS5,2023,Role-Playing,Activision Blizzard,91.0,8.3,0.26,2.49,0.31,0.24,3.3
+GM-5260,Mythic Realm Reloaded,PC,2023,Adventure,Activision Blizzard,69.0,7.4,1.62,0.55,0.28,0.47,2.92
+GM-5261,Solaris Awakening Origins,PS5,2021,Sports,Sony Interactive,88.0,8.4,0.16,1.24,0.17,0.01,1.58
+GM-5262,Tactical Ops Elite Reloaded,Nintendo Switch,2020,Strategy,Capcom,94.0,9.8,0.03,0.04,1.4,0.03,1.5
+GM-5263,Solaris Awakening Part II,PS5,2023,Action,Sony Interactive,85.0,7.8,0.56,2.15,0.72,0.21,3.64
+GM-5264,Kingdom of Legends Remastered,Xbox One,2019,Sports,Square Enix,84.0,9.6,0.0,0.01,0.99,0.12,1.12
+GM-5265,Kingdom of Legends Origins,PS4,2022,Adventure,Nintendo,89.0,8.8,3.73,6.32,0.1,0.8,10.95
+GM-5266,Starship Commander Remastered,Xbox Series X,2021,Role-Playing,Capcom,77.0,9.8,0.03,2.97,0.05,0.47,3.52
+GM-5267,Dragon Slayer V Remastered,Nintendo Switch,2023,Puzzle,Indie Studios,71.0,7.4,0.89,1.95,0.22,0.25,3.31
+GM-5268,Galactic Odyssey,Xbox One,2021,Sports,Nintendo,87.0,8.6,0.91,0.89,0.31,0.25,2.36
+GM-5269,Cyber Frontier 2088 Remastered,Xbox One,2019,Action,Electronic Arts,69.0,5.5,1.51,0.66,0.25,0.2,2.62
+GM-5270,Galactic Odyssey Evolution,PS4,2020,Racing,Indie Studios,76.0,8.2,0.02,0.02,2.17,0.1,2.31
+GM-5271,Solaris Awakening,PC,2023,Strategy,Sony Interactive,78.0,8.6,0.01,0.33,0.31,0.25,0.9
+GM-5272,Street Brawler Champion Remastered,Xbox One,2021,Sports,Indie Studios,77.0,7.3,1.11,0.37,0.02,2.09,3.59
+GM-5273,Chronicles of Destiny Reloaded,PS5,2022,Puzzle,Indie Studios,72.0,8.5,0.07,0.41,0.23,0.73,1.44
+GM-5274,Tactical Ops Elite,Nintendo Switch,2022,Strategy,Sony Interactive,74.0,5.8,1.64,0.83,2.09,0.51,5.07
+GM-5275,Urban Racer Turbo Evolution,PS4,2020,Shooter,Square Enix,79.0,7.4,0.26,1.7,0.22,0.16,2.34
+GM-5276,Bio Hazard Zero,Xbox One,2019,Role-Playing,Capcom,68.0,7.1,2.22,0.74,0.92,0.35,4.23
+GM-5277,Bio Hazard Zero,Xbox Series X,2019,Racing,Square Enix,60.0,5.9,2.09,2.67,0.48,0.3,5.54
+GM-5278,Solaris Awakening Evolution,Xbox One,2023,Puzzle,Electronic Arts,86.0,9.2,1.6,0.7,0.51,0.02,2.83
+GM-5279,Bio Hazard Zero Part II,PS4,2022,Action,Sony Interactive,86.0,8.8,1.06,0.09,0.22,0.43,1.8
+GM-5280,Solaris Awakening Part II,PS4,2020,Racing,Indie Studios,85.0,8.0,1.32,0.78,0.23,0.53,2.86
+GM-5281,Apex Velocity Origins,PS5,2021,Racing,Square Enix,73.0,7.4,3.0,0.76,0.35,0.38,4.49
+GM-5282,Urban Racer Turbo,Nintendo Switch,2022,Action,Ubisoft,80.0,7.6,0.48,2.59,1.02,0.17,4.26
+GM-5283,Cyber Frontier 2088 Remastered,PC,2023,Puzzle,Ubisoft,66.0,6.4,4.9,1.16,0.37,0.2,6.63
+GM-5284,Solaris Awakening Remastered,PC,2021,Racing,Nintendo,74.0,5.8,0.98,0.7,0.12,0.06,1.86
+GM-5285,Mythic Realm,PC,2021,Strategy,Nintendo,85.0,9.1,2.49,2.39,0.18,0.1,5.16
+GM-5286,Starship Commander Remastered,Xbox One,2022,Action,Nintendo,86.0,7.9,1.52,2.29,0.05,0.99,4.85
+GM-5287,Dragon Slayer V Evolution,PS5,2021,Action,Nintendo,41.0,3.8,2.14,0.6,1.72,0.93,5.39
+GM-5288,Bio Hazard Zero,PS4,2023,Adventure,Ubisoft,72.0,7.4,0.17,0.12,0.01,0.32,0.62
+GM-5289,Solaris Awakening Reloaded,PC,2024,Strategy,Square Enix,94.0,7.6,5.16,0.32,1.17,0.32,6.97
+GM-5290,Urban Racer Turbo Evolution,Xbox Series X,2022,Racing,Square Enix,85.0,6.9,0.11,1.59,0.2,0.87,2.77
+GM-5291,Tactical Ops Elite Remastered,PS4,2021,Racing,Square Enix,81.0,7.5,0.27,1.54,2.07,0.6,4.48
+GM-5292,Chronicles of Destiny Origins,PS5,2019,Role-Playing,Ubisoft,95.0,9.8,2.62,0.06,0.39,0.31,3.38
+GM-5293,Tactical Ops Elite Reloaded,Nintendo Switch,2020,Adventure,Square Enix,68.0,5.3,2.69,2.92,0.59,0.2,6.4
+GM-5294,Galactic Odyssey,PS5,2021,Sports,Indie Studios,87.0,8.3,0.79,0.44,0.82,0.03,2.08
+GM-5295,Shadow Blade Evolution,Xbox One,2019,Puzzle,Nintendo,52.0,3.7,3.39,0.15,0.08,0.06,3.68
+GM-5296,Street Brawler Champion Remastered,Xbox Series X,2019,Shooter,Nintendo,78.0,7.4,0.85,1.59,2.94,0.43,5.81
+GM-5297,Tactical Ops Elite Origins,Xbox Series X,2019,Racing,Ubisoft,91.0,9.2,2.91,2.89,1.8,0.32,7.92
+GM-5298,Street Brawler Champion,PS5,2021,Puzzle,Sony Interactive,76.0,8.0,0.1,1.13,0.53,0.9,2.66
+GM-5299,Mythic Realm,Xbox One,2022,Role-Playing,Indie Studios,79.0,7.8,2.43,1.09,0.21,0.19,3.92
+GM-5300,Chronicles of Destiny Evolution,PS4,2022,Sports,Indie Studios,74.0,7.2,1.88,0.72,0.31,0.07,2.98
+GM-5301,Solaris Awakening Evolution,Xbox One,2021,Action,Capcom,66.0,7.3,0.01,1.21,2.16,0.37,3.75
+GM-5302,Tactical Ops Elite Part II,PC,2020,Sports,Electronic Arts,85.0,8.2,0.4,1.03,0.31,0.09,1.83
+GM-5303,Urban Racer Turbo Remastered,PS5,2023,Puzzle,Square Enix,85.0,9.5,0.4,0.11,0.52,0.32,1.35
+GM-5304,Starship Commander Origins,PC,2020,Shooter,Activision Blizzard,91.0,9.1,0.65,0.61,0.08,0.05,1.39
+GM-5305,Galactic Odyssey Remastered,Nintendo Switch,2022,Racing,Electronic Arts,89.0,9.5,1.22,1.14,0.01,0.07,2.44
+GM-5306,Tactical Ops Elite,PS4,2024,Adventure,Square Enix,78.0,7.4,0.29,1.39,0.73,0.11,2.52
+GM-5307,Apex Velocity Evolution,PS4,2021,Shooter,Ubisoft,62.0,7.5,0.32,1.45,0.1,0.77,2.64
+GM-5308,Street Brawler Champion,Xbox One,2022,Adventure,Square Enix,79.0,7.4,1.1,0.39,0.33,0.14,1.96
+GM-5309,Tactical Ops Elite Reloaded,Xbox Series X,2021,Sports,Square Enix,70.0,6.2,0.43,1.27,0.69,0.28,2.67
+GM-5310,Bio Hazard Zero,Nintendo Switch,2023,Racing,Capcom,79.0,8.8,1.45,0.37,1.35,0.01,3.18
+GM-5311,Dragon Slayer V Reloaded,PS4,2021,Adventure,Capcom,71.0,7.3,0.3,0.98,0.49,0.54,2.31
+GM-5312,Starship Commander Part II,PS4,2023,Role-Playing,Sony Interactive,62.0,7.1,1.48,0.18,0.38,0.28,2.32
+GM-5313,Shadow Blade Part II,PS5,2022,Action,Ubisoft,61.0,9.0,0.61,0.08,0.06,0.23,0.98
+GM-5314,Solaris Awakening Reloaded,Nintendo Switch,2021,Adventure,Electronic Arts,52.0,5.3,1.75,2.19,0.21,0.09,4.24
+GM-5315,Dragon Slayer V Evolution,Xbox One,2020,Adventure,Ubisoft,63.0,8.0,0.31,1.16,0.1,0.32,1.89
+GM-5316,Cyber Frontier 2088 Evolution,PS5,2022,Strategy,Indie Studios,80.0,8.5,0.37,0.22,0.34,0.68,1.61
+GM-5317,Apex Velocity Evolution,Xbox One,2023,Shooter,Capcom,89.0,9.0,0.01,0.04,1.46,0.6,2.11
+GM-5318,Street Brawler Champion Remastered,Xbox One,2022,Adventure,Sony Interactive,82.0,8.6,2.14,0.2,1.08,0.09,3.51
+GM-5319,Urban Racer Turbo Reloaded,PC,2023,Puzzle,Square Enix,99.0,9.5,1.03,0.11,0.21,1.65,3.0
+GM-5320,Pixel Dungeon Heroes Remastered,PS5,2024,Adventure,Ubisoft,80.0,8.9,0.06,2.55,0.49,0.81,3.91
+GM-5321,Dragon Slayer V,Xbox Series X,2023,Strategy,Ubisoft,82.0,8.9,0.52,0.45,0.22,0.01,1.2
+GM-5322,Galactic Odyssey,Xbox Series X,2022,Adventure,Indie Studios,85.0,8.9,0.23,0.86,0.0,0.04,1.13
+GM-5323,Tactical Ops Elite Evolution,PS5,2019,Sports,Electronic Arts,71.0,7.3,1.89,0.32,1.26,0.67,4.14
+GM-5324,Starship Commander Origins,PS5,2024,Puzzle,Sony Interactive,81.0,8.7,0.28,0.35,0.14,0.37,1.14
+GM-5325,Galactic Odyssey Evolution,PS4,2022,Adventure,Electronic Arts,78.0,5.7,5.34,0.36,0.94,0.1,6.74
+GM-5326,Mythic Realm,Nintendo Switch,2022,Action,Square Enix,82.0,7.9,1.24,0.23,0.15,0.27,1.89
+GM-5327,Street Brawler Champion Origins,Xbox Series X,2024,Action,Electronic Arts,75.0,8.8,0.62,0.88,0.83,0.61,2.94
+GM-5328,Mythic Realm Evolution,PS4,2021,Action,Activision Blizzard,86.0,9.6,4.8,2.94,0.93,0.51,9.18
+GM-5329,Dragon Slayer V,PS4,2021,Strategy,Nintendo,73.0,8.2,0.48,0.53,1.08,0.06,2.15
+GM-5330,Urban Racer Turbo Reloaded,Nintendo Switch,2022,Shooter,Electronic Arts,69.0,6.9,0.33,1.93,1.07,0.14,3.47
+GM-5331,Urban Racer Turbo Evolution,PS4,2023,Sports,Capcom,70.0,8.2,2.07,3.58,0.37,0.11,6.13
+GM-5332,Apex Velocity Part II,PC,2024,Role-Playing,Square Enix,65.0,6.7,1.28,0.76,1.16,0.3,3.5
+GM-5333,Kingdom of Legends Origins,Xbox One,2021,Strategy,Square Enix,81.0,9.7,0.4,0.94,1.03,0.01,2.38
+GM-5334,Cyber Frontier 2088,Xbox Series X,2022,Racing,Sony Interactive,60.0,5.2,0.75,0.46,1.07,0.13,2.41
+GM-5335,Street Brawler Champion,Nintendo Switch,2023,Racing,Ubisoft,93.0,9.8,0.53,0.58,0.15,1.08,2.34
+GM-5336,Bio Hazard Zero Origins,PS4,2022,Shooter,Sony Interactive,92.0,9.8,0.7,1.4,0.68,0.49,3.27
+GM-5337,Shadow Blade Evolution,PC,2022,Role-Playing,Capcom,60.0,5.6,2.61,1.03,0.35,1.15,5.14
+GM-5338,Street Brawler Champion Evolution,Xbox One,2019,Adventure,Sony Interactive,77.0,7.8,0.7,0.29,0.8,0.15,1.94
+GM-5339,Chronicles of Destiny Origins,Nintendo Switch,2020,Racing,Indie Studios,67.0,7.5,3.69,2.02,1.13,0.59,7.43
+GM-5340,Urban Racer Turbo Reloaded,Xbox One,2023,Shooter,Square Enix,81.0,9.1,0.53,2.41,1.1,0.26,4.3
+GM-5341,Bio Hazard Zero Reloaded,PS5,2019,Sports,Sony Interactive,70.0,7.1,3.91,3.59,0.13,0.45,8.08
+GM-5342,Solaris Awakening Reloaded,Xbox Series X,2019,Shooter,Capcom,65.0,7.5,1.71,0.51,0.09,0.21,2.52
+GM-5343,Tactical Ops Elite,Xbox Series X,2020,Puzzle,Nintendo,69.0,7.0,1.12,2.39,1.09,0.86,5.46
+GM-5344,Tactical Ops Elite Origins,Xbox Series X,2024,Action,Indie Studios,87.0,8.8,5.49,0.05,0.26,0.1,5.9
+GM-5345,Chronicles of Destiny Part II,PS5,2023,Role-Playing,Nintendo,65.0,6.8,0.99,1.27,0.91,0.01,3.18
+GM-5346,Street Brawler Champion Origins,Nintendo Switch,2023,Role-Playing,Ubisoft,91.0,9.3,2.47,0.23,0.07,0.51,3.28
+GM-5347,Bio Hazard Zero Remastered,PC,2020,Puzzle,Indie Studios,81.0,8.7,2.77,0.39,0.23,0.44,3.83
+GM-5348,Starship Commander,PC,2019,Strategy,Sony Interactive,85.0,8.9,0.8,1.59,0.12,0.16,2.67
+GM-5349,Dragon Slayer V,PS5,2024,Action,Nintendo,76.0,7.9,4.08,0.81,0.21,0.12,5.22
+GM-5350,Kingdom of Legends Evolution,PS4,2024,Action,Nintendo,79.0,6.9,1.22,1.48,0.41,0.13,3.24
+GM-5351,Pixel Dungeon Heroes Reloaded,PS5,2020,Adventure,Activision Blizzard,93.0,9.8,1.26,1.47,0.09,0.86,3.68
+GM-5352,Starship Commander,Nintendo Switch,2022,Racing,Capcom,74.0,6.5,2.79,2.51,0.18,0.5,5.98
+GM-5353,Urban Racer Turbo Part II,PS5,2019,Racing,Electronic Arts,76.0,7.2,1.78,1.75,0.25,0.0,3.78
+GM-5354,Bio Hazard Zero Part II,Xbox Series X,2022,Puzzle,Activision Blizzard,67.0,5.2,0.49,0.96,0.03,0.06,1.54
+GM-5355,Urban Racer Turbo Evolution,Nintendo Switch,2022,Strategy,Sony Interactive,80.0,7.2,0.08,0.58,0.12,0.05,0.83
+GM-5356,Chronicles of Destiny Evolution,Xbox Series X,2022,Role-Playing,Sony Interactive,96.0,9.1,0.93,1.81,0.12,1.28,4.14
+GM-5357,Shadow Blade Part II,PS4,2021,Puzzle,Nintendo,86.0,8.3,1.24,0.8,0.78,0.35,3.17
+GM-5358,Starship Commander,Xbox One,2020,Strategy,Ubisoft,66.0,6.9,2.46,5.04,0.28,0.24,8.02
+GM-5359,Galactic Odyssey Part II,PS4,2019,Sports,Electronic Arts,74.0,6.6,2.53,2.42,0.44,0.33,5.72
+GM-5360,Cyber Frontier 2088 Part II,PS4,2022,Adventure,Ubisoft,77.0,8.1,1.23,0.02,0.05,0.34,1.64
+GM-5361,Bio Hazard Zero Evolution,Xbox One,2024,Action,Indie Studios,93.0,9.4,2.75,1.15,0.25,0.25,4.4
+GM-5362,Shadow Blade Reloaded,PS5,2023,Adventure,Nintendo,81.0,7.9,0.39,1.52,0.6,0.55,3.06
+GM-5363,Kingdom of Legends Part II,Xbox Series X,2021,Racing,Square Enix,78.0,8.3,0.51,1.12,0.2,0.14,1.97
+GM-5364,Shadow Blade Evolution,Xbox One,2021,Shooter,Nintendo,76.0,8.5,1.7,0.55,0.18,1.24,3.67
+GM-5365,Mythic Realm Remastered,PS5,2022,Shooter,Square Enix,64.0,6.9,0.47,1.77,0.36,0.44,3.04
+GM-5366,Pixel Dungeon Heroes Evolution,Nintendo Switch,2021,Adventure,Electronic Arts,76.0,6.3,2.79,0.3,0.32,0.38,3.79
+GM-5367,Galactic Odyssey Reloaded,Nintendo Switch,2022,Strategy,Capcom,50.0,4.5,1.33,1.08,0.64,0.03,3.08
+GM-5368,Tactical Ops Elite,Nintendo Switch,2022,Shooter,Ubisoft,76.0,8.1,1.88,0.89,1.16,1.06,4.99
+GM-5369,Solaris Awakening Origins,Xbox One,2020,Puzzle,Activision Blizzard,51.0,4.1,0.78,0.15,1.01,0.01,1.95
+GM-5370,Mythic Realm Remastered,Xbox Series X,2022,Strategy,Indie Studios,62.0,6.7,3.54,2.01,0.38,0.21,6.14
+GM-5371,Urban Racer Turbo Reloaded,Nintendo Switch,2020,Adventure,Indie Studios,68.0,7.1,1.71,2.03,0.16,0.81,4.71
+GM-5372,Solaris Awakening Part II,Xbox Series X,2019,Role-Playing,Activision Blizzard,60.0,6.6,2.72,0.79,0.09,0.34,3.94
+GM-5373,Tactical Ops Elite,PS4,2021,Shooter,Activision Blizzard,85.0,8.8,0.79,0.38,0.01,0.34,1.52
+GM-5374,Solaris Awakening Evolution,PS5,2021,Role-Playing,Sony Interactive,62.0,5.8,0.84,4.58,0.21,0.37,6.0
+GM-5375,Dragon Slayer V Evolution,Xbox One,2023,Action,Capcom,66.0,7.5,1.42,2.25,0.01,0.23,3.91
+GM-5376,Urban Racer Turbo Evolution,Xbox Series X,2020,Action,Activision Blizzard,59.0,4.5,2.06,0.11,0.43,0.33,2.93
+GM-5377,Starship Commander Part II,PC,2022,Sports,Square Enix,67.0,7.9,4.35,0.72,0.51,0.7,6.28
+GM-5378,Mythic Realm Evolution,PS4,2021,Adventure,Electronic Arts,78.0,7.5,0.99,2.5,2.43,0.2,6.12
+GM-5379,Kingdom of Legends Evolution,PS4,2021,Role-Playing,Capcom,55.0,4.8,2.28,1.57,0.39,0.02,4.26
+GM-5380,Dragon Slayer V Evolution,PS5,2021,Shooter,Electronic Arts,86.0,8.1,0.14,1.8,0.66,0.53,3.13
+GM-5381,Galactic Odyssey Evolution,Xbox Series X,2021,Racing,Electronic Arts,87.0,9.8,2.2,0.65,0.38,0.41,3.64
+GM-5382,Kingdom of Legends Reloaded,PS4,2020,Sports,Indie Studios,81.0,8.1,0.06,0.42,0.23,0.4,1.11
+GM-5383,Cyber Frontier 2088 Origins,Xbox Series X,2020,Racing,Ubisoft,66.0,6.8,0.15,1.43,0.24,1.52,3.34
+GM-5384,Bio Hazard Zero Part II,Nintendo Switch,2019,Shooter,Sony Interactive,64.0,6.3,0.65,6.97,1.32,0.02,8.96
+GM-5385,Mythic Realm Remastered,PS4,2022,Strategy,Capcom,62.0,6.7,0.24,2.58,2.08,1.93,6.83
+GM-5386,Cyber Frontier 2088,PS5,2023,Action,Square Enix,61.0,7.1,0.28,0.09,0.71,0.61,1.69
+GM-5387,Pixel Dungeon Heroes Evolution,PS4,2023,Adventure,Activision Blizzard,81.0,9.3,0.45,4.41,1.37,0.06,6.29
+GM-5388,Bio Hazard Zero Remastered,PS4,2019,Sports,Capcom,86.0,9.8,4.12,0.29,0.05,0.12,4.58
+GM-5389,Starship Commander Part II,Nintendo Switch,2019,Role-Playing,Activision Blizzard,63.0,4.9,0.03,0.35,0.98,0.38,1.74
+GM-5390,Solaris Awakening Origins,PS4,2023,Puzzle,Square Enix,53.0,4.9,0.99,0.43,1.1,0.14,2.66
+GM-5391,Urban Racer Turbo Part II,PC,2022,Racing,Sony Interactive,80.0,7.4,3.67,1.03,0.49,1.3,6.49
+GM-5392,Cyber Frontier 2088 Evolution,PC,2022,Sports,Ubisoft,65.0,5.7,1.83,1.46,0.22,0.17,3.68
+GM-5393,Galactic Odyssey Part II,Xbox One,2024,Adventure,Ubisoft,73.0,6.6,0.1,1.89,0.06,0.45,2.5
+GM-5394,Bio Hazard Zero Part II,Xbox Series X,2019,Strategy,Nintendo,87.0,9.1,0.76,0.81,0.31,0.14,2.02
+GM-5395,Mythic Realm,PC,2023,Strategy,Nintendo,87.0,7.9,0.35,0.32,0.25,0.36,1.28
+GM-5396,Pixel Dungeon Heroes Part II,PC,2022,Racing,Ubisoft,66.0,7.2,0.02,1.65,1.03,0.02,2.72
+GM-5397,Apex Velocity Reloaded,Xbox One,2022,Puzzle,Sony Interactive,90.0,8.6,3.11,2.09,0.9,0.13,6.23
+GM-5398,Bio Hazard Zero Evolution,Xbox Series X,2023,Sports,Electronic Arts,68.0,6.8,0.92,3.14,1.31,0.04,5.41
+GM-5399,Galactic Odyssey Origins,PS5,2023,Sports,Sony Interactive,68.0,7.5,0.96,1.37,0.35,0.05,2.73
+GM-5400,Street Brawler Champion,Xbox Series X,2023,Puzzle,Sony Interactive,79.0,8.4,2.23,0.49,0.12,0.41,3.25
+GM-5401,Apex Velocity Remastered,Xbox One,2021,Adventure,Nintendo,52.0,4.2,4.17,0.18,0.01,0.11,4.47
+GM-5402,Galactic Odyssey Part II,PS4,2023,Racing,Indie Studios,68.0,6.2,0.21,1.38,0.04,0.16,1.79
+GM-5403,Pixel Dungeon Heroes,PC,2021,Sports,Electronic Arts,96.0,9.8,1.14,2.94,1.82,0.18,6.08
+GM-5404,Tactical Ops Elite,PS4,2023,Adventure,Electronic Arts,81.0,8.3,0.89,0.83,0.32,0.76,2.8
+GM-5405,Apex Velocity Remastered,Nintendo Switch,2020,Racing,Nintendo,68.0,5.7,0.39,0.91,0.09,0.15,1.54
+GM-5406,Chronicles of Destiny Part II,PC,2024,Sports,Nintendo,93.0,8.9,0.18,0.31,0.99,0.58,2.06
+GM-5407,Pixel Dungeon Heroes Reloaded,PS4,2021,Puzzle,Electronic Arts,75.0,7.9,0.33,1.08,0.69,0.05,2.15
+GM-5408,Street Brawler Champion Evolution,Xbox Series X,2023,Racing,Sony Interactive,75.0,7.2,0.6,1.48,0.23,0.7,3.01
+GM-5409,Mythic Realm,PS4,2022,Role-Playing,Nintendo,75.0,7.4,0.17,0.33,1.1,0.01,1.61
+GM-5410,Urban Racer Turbo Remastered,Xbox Series X,2022,Action,Capcom,97.0,9.8,0.97,1.72,0.09,0.15,2.93
+GM-5411,Apex Velocity Remastered,Nintendo Switch,2022,Action,Capcom,66.0,7.9,3.12,0.59,0.31,0.01,4.03
+GM-5412,Starship Commander Part II,PC,2022,Strategy,Nintendo,68.0,7.1,0.55,1.67,0.27,0.11,2.6
+GM-5413,Street Brawler Champion Reloaded,Nintendo Switch,2022,Racing,Ubisoft,77.0,7.6,0.17,1.35,0.42,0.82,2.76
+GM-5414,Apex Velocity Reloaded,Nintendo Switch,2020,Puzzle,Activision Blizzard,84.0,9.8,0.98,0.74,0.77,1.11,3.6
+GM-5415,Urban Racer Turbo Reloaded,Xbox One,2019,Action,Nintendo,94.0,9.8,0.33,0.3,0.65,0.96,2.24
+GM-5416,Starship Commander Origins,PC,2024,Shooter,Square Enix,71.0,6.9,0.09,2.23,0.21,0.0,2.53
+GM-5417,Bio Hazard Zero Evolution,PS5,2020,Sports,Capcom,58.0,5.9,0.61,0.44,0.01,0.06,1.12
+GM-5418,Pixel Dungeon Heroes Origins,Nintendo Switch,2022,Adventure,Capcom,72.0,6.9,0.65,1.56,0.52,0.47,3.2
+GM-5419,Dragon Slayer V Part II,PS4,2022,Adventure,Capcom,92.0,8.8,0.86,3.23,0.38,0.83,5.3
+GM-5420,Kingdom of Legends Evolution,PC,2023,Racing,Electronic Arts,79.0,8.3,0.69,0.12,0.7,1.54,3.05
+GM-5421,Shadow Blade Evolution,PS4,2023,Racing,Activision Blizzard,70.0,6.5,0.63,0.2,0.52,1.48,2.83
+GM-5422,Solaris Awakening,Nintendo Switch,2023,Puzzle,Electronic Arts,79.0,6.3,0.59,0.13,0.35,0.12,1.19
+GM-5423,Dragon Slayer V,PS5,2024,Shooter,Indie Studios,90.0,9.7,0.91,1.27,0.27,0.44,2.89
+GM-5424,Urban Racer Turbo Remastered,Xbox Series X,2019,Role-Playing,Ubisoft,91.0,8.7,2.44,1.39,0.14,0.11,4.08
+GM-5425,Starship Commander,Nintendo Switch,2024,Action,Electronic Arts,71.0,6.4,0.35,0.76,0.39,0.93,2.43
+GM-5426,Mythic Realm Evolution,PS5,2019,Role-Playing,Electronic Arts,86.0,7.3,1.39,0.72,1.01,0.03,3.15
+GM-5427,Shadow Blade Part II,PC,2023,Role-Playing,Nintendo,62.0,6.2,3.25,1.15,0.11,0.01,4.52
+GM-5428,Tactical Ops Elite Remastered,Nintendo Switch,2020,Role-Playing,Sony Interactive,61.0,6.4,0.38,0.03,0.77,0.67,1.85
+GM-5429,Dragon Slayer V Part II,PC,2023,Adventure,Sony Interactive,84.0,8.6,0.89,0.63,0.92,0.04,2.48
+GM-5430,Chronicles of Destiny Part II,Xbox One,2022,Racing,Indie Studios,80.0,8.3,4.69,1.32,0.14,0.01,6.16
+GM-5431,Chronicles of Destiny Evolution,Xbox One,2022,Adventure,Ubisoft,56.0,5.7,0.2,0.97,0.87,1.99,4.03
+GM-5432,Bio Hazard Zero Reloaded,PS4,2023,Shooter,Electronic Arts,81.0,9.1,6.39,1.12,1.18,1.17,9.86
+GM-5433,Galactic Odyssey Reloaded,Nintendo Switch,2024,Shooter,Sony Interactive,67.0,6.5,0.28,0.07,0.07,0.08,0.5
+GM-5434,Bio Hazard Zero Remastered,Nintendo Switch,2021,Puzzle,Square Enix,97.0,9.8,0.36,1.23,0.73,0.33,2.65
+GM-5435,Tactical Ops Elite,PC,2024,Shooter,Sony Interactive,63.0,6.1,1.25,0.56,0.2,0.07,2.08
+GM-5436,Tactical Ops Elite Evolution,PS5,2021,Role-Playing,Activision Blizzard,91.0,9.8,0.27,0.15,0.02,0.01,0.45
+GM-5437,Solaris Awakening Origins,PS4,2023,Strategy,Square Enix,82.0,8.1,2.69,0.74,0.86,0.72,5.01
+GM-5438,Street Brawler Champion Remastered,Xbox Series X,2021,Shooter,Indie Studios,75.0,8.3,1.13,8.95,1.11,0.18,11.37
+GM-5439,Galactic Odyssey Remastered,PS4,2019,Action,Activision Blizzard,93.0,9.8,1.58,3.78,1.19,0.24,6.79
+GM-5440,Urban Racer Turbo Origins,PS4,2019,Role-Playing,Nintendo,99.0,9.7,1.4,0.85,0.38,0.14,2.77
+GM-5441,Street Brawler Champion Evolution,Nintendo Switch,2021,Role-Playing,Activision Blizzard,61.0,6.1,0.62,0.43,0.53,0.03,1.61
+GM-5442,Starship Commander Evolution,PS4,2023,Adventure,Indie Studios,98.0,9.8,1.82,0.38,0.38,1.25,3.83
+GM-5443,Dragon Slayer V Remastered,PC,2023,Shooter,Square Enix,53.0,6.1,0.48,1.81,0.27,0.15,2.71
+GM-5444,Mythic Realm Reloaded,Xbox One,2023,Racing,Sony Interactive,71.0,7.9,2.68,2.09,0.33,0.03,5.13
+GM-5445,Bio Hazard Zero Part II,Nintendo Switch,2019,Role-Playing,Capcom,50.0,5.3,8.78,1.63,0.86,1.24,12.51
+GM-5446,Starship Commander Origins,Xbox One,2023,Shooter,Square Enix,64.0,6.0,2.05,0.52,0.38,0.4,3.35
+GM-5447,Apex Velocity Origins,PS4,2024,Action,Activision Blizzard,92.0,8.9,0.47,1.32,0.0,0.82,2.61
+GM-5448,Cyber Frontier 2088 Evolution,PS5,2019,Puzzle,Square Enix,75.0,6.1,0.82,0.23,0.24,0.52,1.81
+GM-5449,Kingdom of Legends Part II,Xbox Series X,2022,Racing,Square Enix,77.0,7.6,0.08,0.86,0.18,0.35,1.47
